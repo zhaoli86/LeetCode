@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\HIndexII\bin\Debug\netcoreapp3.1\HIndexII.exe
+C:\Users\zhaol\source\repos\LeetCode\HIndexII\bin\Debug\netcoreapp3.1\HIndexII.deps.json
+C:\Users\zhaol\source\repos\LeetCode\HIndexII\bin\Debug\netcoreapp3.1\HIndexII.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\HIndexII\bin\Debug\netcoreapp3.1\HIndexII.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\HIndexII\bin\Debug\netcoreapp3.1\HIndexII.dll
+C:\Users\zhaol\source\repos\LeetCode\HIndexII\bin\Debug\netcoreapp3.1\HIndexII.pdb
+C:\Users\zhaol\source\repos\LeetCode\HIndexII\obj\Debug\netcoreapp3.1\HIndexII.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\HIndexII\obj\Debug\netcoreapp3.1\HIndexII.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\HIndexII\obj\Debug\netcoreapp3.1\HIndexII.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\HIndexII\obj\Debug\netcoreapp3.1\HIndexII.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\HIndexII\obj\Debug\netcoreapp3.1\HIndexII.dll
+C:\Users\zhaol\source\repos\LeetCode\HIndexII\obj\Debug\netcoreapp3.1\HIndexII.pdb
+C:\Users\zhaol\source\repos\LeetCode\HIndexII\obj\Debug\netcoreapp3.1\HIndexII.genruntimeconfig.cache

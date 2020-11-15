@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Array", "Array", "{C0CD2C73-7DC4-45B7-A854-A62E06C6F228}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MajorityElementII", "MajorityElementII\MajorityElementII.csproj", "{CCCBBE0A-1D24-44D0-87A6-289059D32CCE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveElement", "RemoveElement\RemoveElement.csproj", "{6D8527C1-58A5-44F3-B8BA-7D07DC4E3219}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveDuplicatesFromSortedArray", "RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray.csproj", "{3E69DC38-37C4-4F97-AEA4-48666E6E830E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveDuplicatesFromSortedArrayII", "RemoveDuplicatesFromSortedArrayII\RemoveDuplicatesFromSortedArrayII.csproj", "{A937075C-BEEF-43E0-9886-DC358A9F4615}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HIndexII", "HIndexII\HIndexII.csproj", "{11158119-871A-454A-9C6E-2211A724382F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WeChatGroup", "WeChatGroup", "{3D638725-3CA7-49FE-AB14-4C07834768AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistributeRepeatingIntegers", "DistributeRepeatingIntegers\DistributeRepeatingIntegers.csproj", "{FCFE794C-33F7-43AC-BE1E-51AD1549BA84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCCBBE0A-1D24-44D0-87A6-289059D32CCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCCBBE0A-1D24-44D0-87A6-289059D32CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCCBBE0A-1D24-44D0-87A6-289059D32CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCCBBE0A-1D24-44D0-87A6-289059D32CCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D8527C1-58A5-44F3-B8BA-7D07DC4E3219}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D8527C1-58A5-44F3-B8BA-7D07DC4E3219}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D8527C1-58A5-44F3-B8BA-7D07DC4E3219}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D8527C1-58A5-44F3-B8BA-7D07DC4E3219}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E69DC38-37C4-4F97-AEA4-48666E6E830E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E69DC38-37C4-4F97-AEA4-48666E6E830E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E69DC38-37C4-4F97-AEA4-48666E6E830E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E69DC38-37C4-4F97-AEA4-48666E6E830E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A937075C-BEEF-43E0-9886-DC358A9F4615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A937075C-BEEF-43E0-9886-DC358A9F4615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A937075C-BEEF-43E0-9886-DC358A9F4615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A937075C-BEEF-43E0-9886-DC358A9F4615}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11158119-871A-454A-9C6E-2211A724382F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11158119-871A-454A-9C6E-2211A724382F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11158119-871A-454A-9C6E-2211A724382F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11158119-871A-454A-9C6E-2211A724382F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCFE794C-33F7-43AC-BE1E-51AD1549BA84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCFE794C-33F7-43AC-BE1E-51AD1549BA84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCFE794C-33F7-43AC-BE1E-51AD1549BA84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCFE794C-33F7-43AC-BE1E-51AD1549BA84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CCCBBE0A-1D24-44D0-87A6-289059D32CCE} = {C0CD2C73-7DC4-45B7-A854-A62E06C6F228}
+		{6D8527C1-58A5-44F3-B8BA-7D07DC4E3219} = {C0CD2C73-7DC4-45B7-A854-A62E06C6F228}
+		{3E69DC38-37C4-4F97-AEA4-48666E6E830E} = {C0CD2C73-7DC4-45B7-A854-A62E06C6F228}
+		{A937075C-BEEF-43E0-9886-DC358A9F4615} = {C0CD2C73-7DC4-45B7-A854-A62E06C6F228}
+		{11158119-871A-454A-9C6E-2211A724382F} = {C0CD2C73-7DC4-45B7-A854-A62E06C6F228}
+		{FCFE794C-33F7-43AC-BE1E-51AD1549BA84} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9932E0CB-C080-4D35-8DAD-DBAAF171EA4A}
+	EndGlobalSection
+EndGlobal
