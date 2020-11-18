@@ -8,7 +8,7 @@ namespace LongestCommonSubsequence
         {
             var m = text1.Length;
             var n = text2.Length;
-            if (m<n)
+            if (m<n)`
             {
                 return LongestCommonSubsequence(text2, text1);
             }

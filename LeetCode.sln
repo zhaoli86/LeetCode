@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistributeRepeatingIntegers
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonSubsequence", "LongestCommonSubsequence\LongestCommonSubsequence.csproj", "{0024B107-3E90-44F3-AB44-C4FE9DE8FB03}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterleavingString", "InterleavingString\InterleavingString.csproj", "{FB4607F9-B031-4B98-8A12-215033A0DAFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,10 @@ Global
 		{0024B107-3E90-44F3-AB44-C4FE9DE8FB03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0024B107-3E90-44F3-AB44-C4FE9DE8FB03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0024B107-3E90-44F3-AB44-C4FE9DE8FB03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB4607F9-B031-4B98-8A12-215033A0DAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB4607F9-B031-4B98-8A12-215033A0DAFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB4607F9-B031-4B98-8A12-215033A0DAFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB4607F9-B031-4B98-8A12-215033A0DAFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -67,6 +73,7 @@ Global
 		{11158119-871A-454A-9C6E-2211A724382F} = {C0CD2C73-7DC4-45B7-A854-A62E06C6F228}
 		{FCFE794C-33F7-43AC-BE1E-51AD1549BA84} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{0024B107-3E90-44F3-AB44-C4FE9DE8FB03} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{FB4607F9-B031-4B98-8A12-215033A0DAFC} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9932E0CB-C080-4D35-8DAD-DBAAF171EA4A}
