@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterleavingString", "Inter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditDistance", "EditDistance\EditDistance.csproj", "{2C580B50-4435-4131-8EF6-EF3BFECCAB5D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumAsciiDeleteSumForTwoStrings", "MinimumAsciiDeleteSumForTwoStrings\MinimumAsciiDeleteSumForTwoStrings.csproj", "{F1B2D28A-201E-4EA3-975C-C2E9091FB6FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +69,10 @@ Global
 		{2C580B50-4435-4131-8EF6-EF3BFECCAB5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C580B50-4435-4131-8EF6-EF3BFECCAB5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C580B50-4435-4131-8EF6-EF3BFECCAB5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1B2D28A-201E-4EA3-975C-C2E9091FB6FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B2D28A-201E-4EA3-975C-C2E9091FB6FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1B2D28A-201E-4EA3-975C-C2E9091FB6FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1B2D28A-201E-4EA3-975C-C2E9091FB6FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -81,6 +87,7 @@ Global
 		{0024B107-3E90-44F3-AB44-C4FE9DE8FB03} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{FB4607F9-B031-4B98-8A12-215033A0DAFC} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{2C580B50-4435-4131-8EF6-EF3BFECCAB5D} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{F1B2D28A-201E-4EA3-975C-C2E9091FB6FB} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9932E0CB-C080-4D35-8DAD-DBAAF171EA4A}
