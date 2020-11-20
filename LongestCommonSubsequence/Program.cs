@@ -4,13 +4,13 @@ namespace LongestCommonSubsequence
 {
     public class Solution
     {
-        public int LongestCommonSubsequence(string text1, string text2)
+        public int LongestCommonSubsequence2(string text1, string text2)
         {
             var m = text1.Length;
             var n = text2.Length;
-            if (m<n)`
+            if (m<n)
             {
-                return LongestCommonSubsequence(text2, text1);
+                return LongestCommonSubsequence2(text2, text1);
             }
 
             var t = new int[m+1, n+1];
@@ -31,6 +31,32 @@ namespace LongestCommonSubsequence
             }
 
             return t[m, n];
+        }
+
+        public int LongestCommonSubsequence(string text1, string text2)
+        {
+            int m = text1.Length;
+            int n = text2.Length;
+            var t = new int[n + 1];
+            int pre, cur;
+            for (int i = 1; i <= m; i++)
+            {
+                pre = 0;
+                for (int j = 1; j <= n; j++)
+                {
+                    cur = t[j];
+                    if (text1[i-1]==text2[j-1])
+                    {
+                        t[j] = 1 + pre;
+                    }
+                    else
+                    {
+                        t[j] = Math.Max(t[j - 1], cur);
+                    }
+                    pre = cur;
+                }
+            }
+            return t[n];
         }
     }
 
