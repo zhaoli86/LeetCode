@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\Max Dot Product of Two Subsequences\bin\Debug\netcoreapp3.1\Max Dot Product of Two Subsequences.exe
+C:\Users\zhaol\source\repos\LeetCode\Max Dot Product of Two Subsequences\bin\Debug\netcoreapp3.1\Max Dot Product of Two Subsequences.deps.json
+C:\Users\zhaol\source\repos\LeetCode\Max Dot Product of Two Subsequences\bin\Debug\netcoreapp3.1\Max Dot Product of Two Subsequences.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\Max Dot Product of Two Subsequences\bin\Debug\netcoreapp3.1\Max Dot Product of Two Subsequences.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\Max Dot Product of Two Subsequences\bin\Debug\netcoreapp3.1\Max Dot Product of Two Subsequences.dll
+C:\Users\zhaol\source\repos\LeetCode\Max Dot Product of Two Subsequences\bin\Debug\netcoreapp3.1\Max Dot Product of Two Subsequences.pdb
+C:\Users\zhaol\source\repos\LeetCode\Max Dot Product of Two Subsequences\obj\Debug\netcoreapp3.1\Max Dot Product of Two Subsequences.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\Max Dot Product of Two Subsequences\obj\Debug\netcoreapp3.1\Max Dot Product of Two Subsequences.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\Max Dot Product of Two Subsequences\obj\Debug\netcoreapp3.1\Max Dot Product of Two Subsequences.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\Max Dot Product of Two Subsequences\obj\Debug\netcoreapp3.1\Max Dot Product of Two Subsequences.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\Max Dot Product of Two Subsequences\obj\Debug\netcoreapp3.1\Max Dot Product of Two Subsequences.dll
+C:\Users\zhaol\source\repos\LeetCode\Max Dot Product of Two Subsequences\obj\Debug\netcoreapp3.1\Max Dot Product of Two Subsequences.pdb
+C:\Users\zhaol\source\repos\LeetCode\Max Dot Product of Two Subsequences\obj\Debug\netcoreapp3.1\Max Dot Product of Two Subsequences.genruntimeconfig.cache
