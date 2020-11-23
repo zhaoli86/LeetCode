@@ -30,7 +30,7 @@ namespace Max_Dot_Product_of_Two_Subsequences
             return (int)t[m, n];
         }
     }
-
+    public delegate void aaa();
     class Program
     {
         static void Main(string[] args)

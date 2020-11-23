@@ -17,19 +17,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HIndexII", "HIndexII\HIndex
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WeChatGroup", "WeChatGroup", "{3D638725-3CA7-49FE-AB14-4C07834768AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistributeRepeatingIntegers", "DistributeRepeatingIntegers\DistributeRepeatingIntegers.csproj", "{FCFE794C-33F7-43AC-BE1E-51AD1549BA84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DistributeRepeatingIntegers", "DistributeRepeatingIntegers\DistributeRepeatingIntegers.csproj", "{FCFE794C-33F7-43AC-BE1E-51AD1549BA84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonSubsequence", "LongestCommonSubsequence\LongestCommonSubsequence.csproj", "{0024B107-3E90-44F3-AB44-C4FE9DE8FB03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestCommonSubsequence", "LongestCommonSubsequence\LongestCommonSubsequence.csproj", "{0024B107-3E90-44F3-AB44-C4FE9DE8FB03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterleavingString", "InterleavingString\InterleavingString.csproj", "{FB4607F9-B031-4B98-8A12-215033A0DAFC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterleavingString", "InterleavingString\InterleavingString.csproj", "{FB4607F9-B031-4B98-8A12-215033A0DAFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditDistance", "EditDistance\EditDistance.csproj", "{2C580B50-4435-4131-8EF6-EF3BFECCAB5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EditDistance", "EditDistance\EditDistance.csproj", "{2C580B50-4435-4131-8EF6-EF3BFECCAB5D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumAsciiDeleteSumForTwoStrings", "MinimumAsciiDeleteSumForTwoStrings\MinimumAsciiDeleteSumForTwoStrings.csproj", "{F1B2D28A-201E-4EA3-975C-C2E9091FB6FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimumAsciiDeleteSumForTwoStrings", "MinimumAsciiDeleteSumForTwoStrings\MinimumAsciiDeleteSumForTwoStrings.csproj", "{F1B2D28A-201E-4EA3-975C-C2E9091FB6FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteOperationForTwoStrings", "DeleteOperationForTwoStrings\DeleteOperationForTwoStrings.csproj", "{165BAD85-1C1C-4BFE-8808-3A9CF55152A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeleteOperationForTwoStrings", "DeleteOperationForTwoStrings\DeleteOperationForTwoStrings.csproj", "{165BAD85-1C1C-4BFE-8808-3A9CF55152A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Max Dot Product of Two Subsequences", "Max Dot Product of Two Subsequences\Max Dot Product of Two Subsequences.csproj", "{235B13C4-A4E2-4749-8434-CEECFE294120}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Max Dot Product of Two Subsequences", "Max Dot Product of Two Subsequences\Max Dot Product of Two Subsequences.csproj", "{235B13C4-A4E2-4749-8434-CEECFE294120}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertMinStepsToMakeStringPalindrome", "InsertMinStepsToMakeStringPalindrome\InsertMinStepsToMakeStringPalindrome.csproj", "{049F8ACD-5BF2-4FA9-B032-70C6C31DD3E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -85,6 +87,10 @@ Global
 		{235B13C4-A4E2-4749-8434-CEECFE294120}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{235B13C4-A4E2-4749-8434-CEECFE294120}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{235B13C4-A4E2-4749-8434-CEECFE294120}.Release|Any CPU.Build.0 = Release|Any CPU
+		{049F8ACD-5BF2-4FA9-B032-70C6C31DD3E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{049F8ACD-5BF2-4FA9-B032-70C6C31DD3E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{049F8ACD-5BF2-4FA9-B032-70C6C31DD3E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{049F8ACD-5BF2-4FA9-B032-70C6C31DD3E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -102,6 +108,7 @@ Global
 		{F1B2D28A-201E-4EA3-975C-C2E9091FB6FB} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{165BAD85-1C1C-4BFE-8808-3A9CF55152A8} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{235B13C4-A4E2-4749-8434-CEECFE294120} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{049F8ACD-5BF2-4FA9-B032-70C6C31DD3E1} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9932E0CB-C080-4D35-8DAD-DBAAF171EA4A}
