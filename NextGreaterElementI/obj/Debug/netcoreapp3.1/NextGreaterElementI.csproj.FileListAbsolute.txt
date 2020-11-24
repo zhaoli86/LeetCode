@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\NextGreaterElementI\bin\Debug\netcoreapp3.1\NextGreaterElementI.exe
+C:\Users\zhaol\source\repos\LeetCode\NextGreaterElementI\obj\Debug\netcoreapp3.1\NextGreaterElementI.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\NextGreaterElementI\obj\Debug\netcoreapp3.1\NextGreaterElementI.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\NextGreaterElementI\bin\Debug\netcoreapp3.1\NextGreaterElementI.deps.json
+C:\Users\zhaol\source\repos\LeetCode\NextGreaterElementI\bin\Debug\netcoreapp3.1\NextGreaterElementI.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\NextGreaterElementI\bin\Debug\netcoreapp3.1\NextGreaterElementI.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\NextGreaterElementI\bin\Debug\netcoreapp3.1\NextGreaterElementI.dll
+C:\Users\zhaol\source\repos\LeetCode\NextGreaterElementI\bin\Debug\netcoreapp3.1\NextGreaterElementI.pdb
+C:\Users\zhaol\source\repos\LeetCode\NextGreaterElementI\obj\Debug\netcoreapp3.1\NextGreaterElementI.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\NextGreaterElementI\obj\Debug\netcoreapp3.1\NextGreaterElementI.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\NextGreaterElementI\obj\Debug\netcoreapp3.1\NextGreaterElementI.dll
+C:\Users\zhaol\source\repos\LeetCode\NextGreaterElementI\obj\Debug\netcoreapp3.1\NextGreaterElementI.pdb
+C:\Users\zhaol\source\repos\LeetCode\NextGreaterElementI\obj\Debug\netcoreapp3.1\NextGreaterElementI.genruntimeconfig.cache
