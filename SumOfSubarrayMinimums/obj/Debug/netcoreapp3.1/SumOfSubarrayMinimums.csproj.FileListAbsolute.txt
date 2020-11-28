@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\SumOfSubarrayMinimums\bin\Debug\netcoreapp3.1\SumOfSubarrayMinimums.exe
+C:\Users\zhaol\source\repos\LeetCode\SumOfSubarrayMinimums\bin\Debug\netcoreapp3.1\SumOfSubarrayMinimums.deps.json
+C:\Users\zhaol\source\repos\LeetCode\SumOfSubarrayMinimums\bin\Debug\netcoreapp3.1\SumOfSubarrayMinimums.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\SumOfSubarrayMinimums\bin\Debug\netcoreapp3.1\SumOfSubarrayMinimums.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\SumOfSubarrayMinimums\bin\Debug\netcoreapp3.1\SumOfSubarrayMinimums.dll
+C:\Users\zhaol\source\repos\LeetCode\SumOfSubarrayMinimums\bin\Debug\netcoreapp3.1\SumOfSubarrayMinimums.pdb
+C:\Users\zhaol\source\repos\LeetCode\SumOfSubarrayMinimums\obj\Debug\netcoreapp3.1\SumOfSubarrayMinimums.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\SumOfSubarrayMinimums\obj\Debug\netcoreapp3.1\SumOfSubarrayMinimums.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\SumOfSubarrayMinimums\obj\Debug\netcoreapp3.1\SumOfSubarrayMinimums.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\SumOfSubarrayMinimums\obj\Debug\netcoreapp3.1\SumOfSubarrayMinimums.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\SumOfSubarrayMinimums\obj\Debug\netcoreapp3.1\SumOfSubarrayMinimums.dll
+C:\Users\zhaol\source\repos\LeetCode\SumOfSubarrayMinimums\obj\Debug\netcoreapp3.1\SumOfSubarrayMinimums.pdb
+C:\Users\zhaol\source\repos\LeetCode\SumOfSubarrayMinimums\obj\Debug\netcoreapp3.1\SumOfSubarrayMinimums.genruntimeconfig.cache

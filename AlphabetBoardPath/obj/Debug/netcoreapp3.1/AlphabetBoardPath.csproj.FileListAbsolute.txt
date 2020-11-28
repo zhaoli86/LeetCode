@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\AlphabetBoardPath\obj\Debug\netcoreapp3.1\AlphabetBoardPath.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\AlphabetBoardPath\obj\Debug\netcoreapp3.1\AlphabetBoardPath.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\AlphabetBoardPath\obj\Debug\netcoreapp3.1\AlphabetBoardPath.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\AlphabetBoardPath\bin\Debug\netcoreapp3.1\AlphabetBoardPath.exe
+C:\Users\zhaol\source\repos\LeetCode\AlphabetBoardPath\bin\Debug\netcoreapp3.1\AlphabetBoardPath.deps.json
+C:\Users\zhaol\source\repos\LeetCode\AlphabetBoardPath\bin\Debug\netcoreapp3.1\AlphabetBoardPath.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\AlphabetBoardPath\bin\Debug\netcoreapp3.1\AlphabetBoardPath.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\AlphabetBoardPath\bin\Debug\netcoreapp3.1\AlphabetBoardPath.dll
+C:\Users\zhaol\source\repos\LeetCode\AlphabetBoardPath\bin\Debug\netcoreapp3.1\AlphabetBoardPath.pdb
+C:\Users\zhaol\source\repos\LeetCode\AlphabetBoardPath\obj\Debug\netcoreapp3.1\AlphabetBoardPath.dll
+C:\Users\zhaol\source\repos\LeetCode\AlphabetBoardPath\obj\Debug\netcoreapp3.1\AlphabetBoardPath.pdb
+C:\Users\zhaol\source\repos\LeetCode\AlphabetBoardPath\obj\Debug\netcoreapp3.1\AlphabetBoardPath.genruntimeconfig.cache
+C:\Users\zhaol\source\repos\LeetCode\AlphabetBoardPath\obj\Debug\netcoreapp3.1\AlphabetBoardPath.csprojAssemblyReference.cache

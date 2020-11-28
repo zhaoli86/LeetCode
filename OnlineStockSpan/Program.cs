@@ -20,6 +20,7 @@ namespace OnlineStockSpan
 
         public int Next(int price)
         {
+            
             var result = 1;
             while (stack.Count!=0 && stack.Peek().Val <= price)
             {
