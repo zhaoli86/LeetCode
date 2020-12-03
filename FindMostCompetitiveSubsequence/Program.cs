@@ -15,7 +15,7 @@ namespace FindMostCompetitiveSubsequence
                 {
                     stack.Pop();
                 }
-                if (result.Length < k)
+                if (stack.Count < k)
                 {
                     stack.Push(i);
                 }
