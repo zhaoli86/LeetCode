@@ -51,13 +51,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxWidthRamp", "MaxWidthRam
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindMostCompetitiveSubsequence", "FindMostCompetitiveSubsequence\FindMostCompetitiveSubsequence.csproj", "{7DA34BEC-0651-4C07-94A9-972BDF57804B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "132Pattern", "132Pattern\132Pattern.csproj", "{6CCC3C8D-ACA8-4898-9075-0A7C0A245D97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "132Pattern", "132Pattern\132Pattern.csproj", "{6CCC3C8D-ACA8-4898-9075-0A7C0A245D97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidateStackSequence", "ValidateStackSequence\ValidateStackSequence.csproj", "{B3D1020B-40AC-4940-8A11-7DA06221A5F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidateStackSequence", "ValidateStackSequence\ValidateStackSequence.csproj", "{B3D1020B-40AC-4940-8A11-7DA06221A5F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinStack", "MinStack\MinStack.csproj", "{68E6AAB2-D525-423A-B245-05F96EC386A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinStack", "MinStack\MinStack.csproj", "{68E6AAB2-D525-423A-B245-05F96EC386A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveKDigits", "RemoveKDigits\RemoveKDigits.csproj", "{C12EA864-2657-4D7A-B35A-A26413FE692A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveKDigits", "RemoveKDigits\RemoveKDigits.csproj", "{C12EA864-2657-4D7A-B35A-A26413FE692A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExclusiveTimeOfFunctions", "ExclusiveTimeOfFunctions\ExclusiveTimeOfFunctions.csproj", "{EAABB915-D231-4672-8FF4-DD65DFF2DB37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveAllAdjacentDuplicatesInString", "RemoveAllAdjacentDuplicatesInString\RemoveAllAdjacentDuplicatesInString.csproj", "{29E6A6AF-76D1-4470-8C40-EEA1F06F754D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveAllAdjacentDuplicatesInStringII", "RemoveAllAdjacentDuplicatesInStringII\RemoveAllAdjacentDuplicatesInStringII.csproj", "{BA463A6A-6BB5-46AF-8A9B-5D28D0A03120}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -169,6 +175,18 @@ Global
 		{C12EA864-2657-4D7A-B35A-A26413FE692A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C12EA864-2657-4D7A-B35A-A26413FE692A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C12EA864-2657-4D7A-B35A-A26413FE692A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAABB915-D231-4672-8FF4-DD65DFF2DB37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAABB915-D231-4672-8FF4-DD65DFF2DB37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAABB915-D231-4672-8FF4-DD65DFF2DB37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAABB915-D231-4672-8FF4-DD65DFF2DB37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29E6A6AF-76D1-4470-8C40-EEA1F06F754D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29E6A6AF-76D1-4470-8C40-EEA1F06F754D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29E6A6AF-76D1-4470-8C40-EEA1F06F754D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29E6A6AF-76D1-4470-8C40-EEA1F06F754D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA463A6A-6BB5-46AF-8A9B-5D28D0A03120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA463A6A-6BB5-46AF-8A9B-5D28D0A03120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA463A6A-6BB5-46AF-8A9B-5D28D0A03120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA463A6A-6BB5-46AF-8A9B-5D28D0A03120}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -200,6 +218,9 @@ Global
 		{B3D1020B-40AC-4940-8A11-7DA06221A5F1} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{68E6AAB2-D525-423A-B245-05F96EC386A6} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{C12EA864-2657-4D7A-B35A-A26413FE692A} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{EAABB915-D231-4672-8FF4-DD65DFF2DB37} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{29E6A6AF-76D1-4470-8C40-EEA1F06F754D} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{BA463A6A-6BB5-46AF-8A9B-5D28D0A03120} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9932E0CB-C080-4D35-8DAD-DBAAF171EA4A}
