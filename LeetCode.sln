@@ -59,11 +59,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinStack", "MinStack\MinSta
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveKDigits", "RemoveKDigits\RemoveKDigits.csproj", "{C12EA864-2657-4D7A-B35A-A26413FE692A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExclusiveTimeOfFunctions", "ExclusiveTimeOfFunctions\ExclusiveTimeOfFunctions.csproj", "{EAABB915-D231-4672-8FF4-DD65DFF2DB37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExclusiveTimeOfFunctions", "ExclusiveTimeOfFunctions\ExclusiveTimeOfFunctions.csproj", "{EAABB915-D231-4672-8FF4-DD65DFF2DB37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveAllAdjacentDuplicatesInString", "RemoveAllAdjacentDuplicatesInString\RemoveAllAdjacentDuplicatesInString.csproj", "{29E6A6AF-76D1-4470-8C40-EEA1F06F754D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveAllAdjacentDuplicatesInString", "RemoveAllAdjacentDuplicatesInString\RemoveAllAdjacentDuplicatesInString.csproj", "{29E6A6AF-76D1-4470-8C40-EEA1F06F754D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveAllAdjacentDuplicatesInStringII", "RemoveAllAdjacentDuplicatesInStringII\RemoveAllAdjacentDuplicatesInStringII.csproj", "{BA463A6A-6BB5-46AF-8A9B-5D28D0A03120}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveAllAdjacentDuplicatesInStringII", "RemoveAllAdjacentDuplicatesInStringII\RemoveAllAdjacentDuplicatesInStringII.csproj", "{BA463A6A-6BB5-46AF-8A9B-5D28D0A03120}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicCalculator", "BasicCalculator\BasicCalculator.csproj", "{213EC85B-E9BF-4C20-89EB-02F190C12C22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicCalculatorII", "BasicCalculatorII\BasicCalculatorII.csproj", "{4DFCAA1E-617B-4962-8CED-7F3E2BB3C398}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -187,6 +191,14 @@ Global
 		{BA463A6A-6BB5-46AF-8A9B-5D28D0A03120}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA463A6A-6BB5-46AF-8A9B-5D28D0A03120}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA463A6A-6BB5-46AF-8A9B-5D28D0A03120}.Release|Any CPU.Build.0 = Release|Any CPU
+		{213EC85B-E9BF-4C20-89EB-02F190C12C22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{213EC85B-E9BF-4C20-89EB-02F190C12C22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{213EC85B-E9BF-4C20-89EB-02F190C12C22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{213EC85B-E9BF-4C20-89EB-02F190C12C22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DFCAA1E-617B-4962-8CED-7F3E2BB3C398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DFCAA1E-617B-4962-8CED-7F3E2BB3C398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DFCAA1E-617B-4962-8CED-7F3E2BB3C398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DFCAA1E-617B-4962-8CED-7F3E2BB3C398}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -221,6 +233,8 @@ Global
 		{EAABB915-D231-4672-8FF4-DD65DFF2DB37} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{29E6A6AF-76D1-4470-8C40-EEA1F06F754D} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{BA463A6A-6BB5-46AF-8A9B-5D28D0A03120} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{213EC85B-E9BF-4C20-89EB-02F190C12C22} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{4DFCAA1E-617B-4962-8CED-7F3E2BB3C398} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9932E0CB-C080-4D35-8DAD-DBAAF171EA4A}
