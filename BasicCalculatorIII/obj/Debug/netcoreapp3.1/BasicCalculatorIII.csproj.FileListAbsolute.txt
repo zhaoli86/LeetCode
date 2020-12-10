@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\BasicCalculatorIII\obj\Debug\netcoreapp3.1\BasicCalculatorIII.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\BasicCalculatorIII\obj\Debug\netcoreapp3.1\BasicCalculatorIII.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\BasicCalculatorIII\obj\Debug\netcoreapp3.1\BasicCalculatorIII.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\BasicCalculatorIII\obj\Debug\netcoreapp3.1\BasicCalculatorIII.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\BasicCalculatorIII\bin\Debug\netcoreapp3.1\BasicCalculatorIII.exe
+C:\Users\zhaol\source\repos\LeetCode\BasicCalculatorIII\bin\Debug\netcoreapp3.1\BasicCalculatorIII.deps.json
+C:\Users\zhaol\source\repos\LeetCode\BasicCalculatorIII\bin\Debug\netcoreapp3.1\BasicCalculatorIII.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\BasicCalculatorIII\bin\Debug\netcoreapp3.1\BasicCalculatorIII.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\BasicCalculatorIII\bin\Debug\netcoreapp3.1\BasicCalculatorIII.dll
+C:\Users\zhaol\source\repos\LeetCode\BasicCalculatorIII\bin\Debug\netcoreapp3.1\BasicCalculatorIII.pdb
+C:\Users\zhaol\source\repos\LeetCode\BasicCalculatorIII\obj\Debug\netcoreapp3.1\BasicCalculatorIII.dll
+C:\Users\zhaol\source\repos\LeetCode\BasicCalculatorIII\obj\Debug\netcoreapp3.1\BasicCalculatorIII.pdb
+C:\Users\zhaol\source\repos\LeetCode\BasicCalculatorIII\obj\Debug\netcoreapp3.1\BasicCalculatorIII.genruntimeconfig.cache
