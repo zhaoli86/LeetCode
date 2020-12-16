@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/W731IbGrIqB+6dK2oOnE08QKrEbUnr7grLQx8XTveeiKA4PbsQGehX56p7E2EFjXpvTMKx00Lt5OL0eNHsf3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zhaol\\source\\repos\\LeetCode\\NumberOfAtoms\\NumberOfAtoms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zhaol\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\zhaol\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\zhaol\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\zhaol\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

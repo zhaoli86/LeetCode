@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\NumberOfAtoms\bin\Debug\netcoreapp3.1\NumberOfAtoms.exe
+C:\Users\zhaol\source\repos\LeetCode\NumberOfAtoms\bin\Debug\netcoreapp3.1\NumberOfAtoms.deps.json
+C:\Users\zhaol\source\repos\LeetCode\NumberOfAtoms\bin\Debug\netcoreapp3.1\NumberOfAtoms.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\NumberOfAtoms\bin\Debug\netcoreapp3.1\NumberOfAtoms.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\NumberOfAtoms\bin\Debug\netcoreapp3.1\NumberOfAtoms.dll
+C:\Users\zhaol\source\repos\LeetCode\NumberOfAtoms\bin\Debug\netcoreapp3.1\NumberOfAtoms.pdb
+C:\Users\zhaol\source\repos\LeetCode\NumberOfAtoms\obj\Debug\netcoreapp3.1\NumberOfAtoms.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\NumberOfAtoms\obj\Debug\netcoreapp3.1\NumberOfAtoms.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\NumberOfAtoms\obj\Debug\netcoreapp3.1\NumberOfAtoms.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\NumberOfAtoms\obj\Debug\netcoreapp3.1\NumberOfAtoms.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\NumberOfAtoms\obj\Debug\netcoreapp3.1\NumberOfAtoms.dll
+C:\Users\zhaol\source\repos\LeetCode\NumberOfAtoms\obj\Debug\netcoreapp3.1\NumberOfAtoms.pdb
+C:\Users\zhaol\source\repos\LeetCode\NumberOfAtoms\obj\Debug\netcoreapp3.1\NumberOfAtoms.genruntimeconfig.cache
