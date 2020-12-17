@@ -22,6 +22,35 @@ namespace BinarySubarraysWithSum
             return result;
         }
     }
+
+    public class Solution2
+    {
+        public int NumSubarraysWithSum(int[] A, int S)
+        {
+            int res = 0, idxLo = 0, idxHi = 0, sumLo = 0, sumHi = 0;
+            for (int j = 0; j < A.Length; j++)
+            {
+                sumLo += A[j];
+                while (idxLo < j && sumLo > S)
+                {
+                    sumLo -= A[idxLo++];
+                }
+
+                sumHi += A[j];
+                while (idxHi < j && (sumHi > S || sumHi == S && A[idxHi] == 0))
+                {
+                    sumHi -= A[idxHi++];
+                }
+                if (sumLo == S)
+                {
+                    res += idxHi - idxLo + 1;
+                }
+            }
+
+
+            return res;
+        }
+    }
     class Program
     {
         static void Main(string[] args)
