@@ -89,6 +89,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumSizeSubarraySum", "M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfSubstringsContainingAllChars", "NumberOfSubstringsContainingAllChars\NumberOfSubstringsContainingAllChars.csproj", "{6AFBA182-F7E5-4ADD-80F3-E20FE8706747}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplifyPath", "SimplifyPath\SimplifyPath.csproj", "{AFCD4184-6A61-4FBD-89AA-D2F70850B977}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -259,6 +261,10 @@ Global
 		{6AFBA182-F7E5-4ADD-80F3-E20FE8706747}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AFBA182-F7E5-4ADD-80F3-E20FE8706747}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AFBA182-F7E5-4ADD-80F3-E20FE8706747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFCD4184-6A61-4FBD-89AA-D2F70850B977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCD4184-6A61-4FBD-89AA-D2F70850B977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCD4184-6A61-4FBD-89AA-D2F70850B977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCD4184-6A61-4FBD-89AA-D2F70850B977}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -305,6 +311,7 @@ Global
 		{AD6C980D-B5AE-4E65-A602-540215DD944B} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{42F0B101-E15C-472A-8510-A3CDC7E6A509} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{6AFBA182-F7E5-4ADD-80F3-E20FE8706747} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{AFCD4184-6A61-4FBD-89AA-D2F70850B977} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9932E0CB-C080-4D35-8DAD-DBAAF171EA4A}
