@@ -77,19 +77,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BraceExpansion", "BraceExpa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BraceExpansionII", "BraceExpansionII\BraceExpansionII.csproj", "{EA29BB7A-06AB-4908-8F31-919E46707865}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfAtoms", "NumberOfAtoms\NumberOfAtoms.csproj", "{0D62A2A8-93F9-4035-B4FF-4B718B1BB887}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberOfAtoms", "NumberOfAtoms\NumberOfAtoms.csproj", "{0D62A2A8-93F9-4035-B4FF-4B718B1BB887}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySubarraysWithSum", "BinarySubarraysWithSum\BinarySubarraysWithSum.csproj", "{D7AD6E0C-3579-4B27-8E9F-48222132CA6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinarySubarraysWithSum", "BinarySubarraysWithSum\BinarySubarraysWithSum.csproj", "{D7AD6E0C-3579-4B27-8E9F-48222132CA6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxConsecutiveOnes", "MaxConsecutiveOnes\MaxConsecutiveOnes.csproj", "{7C5B7ED8-80FE-47A2-8B50-8270640733CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxConsecutiveOnes", "MaxConsecutiveOnes\MaxConsecutiveOnes.csproj", "{7C5B7ED8-80FE-47A2-8B50-8270640733CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMaxConsecutiveOnesII", "FindMaxConsecutiveOnesII\FindMaxConsecutiveOnesII.csproj", "{AD6C980D-B5AE-4E65-A602-540215DD944B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindMaxConsecutiveOnesII", "FindMaxConsecutiveOnesII\FindMaxConsecutiveOnesII.csproj", "{AD6C980D-B5AE-4E65-A602-540215DD944B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumSizeSubarraySum", "MinimumSizeSubarraySum\MinimumSizeSubarraySum.csproj", "{42F0B101-E15C-472A-8510-A3CDC7E6A509}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimumSizeSubarraySum", "MinimumSizeSubarraySum\MinimumSizeSubarraySum.csproj", "{42F0B101-E15C-472A-8510-A3CDC7E6A509}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfSubstringsContainingAllChars", "NumberOfSubstringsContainingAllChars\NumberOfSubstringsContainingAllChars.csproj", "{6AFBA182-F7E5-4ADD-80F3-E20FE8706747}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberOfSubstringsContainingAllChars", "NumberOfSubstringsContainingAllChars\NumberOfSubstringsContainingAllChars.csproj", "{6AFBA182-F7E5-4ADD-80F3-E20FE8706747}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplifyPath", "SimplifyPath\SimplifyPath.csproj", "{AFCD4184-6A61-4FBD-89AA-D2F70850B977}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimplifyPath", "SimplifyPath\SimplifyPath.csproj", "{AFCD4184-6A61-4FBD-89AA-D2F70850B977}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubarrayWithKdifferentIntegers", "SubarrayWithKdifferentIntegers\SubarrayWithKdifferentIntegers.csproj", "{714E4D8E-4888-439B-A940-4D482DC1250D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountNumberOfNiceSubarrays", "CountNumberOfNiceSubarrays\CountNumberOfNiceSubarrays.csproj", "{5F4D1295-0181-4678-B2B2-947FEE030561}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -265,6 +269,14 @@ Global
 		{AFCD4184-6A61-4FBD-89AA-D2F70850B977}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFCD4184-6A61-4FBD-89AA-D2F70850B977}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFCD4184-6A61-4FBD-89AA-D2F70850B977}.Release|Any CPU.Build.0 = Release|Any CPU
+		{714E4D8E-4888-439B-A940-4D482DC1250D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{714E4D8E-4888-439B-A940-4D482DC1250D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{714E4D8E-4888-439B-A940-4D482DC1250D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{714E4D8E-4888-439B-A940-4D482DC1250D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F4D1295-0181-4678-B2B2-947FEE030561}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F4D1295-0181-4678-B2B2-947FEE030561}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F4D1295-0181-4678-B2B2-947FEE030561}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F4D1295-0181-4678-B2B2-947FEE030561}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -312,6 +324,8 @@ Global
 		{42F0B101-E15C-472A-8510-A3CDC7E6A509} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{6AFBA182-F7E5-4ADD-80F3-E20FE8706747} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{AFCD4184-6A61-4FBD-89AA-D2F70850B977} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{714E4D8E-4888-439B-A940-4D482DC1250D} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{5F4D1295-0181-4678-B2B2-947FEE030561} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9932E0CB-C080-4D35-8DAD-DBAAF171EA4A}

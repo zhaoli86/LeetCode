@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading;
 
 namespace SimplifyPath
 {
@@ -44,6 +45,7 @@ namespace SimplifyPath
     }
     class Program
     {
+        public delegate void aaa(int a);
         static void Main(string[] args)
         {
             var s = new Solution();
