@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\FindLongestSubstringContainingEvenVowels\bin\Debug\netcoreapp3.1\FindLongestSubstringContainingEvenVowels.exe
+C:\Users\zhaol\source\repos\LeetCode\FindLongestSubstringContainingEvenVowels\bin\Debug\netcoreapp3.1\FindLongestSubstringContainingEvenVowels.deps.json
+C:\Users\zhaol\source\repos\LeetCode\FindLongestSubstringContainingEvenVowels\bin\Debug\netcoreapp3.1\FindLongestSubstringContainingEvenVowels.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\FindLongestSubstringContainingEvenVowels\bin\Debug\netcoreapp3.1\FindLongestSubstringContainingEvenVowels.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\FindLongestSubstringContainingEvenVowels\bin\Debug\netcoreapp3.1\FindLongestSubstringContainingEvenVowels.dll
+C:\Users\zhaol\source\repos\LeetCode\FindLongestSubstringContainingEvenVowels\bin\Debug\netcoreapp3.1\FindLongestSubstringContainingEvenVowels.pdb
+C:\Users\zhaol\source\repos\LeetCode\FindLongestSubstringContainingEvenVowels\obj\Debug\netcoreapp3.1\FindLongestSubstringContainingEvenVowels.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\FindLongestSubstringContainingEvenVowels\obj\Debug\netcoreapp3.1\FindLongestSubstringContainingEvenVowels.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\FindLongestSubstringContainingEvenVowels\obj\Debug\netcoreapp3.1\FindLongestSubstringContainingEvenVowels.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\FindLongestSubstringContainingEvenVowels\obj\Debug\netcoreapp3.1\FindLongestSubstringContainingEvenVowels.dll
+C:\Users\zhaol\source\repos\LeetCode\FindLongestSubstringContainingEvenVowels\obj\Debug\netcoreapp3.1\FindLongestSubstringContainingEvenVowels.pdb
+C:\Users\zhaol\source\repos\LeetCode\FindLongestSubstringContainingEvenVowels\obj\Debug\netcoreapp3.1\FindLongestSubstringContainingEvenVowels.genruntimeconfig.cache
+C:\Users\zhaol\source\repos\LeetCode\FindLongestSubstringContainingEvenVowels\obj\Debug\netcoreapp3.1\FindLongestSubstringContainingEvenVowels.csprojAssemblyReference.cache

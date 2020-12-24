@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\MinOpsToReduceXtoZero\bin\Debug\netcoreapp3.1\MinOpsToReduceXtoZero.exe
+C:\Users\zhaol\source\repos\LeetCode\MinOpsToReduceXtoZero\bin\Debug\netcoreapp3.1\MinOpsToReduceXtoZero.deps.json
+C:\Users\zhaol\source\repos\LeetCode\MinOpsToReduceXtoZero\bin\Debug\netcoreapp3.1\MinOpsToReduceXtoZero.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\MinOpsToReduceXtoZero\bin\Debug\netcoreapp3.1\MinOpsToReduceXtoZero.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\MinOpsToReduceXtoZero\bin\Debug\netcoreapp3.1\MinOpsToReduceXtoZero.dll
+C:\Users\zhaol\source\repos\LeetCode\MinOpsToReduceXtoZero\bin\Debug\netcoreapp3.1\MinOpsToReduceXtoZero.pdb
+C:\Users\zhaol\source\repos\LeetCode\MinOpsToReduceXtoZero\obj\Debug\netcoreapp3.1\MinOpsToReduceXtoZero.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\MinOpsToReduceXtoZero\obj\Debug\netcoreapp3.1\MinOpsToReduceXtoZero.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\MinOpsToReduceXtoZero\obj\Debug\netcoreapp3.1\MinOpsToReduceXtoZero.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\MinOpsToReduceXtoZero\obj\Debug\netcoreapp3.1\MinOpsToReduceXtoZero.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\MinOpsToReduceXtoZero\obj\Debug\netcoreapp3.1\MinOpsToReduceXtoZero.dll
+C:\Users\zhaol\source\repos\LeetCode\MinOpsToReduceXtoZero\obj\Debug\netcoreapp3.1\MinOpsToReduceXtoZero.pdb
+C:\Users\zhaol\source\repos\LeetCode\MinOpsToReduceXtoZero\obj\Debug\netcoreapp3.1\MinOpsToReduceXtoZero.genruntimeconfig.cache
