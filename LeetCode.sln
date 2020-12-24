@@ -99,6 +99,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinOpsToReduceXtoZero", "Mi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindLongestSubstringContainingEvenVowels", "FindLongestSubstringContainingEvenVowels\FindLongestSubstringContainingEvenVowels.csproj", "{E4A7C30A-5648-4AAE-AC66-9CDBFF3AAD35}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestSubstringWithoutRepeatingChar", "LongestSubstringWithoutRepeatingChar\LongestSubstringWithoutRepeatingChar.csproj", "{E62824DE-ED71-43BE-B2EA-CA2070BBD2AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -289,6 +291,10 @@ Global
 		{E4A7C30A-5648-4AAE-AC66-9CDBFF3AAD35}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4A7C30A-5648-4AAE-AC66-9CDBFF3AAD35}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4A7C30A-5648-4AAE-AC66-9CDBFF3AAD35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E62824DE-ED71-43BE-B2EA-CA2070BBD2AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E62824DE-ED71-43BE-B2EA-CA2070BBD2AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E62824DE-ED71-43BE-B2EA-CA2070BBD2AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E62824DE-ED71-43BE-B2EA-CA2070BBD2AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -340,6 +346,7 @@ Global
 		{5F4D1295-0181-4678-B2B2-947FEE030561} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{4FAEBA9D-15D3-48C1-8832-0BA258B07123} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{E4A7C30A-5648-4AAE-AC66-9CDBFF3AAD35} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{E62824DE-ED71-43BE-B2EA-CA2070BBD2AE} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9932E0CB-C080-4D35-8DAD-DBAAF171EA4A}
