@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\LongestSubstringWithAtMost2DistinctChar\bin\Debug\netcoreapp3.1\LongestSubstringWithAtMost2DistinctChar.exe
+C:\Users\zhaol\source\repos\LeetCode\LongestSubstringWithAtMost2DistinctChar\bin\Debug\netcoreapp3.1\LongestSubstringWithAtMost2DistinctChar.deps.json
+C:\Users\zhaol\source\repos\LeetCode\LongestSubstringWithAtMost2DistinctChar\bin\Debug\netcoreapp3.1\LongestSubstringWithAtMost2DistinctChar.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\LongestSubstringWithAtMost2DistinctChar\bin\Debug\netcoreapp3.1\LongestSubstringWithAtMost2DistinctChar.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\LongestSubstringWithAtMost2DistinctChar\bin\Debug\netcoreapp3.1\LongestSubstringWithAtMost2DistinctChar.dll
+C:\Users\zhaol\source\repos\LeetCode\LongestSubstringWithAtMost2DistinctChar\bin\Debug\netcoreapp3.1\LongestSubstringWithAtMost2DistinctChar.pdb
+C:\Users\zhaol\source\repos\LeetCode\LongestSubstringWithAtMost2DistinctChar\obj\Debug\netcoreapp3.1\LongestSubstringWithAtMost2DistinctChar.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\LongestSubstringWithAtMost2DistinctChar\obj\Debug\netcoreapp3.1\LongestSubstringWithAtMost2DistinctChar.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\LongestSubstringWithAtMost2DistinctChar\obj\Debug\netcoreapp3.1\LongestSubstringWithAtMost2DistinctChar.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\LongestSubstringWithAtMost2DistinctChar\obj\Debug\netcoreapp3.1\LongestSubstringWithAtMost2DistinctChar.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\LongestSubstringWithAtMost2DistinctChar\obj\Debug\netcoreapp3.1\LongestSubstringWithAtMost2DistinctChar.dll
+C:\Users\zhaol\source\repos\LeetCode\LongestSubstringWithAtMost2DistinctChar\obj\Debug\netcoreapp3.1\LongestSubstringWithAtMost2DistinctChar.pdb
+C:\Users\zhaol\source\repos\LeetCode\LongestSubstringWithAtMost2DistinctChar\obj\Debug\netcoreapp3.1\LongestSubstringWithAtMost2DistinctChar.genruntimeconfig.cache
