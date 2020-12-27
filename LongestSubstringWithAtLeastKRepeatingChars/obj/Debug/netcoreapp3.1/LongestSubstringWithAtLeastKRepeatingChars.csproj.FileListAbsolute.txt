@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\LongestSubstringWithAtLeastKRepeatingChars\bin\Debug\netcoreapp3.1\LongestSubstringWithAtLeastKRepeatingChars.exe
+C:\Users\zhaol\source\repos\LeetCode\LongestSubstringWithAtLeastKRepeatingChars\bin\Debug\netcoreapp3.1\LongestSubstringWithAtLeastKRepeatingChars.deps.json
+C:\Users\zhaol\source\repos\LeetCode\LongestSubstringWithAtLeastKRepeatingChars\bin\Debug\netcoreapp3.1\LongestSubstringWithAtLeastKRepeatingChars.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\LongestSubstringWithAtLeastKRepeatingChars\bin\Debug\netcoreapp3.1\LongestSubstringWithAtLeastKRepeatingChars.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\LongestSubstringWithAtLeastKRepeatingChars\bin\Debug\netcoreapp3.1\LongestSubstringWithAtLeastKRepeatingChars.dll
+C:\Users\zhaol\source\repos\LeetCode\LongestSubstringWithAtLeastKRepeatingChars\bin\Debug\netcoreapp3.1\LongestSubstringWithAtLeastKRepeatingChars.pdb
+C:\Users\zhaol\source\repos\LeetCode\LongestSubstringWithAtLeastKRepeatingChars\obj\Debug\netcoreapp3.1\LongestSubstringWithAtLeastKRepeatingChars.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\LongestSubstringWithAtLeastKRepeatingChars\obj\Debug\netcoreapp3.1\LongestSubstringWithAtLeastKRepeatingChars.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\LongestSubstringWithAtLeastKRepeatingChars\obj\Debug\netcoreapp3.1\LongestSubstringWithAtLeastKRepeatingChars.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\LongestSubstringWithAtLeastKRepeatingChars\obj\Debug\netcoreapp3.1\LongestSubstringWithAtLeastKRepeatingChars.dll
+C:\Users\zhaol\source\repos\LeetCode\LongestSubstringWithAtLeastKRepeatingChars\obj\Debug\netcoreapp3.1\LongestSubstringWithAtLeastKRepeatingChars.pdb
+C:\Users\zhaol\source\repos\LeetCode\LongestSubstringWithAtLeastKRepeatingChars\obj\Debug\netcoreapp3.1\LongestSubstringWithAtLeastKRepeatingChars.genruntimeconfig.cache
+C:\Users\zhaol\source\repos\LeetCode\LongestSubstringWithAtLeastKRepeatingChars\obj\Debug\netcoreapp3.1\LongestSubstringWithAtLeastKRepeatingChars.csprojAssemblyReference.cache
