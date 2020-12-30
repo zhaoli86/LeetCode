@@ -91,21 +91,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberOfSubstringsContainin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimplifyPath", "SimplifyPath\SimplifyPath.csproj", "{AFCD4184-6A61-4FBD-89AA-D2F70850B977}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubarrayWithKdifferentIntegers", "SubarrayWithKdifferentIntegers\SubarrayWithKdifferentIntegers.csproj", "{714E4D8E-4888-439B-A940-4D482DC1250D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubarrayWithKdifferentIntegers", "SubarrayWithKdifferentIntegers\SubarrayWithKdifferentIntegers.csproj", "{714E4D8E-4888-439B-A940-4D482DC1250D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountNumberOfNiceSubarrays", "CountNumberOfNiceSubarrays\CountNumberOfNiceSubarrays.csproj", "{5F4D1295-0181-4678-B2B2-947FEE030561}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountNumberOfNiceSubarrays", "CountNumberOfNiceSubarrays\CountNumberOfNiceSubarrays.csproj", "{5F4D1295-0181-4678-B2B2-947FEE030561}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinOpsToReduceXtoZero", "MinOpsToReduceXtoZero\MinOpsToReduceXtoZero.csproj", "{4FAEBA9D-15D3-48C1-8832-0BA258B07123}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinOpsToReduceXtoZero", "MinOpsToReduceXtoZero\MinOpsToReduceXtoZero.csproj", "{4FAEBA9D-15D3-48C1-8832-0BA258B07123}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindLongestSubstringContainingEvenVowels", "FindLongestSubstringContainingEvenVowels\FindLongestSubstringContainingEvenVowels.csproj", "{E4A7C30A-5648-4AAE-AC66-9CDBFF3AAD35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindLongestSubstringContainingEvenVowels", "FindLongestSubstringContainingEvenVowels\FindLongestSubstringContainingEvenVowels.csproj", "{E4A7C30A-5648-4AAE-AC66-9CDBFF3AAD35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestSubstringWithoutRepeatingChar", "LongestSubstringWithoutRepeatingChar\LongestSubstringWithoutRepeatingChar.csproj", "{E62824DE-ED71-43BE-B2EA-CA2070BBD2AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestSubstringWithoutRepeatingChar", "LongestSubstringWithoutRepeatingChar\LongestSubstringWithoutRepeatingChar.csproj", "{E62824DE-ED71-43BE-B2EA-CA2070BBD2AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestSubstringWithAtMost2DistinctChar", "LongestSubstringWithAtMost2DistinctChar\LongestSubstringWithAtMost2DistinctChar.csproj", "{8EE48E1B-E488-4E51-952A-4D6F088A48B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestSubstringWithAtMost2DistinctChar", "LongestSubstringWithAtMost2DistinctChar\LongestSubstringWithAtMost2DistinctChar.csproj", "{8EE48E1B-E488-4E51-952A-4D6F088A48B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestSubstringWithAtMostKDistinctChar", "LongestSubstringWithAtMostKDistinctChar\LongestSubstringWithAtMostKDistinctChar.csproj", "{718D0077-1989-4F4A-9AE4-18B2C8B11249}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestSubstringWithAtMostKDistinctChar", "LongestSubstringWithAtMostKDistinctChar\LongestSubstringWithAtMostKDistinctChar.csproj", "{718D0077-1989-4F4A-9AE4-18B2C8B11249}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestSubstringWithAtLeastKRepeatingChars", "LongestSubstringWithAtLeastKRepeatingChars\LongestSubstringWithAtLeastKRepeatingChars.csproj", "{F52A3921-396F-41F5-9426-81397F78205A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestSubstringWithAtLeastKRepeatingChars", "LongestSubstringWithAtLeastKRepeatingChars\LongestSubstringWithAtLeastKRepeatingChars.csproj", "{F52A3921-396F-41F5-9426-81397F78205A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximumSlidingWindow", "MaximumSlidingWindow\MaximumSlidingWindow.csproj", "{22D53093-923F-403B-BEDF-0914BA873D9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortestSubarrayWithSumAtLeastK", "ShortestSubarrayWithSumAtLeastK\ShortestSubarrayWithSumAtLeastK.csproj", "{9DC9B0B5-0264-456A-A07F-F7EC84A364B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -313,6 +317,14 @@ Global
 		{F52A3921-396F-41F5-9426-81397F78205A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F52A3921-396F-41F5-9426-81397F78205A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F52A3921-396F-41F5-9426-81397F78205A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22D53093-923F-403B-BEDF-0914BA873D9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22D53093-923F-403B-BEDF-0914BA873D9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22D53093-923F-403B-BEDF-0914BA873D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22D53093-923F-403B-BEDF-0914BA873D9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DC9B0B5-0264-456A-A07F-F7EC84A364B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DC9B0B5-0264-456A-A07F-F7EC84A364B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DC9B0B5-0264-456A-A07F-F7EC84A364B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DC9B0B5-0264-456A-A07F-F7EC84A364B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -368,6 +380,8 @@ Global
 		{8EE48E1B-E488-4E51-952A-4D6F088A48B0} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{718D0077-1989-4F4A-9AE4-18B2C8B11249} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{F52A3921-396F-41F5-9426-81397F78205A} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{22D53093-923F-403B-BEDF-0914BA873D9B} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{9DC9B0B5-0264-456A-A07F-F7EC84A364B8} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9932E0CB-C080-4D35-8DAD-DBAAF171EA4A}
