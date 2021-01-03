@@ -109,15 +109,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestSubstringWithAtLeast
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximumSlidingWindow", "MaximumSlidingWindow\MaximumSlidingWindow.csproj", "{22D53093-923F-403B-BEDF-0914BA873D9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortestSubarrayWithSumAtLeastK", "ShortestSubarrayWithSumAtLeastK\ShortestSubarrayWithSumAtLeastK.csproj", "{9DC9B0B5-0264-456A-A07F-F7EC84A364B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShortestSubarrayWithSumAtLeastK", "ShortestSubarrayWithSumAtLeastK\ShortestSubarrayWithSumAtLeastK.csproj", "{9DC9B0B5-0264-456A-A07F-F7EC84A364B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpGameVI", "JumpGameVI\JumpGameVI.csproj", "{4F7164D0-DED6-4FD1-9DEC-53A55C41E54C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JumpGameVI", "JumpGameVI\JumpGameVI.csproj", "{4F7164D0-DED6-4FD1-9DEC-53A55C41E54C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindLatestGroupOfSizeM", "FindLatestGroupOfSizeM\FindLatestGroupOfSizeM.csproj", "{41AD56D5-52C5-40DD-A3EC-3E8284796466}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindLatestGroupOfSizeM", "FindLatestGroupOfSizeM\FindLatestGroupOfSizeM.csproj", "{41AD56D5-52C5-40DD-A3EC-3E8284796466}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxValueOfEquation", "MaxValueOfEquation\MaxValueOfEquation.csproj", "{486F5E77-314B-49DE-A641-BFDEB78D9AC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxValueOfEquation", "MaxValueOfEquation\MaxValueOfEquation.csproj", "{486F5E77-314B-49DE-A641-BFDEB78D9AC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestContinuousSubarrayWithAbsoluteDiffK", "LongestContinuousSubarrayWithAbsoluteDiffK\LongestContinuousSubarrayWithAbsoluteDiffK.csproj", "{A80F8F5D-DBFB-4E3D-8EA5-128E6951B8A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestContinuousSubarrayWithAbsoluteDiffK", "LongestContinuousSubarrayWithAbsoluteDiffK\LongestContinuousSubarrayWithAbsoluteDiffK.csproj", "{A80F8F5D-DBFB-4E3D-8EA5-128E6951B8A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstrainedSubsequenceSum", "ConstrainedSubsequenceSum\ConstrainedSubsequenceSum.csproj", "{A99419F5-D6AB-4511-9C2A-52AC70275C1B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -349,6 +351,10 @@ Global
 		{A80F8F5D-DBFB-4E3D-8EA5-128E6951B8A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A80F8F5D-DBFB-4E3D-8EA5-128E6951B8A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A80F8F5D-DBFB-4E3D-8EA5-128E6951B8A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A99419F5-D6AB-4511-9C2A-52AC70275C1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A99419F5-D6AB-4511-9C2A-52AC70275C1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A99419F5-D6AB-4511-9C2A-52AC70275C1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A99419F5-D6AB-4511-9C2A-52AC70275C1B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -410,6 +416,7 @@ Global
 		{41AD56D5-52C5-40DD-A3EC-3E8284796466} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{486F5E77-314B-49DE-A641-BFDEB78D9AC0} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{A80F8F5D-DBFB-4E3D-8EA5-128E6951B8A3} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{A99419F5-D6AB-4511-9C2A-52AC70275C1B} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9932E0CB-C080-4D35-8DAD-DBAAF171EA4A}
