@@ -24,7 +24,7 @@ namespace ConstrainedSubsequenceSum
                     {
                         list.AddLast(nums[i]);
                     }
-                    while (i >= k && list.Any() && nums[i-k] == list.First())
+                    if (i >= k && list.Any() && nums[i-k] == list.First())
                     {
                         list.RemoveFirst();
                     }

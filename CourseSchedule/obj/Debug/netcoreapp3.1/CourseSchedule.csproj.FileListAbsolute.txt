@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\CourseSchedule\bin\Debug\netcoreapp3.1\CourseSchedule.exe
+C:\Users\zhaol\source\repos\LeetCode\CourseSchedule\bin\Debug\netcoreapp3.1\CourseSchedule.deps.json
+C:\Users\zhaol\source\repos\LeetCode\CourseSchedule\bin\Debug\netcoreapp3.1\CourseSchedule.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\CourseSchedule\bin\Debug\netcoreapp3.1\CourseSchedule.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\CourseSchedule\bin\Debug\netcoreapp3.1\CourseSchedule.dll
+C:\Users\zhaol\source\repos\LeetCode\CourseSchedule\bin\Debug\netcoreapp3.1\CourseSchedule.pdb
+C:\Users\zhaol\source\repos\LeetCode\CourseSchedule\obj\Debug\netcoreapp3.1\CourseSchedule.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\CourseSchedule\obj\Debug\netcoreapp3.1\CourseSchedule.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\CourseSchedule\obj\Debug\netcoreapp3.1\CourseSchedule.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\CourseSchedule\obj\Debug\netcoreapp3.1\CourseSchedule.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\CourseSchedule\obj\Debug\netcoreapp3.1\CourseSchedule.dll
+C:\Users\zhaol\source\repos\LeetCode\CourseSchedule\obj\Debug\netcoreapp3.1\CourseSchedule.pdb
+C:\Users\zhaol\source\repos\LeetCode\CourseSchedule\obj\Debug\netcoreapp3.1\CourseSchedule.genruntimeconfig.cache
