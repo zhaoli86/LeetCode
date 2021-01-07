@@ -127,6 +127,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseScheduleII", "CourseS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequenceReconstruction", "SequenceReconstruction\SequenceReconstruction.csproj", "{EB74E8AE-267A-4761-BBCF-1A883654B30C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlienDictionary", "AlienDictionary\AlienDictionary.csproj", "{D47B1924-B136-4EC6-B51F-FB19C6860665}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -373,6 +375,10 @@ Global
 		{EB74E8AE-267A-4761-BBCF-1A883654B30C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB74E8AE-267A-4761-BBCF-1A883654B30C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB74E8AE-267A-4761-BBCF-1A883654B30C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D47B1924-B136-4EC6-B51F-FB19C6860665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D47B1924-B136-4EC6-B51F-FB19C6860665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D47B1924-B136-4EC6-B51F-FB19C6860665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D47B1924-B136-4EC6-B51F-FB19C6860665}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -438,6 +444,7 @@ Global
 		{0BEFD0AC-6DCF-4EBD-8B96-D1B5F29C9238} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{46EAF97C-A9F1-4ECF-962C-0890DECB00A5} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{EB74E8AE-267A-4761-BBCF-1A883654B30C} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{D47B1924-B136-4EC6-B51F-FB19C6860665} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9932E0CB-C080-4D35-8DAD-DBAAF171EA4A}

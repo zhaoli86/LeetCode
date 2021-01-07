@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\AlienDictionary\bin\Debug\netcoreapp3.1\AlienDictionary.exe
+C:\Users\zhaol\source\repos\LeetCode\AlienDictionary\bin\Debug\netcoreapp3.1\AlienDictionary.deps.json
+C:\Users\zhaol\source\repos\LeetCode\AlienDictionary\bin\Debug\netcoreapp3.1\AlienDictionary.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\AlienDictionary\bin\Debug\netcoreapp3.1\AlienDictionary.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\AlienDictionary\bin\Debug\netcoreapp3.1\AlienDictionary.dll
+C:\Users\zhaol\source\repos\LeetCode\AlienDictionary\bin\Debug\netcoreapp3.1\AlienDictionary.pdb
+C:\Users\zhaol\source\repos\LeetCode\AlienDictionary\obj\Debug\netcoreapp3.1\AlienDictionary.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\AlienDictionary\obj\Debug\netcoreapp3.1\AlienDictionary.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\AlienDictionary\obj\Debug\netcoreapp3.1\AlienDictionary.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\AlienDictionary\obj\Debug\netcoreapp3.1\AlienDictionary.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\AlienDictionary\obj\Debug\netcoreapp3.1\AlienDictionary.dll
+C:\Users\zhaol\source\repos\LeetCode\AlienDictionary\obj\Debug\netcoreapp3.1\AlienDictionary.pdb
+C:\Users\zhaol\source\repos\LeetCode\AlienDictionary\obj\Debug\netcoreapp3.1\AlienDictionary.genruntimeconfig.cache
