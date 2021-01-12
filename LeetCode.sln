@@ -123,13 +123,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstrainedSubsequenceSum",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CourseSchedule", "CourseSchedule\CourseSchedule.csproj", "{0BEFD0AC-6DCF-4EBD-8B96-D1B5F29C9238}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseScheduleII", "CourseScheduleII\CourseScheduleII.csproj", "{46EAF97C-A9F1-4ECF-962C-0890DECB00A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CourseScheduleII", "CourseScheduleII\CourseScheduleII.csproj", "{46EAF97C-A9F1-4ECF-962C-0890DECB00A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequenceReconstruction", "SequenceReconstruction\SequenceReconstruction.csproj", "{EB74E8AE-267A-4761-BBCF-1A883654B30C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SequenceReconstruction", "SequenceReconstruction\SequenceReconstruction.csproj", "{EB74E8AE-267A-4761-BBCF-1A883654B30C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlienDictionary", "AlienDictionary\AlienDictionary.csproj", "{D47B1924-B136-4EC6-B51F-FB19C6860665}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlienDictionary", "AlienDictionary\AlienDictionary.csproj", "{D47B1924-B136-4EC6-B51F-FB19C6860665}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseScheduleIV", "CourseScheduleIV\CourseScheduleIV.csproj", "{80741220-8681-45A5-928A-171FB5DB283C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CourseScheduleIV", "CourseScheduleIV\CourseScheduleIV.csproj", "{80741220-8681-45A5-928A-171FB5DB283C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortItemsByGroupsRespectingDependencies", "SortItemsByGroupsRespectingDependencies\SortItemsByGroupsRespectingDependencies.csproj", "{C57F0BF1-7C1E-4847-AA8F-1515D1274098}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkDelayTime", "NetworkDelayTime\NetworkDelayTime.csproj", "{67636133-DE3E-4005-811D-EC3936AAE3BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -385,6 +389,14 @@ Global
 		{80741220-8681-45A5-928A-171FB5DB283C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80741220-8681-45A5-928A-171FB5DB283C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80741220-8681-45A5-928A-171FB5DB283C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C57F0BF1-7C1E-4847-AA8F-1515D1274098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C57F0BF1-7C1E-4847-AA8F-1515D1274098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C57F0BF1-7C1E-4847-AA8F-1515D1274098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C57F0BF1-7C1E-4847-AA8F-1515D1274098}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67636133-DE3E-4005-811D-EC3936AAE3BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67636133-DE3E-4005-811D-EC3936AAE3BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67636133-DE3E-4005-811D-EC3936AAE3BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67636133-DE3E-4005-811D-EC3936AAE3BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -452,6 +464,8 @@ Global
 		{EB74E8AE-267A-4761-BBCF-1A883654B30C} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{D47B1924-B136-4EC6-B51F-FB19C6860665} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{80741220-8681-45A5-928A-171FB5DB283C} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{C57F0BF1-7C1E-4847-AA8F-1515D1274098} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{67636133-DE3E-4005-811D-EC3936AAE3BB} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9932E0CB-C080-4D35-8DAD-DBAAF171EA4A}

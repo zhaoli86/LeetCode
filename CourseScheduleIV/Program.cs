@@ -14,7 +14,7 @@ namespace CourseScheduleIV
                 connected[prerequisite[0], prerequisite[1]] = true;
             }
 
-            for (int k = 0; k < n; k++)
+            for (int k = 0; k < n; k++) 
             {
                 for (int i = 0; i < n; i++)
                 {
@@ -40,6 +40,8 @@ namespace CourseScheduleIV
             var query = new int[][] { new int[] { 0, 2 }, new int[] { 2, 1 } };
             var result = new Solution().CheckIfPrerequisite(3, input, query);
             Console.WriteLine("Hello World!");
+            
+
         }
     }
 }

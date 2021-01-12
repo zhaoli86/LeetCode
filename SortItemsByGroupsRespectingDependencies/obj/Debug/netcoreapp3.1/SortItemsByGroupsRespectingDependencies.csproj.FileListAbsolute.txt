@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\SortItemsByGroupsRespectingDependencies\bin\Debug\netcoreapp3.1\SortItemsByGroupsRespectingDependencies.exe
+C:\Users\zhaol\source\repos\LeetCode\SortItemsByGroupsRespectingDependencies\bin\Debug\netcoreapp3.1\SortItemsByGroupsRespectingDependencies.deps.json
+C:\Users\zhaol\source\repos\LeetCode\SortItemsByGroupsRespectingDependencies\bin\Debug\netcoreapp3.1\SortItemsByGroupsRespectingDependencies.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\SortItemsByGroupsRespectingDependencies\bin\Debug\netcoreapp3.1\SortItemsByGroupsRespectingDependencies.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\SortItemsByGroupsRespectingDependencies\bin\Debug\netcoreapp3.1\SortItemsByGroupsRespectingDependencies.dll
+C:\Users\zhaol\source\repos\LeetCode\SortItemsByGroupsRespectingDependencies\bin\Debug\netcoreapp3.1\SortItemsByGroupsRespectingDependencies.pdb
+C:\Users\zhaol\source\repos\LeetCode\SortItemsByGroupsRespectingDependencies\obj\Debug\netcoreapp3.1\SortItemsByGroupsRespectingDependencies.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\SortItemsByGroupsRespectingDependencies\obj\Debug\netcoreapp3.1\SortItemsByGroupsRespectingDependencies.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\SortItemsByGroupsRespectingDependencies\obj\Debug\netcoreapp3.1\SortItemsByGroupsRespectingDependencies.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\SortItemsByGroupsRespectingDependencies\obj\Debug\netcoreapp3.1\SortItemsByGroupsRespectingDependencies.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\SortItemsByGroupsRespectingDependencies\obj\Debug\netcoreapp3.1\SortItemsByGroupsRespectingDependencies.dll
+C:\Users\zhaol\source\repos\LeetCode\SortItemsByGroupsRespectingDependencies\obj\Debug\netcoreapp3.1\SortItemsByGroupsRespectingDependencies.pdb
+C:\Users\zhaol\source\repos\LeetCode\SortItemsByGroupsRespectingDependencies\obj\Debug\netcoreapp3.1\SortItemsByGroupsRespectingDependencies.genruntimeconfig.cache
