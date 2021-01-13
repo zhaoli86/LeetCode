@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\MinimumJumpsToReachHome\bin\Debug\netcoreapp3.1\MinimumJumpsToReachHome.exe
+C:\Users\zhaol\source\repos\LeetCode\MinimumJumpsToReachHome\bin\Debug\netcoreapp3.1\MinimumJumpsToReachHome.deps.json
+C:\Users\zhaol\source\repos\LeetCode\MinimumJumpsToReachHome\bin\Debug\netcoreapp3.1\MinimumJumpsToReachHome.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\MinimumJumpsToReachHome\bin\Debug\netcoreapp3.1\MinimumJumpsToReachHome.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\MinimumJumpsToReachHome\bin\Debug\netcoreapp3.1\MinimumJumpsToReachHome.dll
+C:\Users\zhaol\source\repos\LeetCode\MinimumJumpsToReachHome\bin\Debug\netcoreapp3.1\MinimumJumpsToReachHome.pdb
+C:\Users\zhaol\source\repos\LeetCode\MinimumJumpsToReachHome\obj\Debug\netcoreapp3.1\MinimumJumpsToReachHome.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\MinimumJumpsToReachHome\obj\Debug\netcoreapp3.1\MinimumJumpsToReachHome.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\MinimumJumpsToReachHome\obj\Debug\netcoreapp3.1\MinimumJumpsToReachHome.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\MinimumJumpsToReachHome\obj\Debug\netcoreapp3.1\MinimumJumpsToReachHome.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\MinimumJumpsToReachHome\obj\Debug\netcoreapp3.1\MinimumJumpsToReachHome.dll
+C:\Users\zhaol\source\repos\LeetCode\MinimumJumpsToReachHome\obj\Debug\netcoreapp3.1\MinimumJumpsToReachHome.pdb
+C:\Users\zhaol\source\repos\LeetCode\MinimumJumpsToReachHome\obj\Debug\netcoreapp3.1\MinimumJumpsToReachHome.genruntimeconfig.cache
