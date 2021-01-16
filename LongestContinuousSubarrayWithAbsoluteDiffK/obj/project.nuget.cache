@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gLnh1Qz4zPsVxRUDwPIzWBgDcwDc8GlNmdMyrOYbLCYu3YpI9GzeEH37DR766d6KK6y+0JfznuE4Z3kQz+67wg==",
+  "dgSpecHash": "ySrQBqhADlCvASk3068dp4c4BR5MSJTdYpzu+w6asgRWYwzm9S4QSWOU04RjLQccfNMYL40LM7kySLiWOJBvrw==",
   "success": true,
   "projectFilePath": "C:\\Users\\zhaol\\source\\repos\\LeetCode\\LongestContinuousSubarrayWithAbsoluteDiffK\\LongestContinuousSubarrayWithAbsoluteDiffK.csproj",
   "expectedPackageFiles": [

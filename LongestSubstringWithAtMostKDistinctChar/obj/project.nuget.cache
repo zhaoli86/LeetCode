@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "5qrAgRloWovmfJ1HDbMqyCJB3I9lCxKJfLEdGHRuef4Yfr/qQxD7g18vcvZnzuuXQSRJiPoEg4qS04aVL8DZ2g==",
+  "dgSpecHash": "w20M7HY22wPpFa3b3KJd4ojdFZrIy9V9ZdwwERw4ja7JH2Ct2MI28v4VGk68hHI4MjIR9VXiG2R7r4yNidZ40g==",
   "success": true,
   "projectFilePath": "C:\\Users\\zhaol\\source\\repos\\LeetCode\\LongestSubstringWithAtMostKDistinctChar\\LongestSubstringWithAtMostKDistinctChar.csproj",
   "expectedPackageFiles": [],

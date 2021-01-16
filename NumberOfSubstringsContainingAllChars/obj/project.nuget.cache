@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "/SksIExCvl7oOT+v8hejxiRRUe0iJP2InB704/sPyjdnFBbKVLgT6bj/OP39XRctBbS8un5L9kAjkiYWZE1Cyg==",
+  "dgSpecHash": "6HYP1+9wULvBUKJhOJOoozbmO0MEcMjzneWwizE+56EqdfMTfgGNNbdy/BtjFbCVHtRZqJ9JJvaCBYh0fNCa5w==",
   "success": true,
   "projectFilePath": "C:\\Users\\zhaol\\source\\repos\\LeetCode\\NumberOfSubstringsContainingAllChars\\NumberOfSubstringsContainingAllChars.csproj",
   "expectedPackageFiles": [
