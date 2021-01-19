@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\TheMaze\bin\Debug\netcoreapp3.1\TheMaze.exe
+C:\Users\zhaol\source\repos\LeetCode\TheMaze\bin\Debug\netcoreapp3.1\TheMaze.deps.json
+C:\Users\zhaol\source\repos\LeetCode\TheMaze\bin\Debug\netcoreapp3.1\TheMaze.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\TheMaze\bin\Debug\netcoreapp3.1\TheMaze.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\TheMaze\bin\Debug\netcoreapp3.1\TheMaze.dll
+C:\Users\zhaol\source\repos\LeetCode\TheMaze\bin\Debug\netcoreapp3.1\TheMaze.pdb
+C:\Users\zhaol\source\repos\LeetCode\TheMaze\obj\Debug\netcoreapp3.1\TheMaze.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\TheMaze\obj\Debug\netcoreapp3.1\TheMaze.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\TheMaze\obj\Debug\netcoreapp3.1\TheMaze.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\TheMaze\obj\Debug\netcoreapp3.1\TheMaze.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\TheMaze\obj\Debug\netcoreapp3.1\TheMaze.dll
+C:\Users\zhaol\source\repos\LeetCode\TheMaze\obj\Debug\netcoreapp3.1\TheMaze.pdb
+C:\Users\zhaol\source\repos\LeetCode\TheMaze\obj\Debug\netcoreapp3.1\TheMaze.genruntimeconfig.cache
