@@ -1,0 +1,16 @@
+C:\Users\zhaol\source\repos\LeetCode\TrappingRainWaterII\bin\Debug\netcoreapp3.1\TrappingRainWaterII.exe
+C:\Users\zhaol\source\repos\LeetCode\TrappingRainWaterII\bin\Debug\netcoreapp3.1\TrappingRainWaterII.deps.json
+C:\Users\zhaol\source\repos\LeetCode\TrappingRainWaterII\bin\Debug\netcoreapp3.1\TrappingRainWaterII.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\TrappingRainWaterII\bin\Debug\netcoreapp3.1\TrappingRainWaterII.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\TrappingRainWaterII\bin\Debug\netcoreapp3.1\TrappingRainWaterII.dll
+C:\Users\zhaol\source\repos\LeetCode\TrappingRainWaterII\bin\Debug\netcoreapp3.1\TrappingRainWaterII.pdb
+C:\Users\zhaol\source\repos\LeetCode\TrappingRainWaterII\bin\Debug\netcoreapp3.1\Utility.dll
+C:\Users\zhaol\source\repos\LeetCode\TrappingRainWaterII\bin\Debug\netcoreapp3.1\Utility.pdb
+C:\Users\zhaol\source\repos\LeetCode\TrappingRainWaterII\obj\Debug\netcoreapp3.1\TrappingRainWaterII.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\TrappingRainWaterII\obj\Debug\netcoreapp3.1\TrappingRainWaterII.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\TrappingRainWaterII\obj\Debug\netcoreapp3.1\TrappingRainWaterII.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\TrappingRainWaterII\obj\Debug\netcoreapp3.1\TrappingRainWaterII.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\TrappingRainWaterII\obj\Debug\netcoreapp3.1\TrappingRainWaterII.csproj.CopyComplete
+C:\Users\zhaol\source\repos\LeetCode\TrappingRainWaterII\obj\Debug\netcoreapp3.1\TrappingRainWaterII.dll
+C:\Users\zhaol\source\repos\LeetCode\TrappingRainWaterII\obj\Debug\netcoreapp3.1\TrappingRainWaterII.pdb
+C:\Users\zhaol\source\repos\LeetCode\TrappingRainWaterII\obj\Debug\netcoreapp3.1\TrappingRainWaterII.genruntimeconfig.cache
