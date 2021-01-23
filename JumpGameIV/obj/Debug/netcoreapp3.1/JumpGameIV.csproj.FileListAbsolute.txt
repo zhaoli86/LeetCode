@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\JumpGameIV\bin\Debug\netcoreapp3.1\JumpGameIV.exe
+C:\Users\zhaol\source\repos\LeetCode\JumpGameIV\bin\Debug\netcoreapp3.1\JumpGameIV.deps.json
+C:\Users\zhaol\source\repos\LeetCode\JumpGameIV\bin\Debug\netcoreapp3.1\JumpGameIV.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\JumpGameIV\bin\Debug\netcoreapp3.1\JumpGameIV.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\JumpGameIV\bin\Debug\netcoreapp3.1\JumpGameIV.dll
+C:\Users\zhaol\source\repos\LeetCode\JumpGameIV\bin\Debug\netcoreapp3.1\JumpGameIV.pdb
+C:\Users\zhaol\source\repos\LeetCode\JumpGameIV\obj\Debug\netcoreapp3.1\JumpGameIV.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\JumpGameIV\obj\Debug\netcoreapp3.1\JumpGameIV.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\JumpGameIV\obj\Debug\netcoreapp3.1\JumpGameIV.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\JumpGameIV\obj\Debug\netcoreapp3.1\JumpGameIV.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\JumpGameIV\obj\Debug\netcoreapp3.1\JumpGameIV.dll
+C:\Users\zhaol\source\repos\LeetCode\JumpGameIV\obj\Debug\netcoreapp3.1\JumpGameIV.pdb
+C:\Users\zhaol\source\repos\LeetCode\JumpGameIV\obj\Debug\netcoreapp3.1\JumpGameIV.genruntimeconfig.cache
