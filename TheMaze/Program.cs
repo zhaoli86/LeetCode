@@ -17,42 +17,42 @@ namespace TheMaze
             {
                 return false;
             }
-            if (start[0]==destination[0]&&start[1]==destination[1])
+            if (start[0] == destination[0] && start[1] == destination[1])
             {
                 return true;
             }
 
             visited[start[0], start[1]] = true;
             int left = start[1] - 1, right = start[1] + 1, up = start[0] - 1, down = start[0] + 1;
-            while (left>=0&&maze[start[0]][left]==0)
+            while (left >= 0 && maze[start[0]][left] == 0)
             {
                 left--;
             }
-            if (Dfs(maze, new int[] {start[0], left+1}, destination, visited))
+            if (Dfs(maze, new int[] { start[0], left + 1 }, destination, visited))
             {
                 return true;
             }
-            while (right<maze[0].Length&&maze[start[0]][right]==0)
+            while (right < maze[0].Length && maze[start[0]][right] == 0)
             {
                 right++;
             }
-            if (Dfs(maze, new int[] {start[0], right -1}, destination, visited))
+            if (Dfs(maze, new int[] { start[0], right - 1 }, destination, visited))
             {
                 return true;
             }
-            while (up>=0&&maze[up][start[1]]==0)
+            while (up >= 0 && maze[up][start[1]] == 0)
             {
                 up--;
             }
-            if (Dfs(maze, new int[] { up+1, start[1]}, destination, visited))
+            if (Dfs(maze, new int[] { up + 1, start[1] }, destination, visited))
             {
                 return true;
             }
-            while (down<maze.Length&& maze[down][start[1]]==0)
+            while (down < maze.Length && maze[down][start[1]] == 0)
             {
                 down++;
             }
-            if (Dfs(maze, new int[] { down-1, start[1] }, destination, visited))
+            if (Dfs(maze, new int[] { down - 1, start[1] }, destination, visited))
             {
                 return true;
             }

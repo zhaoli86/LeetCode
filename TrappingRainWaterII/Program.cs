@@ -48,8 +48,7 @@ namespace TrappingRainWaterII
                 q.Enqueue(new Cell(rowCount - 1, i, heightMap[rowCount - 1][i]));
             }
 
-            var dirs = new int[4][] { new int[] {-1, 0 }, new int[] { 1, 0 }, new int[] { 0, -1 },
-            new int[]{0, 1} };
+            var dirs = new int[4][] { new int[] {-1, 0 }, new int[] { 1, 0 }, new int[] { 0, -1 }, new int[]{0, 1} };
 
             int result = 0;
             while (q.Any())

@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\CutOffTreesForGolfEvent\obj\Debug\netcoreapp3.1\CutOffTreesForGolfEvent.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\CutOffTreesForGolfEvent\obj\Debug\netcoreapp3.1\CutOffTreesForGolfEvent.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\CutOffTreesForGolfEvent\obj\Debug\netcoreapp3.1\CutOffTreesForGolfEvent.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\CutOffTreesForGolfEvent\obj\Debug\netcoreapp3.1\CutOffTreesForGolfEvent.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\CutOffTreesForGolfEvent\bin\Debug\netcoreapp3.1\CutOffTreesForGolfEvent.exe
+C:\Users\zhaol\source\repos\LeetCode\CutOffTreesForGolfEvent\bin\Debug\netcoreapp3.1\CutOffTreesForGolfEvent.deps.json
+C:\Users\zhaol\source\repos\LeetCode\CutOffTreesForGolfEvent\bin\Debug\netcoreapp3.1\CutOffTreesForGolfEvent.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\CutOffTreesForGolfEvent\bin\Debug\netcoreapp3.1\CutOffTreesForGolfEvent.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\CutOffTreesForGolfEvent\bin\Debug\netcoreapp3.1\CutOffTreesForGolfEvent.dll
+C:\Users\zhaol\source\repos\LeetCode\CutOffTreesForGolfEvent\bin\Debug\netcoreapp3.1\CutOffTreesForGolfEvent.pdb
+C:\Users\zhaol\source\repos\LeetCode\CutOffTreesForGolfEvent\obj\Debug\netcoreapp3.1\CutOffTreesForGolfEvent.dll
+C:\Users\zhaol\source\repos\LeetCode\CutOffTreesForGolfEvent\obj\Debug\netcoreapp3.1\CutOffTreesForGolfEvent.pdb
+C:\Users\zhaol\source\repos\LeetCode\CutOffTreesForGolfEvent\obj\Debug\netcoreapp3.1\CutOffTreesForGolfEvent.genruntimeconfig.cache
