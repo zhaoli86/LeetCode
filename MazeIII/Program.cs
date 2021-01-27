@@ -28,7 +28,7 @@ namespace MazeIII
                 Length = length;
                 Path = path;
             }
-            public int CompareTo([AllowNull] Point other)
+            public int CompareTo(Point other)
             {
                 return Length == other.Length ? Path.CompareTo(other.Path) : Length - other.Length;
             }

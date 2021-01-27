@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\MinCostToMakeAtLeastOneValidPathInGrid\bin\Debug\netcoreapp3.1\MinCostToMakeAtLeastOneValidPathInGrid.exe
+C:\Users\zhaol\source\repos\LeetCode\MinCostToMakeAtLeastOneValidPathInGrid\bin\Debug\netcoreapp3.1\MinCostToMakeAtLeastOneValidPathInGrid.deps.json
+C:\Users\zhaol\source\repos\LeetCode\MinCostToMakeAtLeastOneValidPathInGrid\bin\Debug\netcoreapp3.1\MinCostToMakeAtLeastOneValidPathInGrid.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\MinCostToMakeAtLeastOneValidPathInGrid\bin\Debug\netcoreapp3.1\MinCostToMakeAtLeastOneValidPathInGrid.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\MinCostToMakeAtLeastOneValidPathInGrid\bin\Debug\netcoreapp3.1\MinCostToMakeAtLeastOneValidPathInGrid.dll
+C:\Users\zhaol\source\repos\LeetCode\MinCostToMakeAtLeastOneValidPathInGrid\bin\Debug\netcoreapp3.1\MinCostToMakeAtLeastOneValidPathInGrid.pdb
+C:\Users\zhaol\source\repos\LeetCode\MinCostToMakeAtLeastOneValidPathInGrid\obj\Debug\netcoreapp3.1\MinCostToMakeAtLeastOneValidPathInGrid.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\MinCostToMakeAtLeastOneValidPathInGrid\obj\Debug\netcoreapp3.1\MinCostToMakeAtLeastOneValidPathInGrid.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\MinCostToMakeAtLeastOneValidPathInGrid\obj\Debug\netcoreapp3.1\MinCostToMakeAtLeastOneValidPathInGrid.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\MinCostToMakeAtLeastOneValidPathInGrid\obj\Debug\netcoreapp3.1\MinCostToMakeAtLeastOneValidPathInGrid.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\MinCostToMakeAtLeastOneValidPathInGrid\obj\Debug\netcoreapp3.1\MinCostToMakeAtLeastOneValidPathInGrid.dll
+C:\Users\zhaol\source\repos\LeetCode\MinCostToMakeAtLeastOneValidPathInGrid\obj\Debug\netcoreapp3.1\MinCostToMakeAtLeastOneValidPathInGrid.pdb
+C:\Users\zhaol\source\repos\LeetCode\MinCostToMakeAtLeastOneValidPathInGrid\obj\Debug\netcoreapp3.1\MinCostToMakeAtLeastOneValidPathInGrid.genruntimeconfig.cache
