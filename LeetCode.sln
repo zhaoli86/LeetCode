@@ -155,29 +155,33 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Utility", "Utility\Utility.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrappingRainWaterII", "TrappingRainWaterII\TrappingRainWaterII.csproj", "{49F60E45-B30E-44C7-9475-F8563D6A2E36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpGameIV", "JumpGameIV\JumpGameIV.csproj", "{C931993F-48AD-4180-8D98-DF49A1F5A032}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JumpGameIV", "JumpGameIV\JumpGameIV.csproj", "{C931993F-48AD-4180-8D98-DF49A1F5A032}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MS", "MS", "{D45E6F3D-FE8A-428B-9DFB-75D60041229A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{B69124FC-7C97-4D08-8599-06093A353748}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSum", "TwoSum\TwoSum.csproj", "{B69124FC-7C97-4D08-8599-06093A353748}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidPalindrome", "ValidPalindrome\ValidPalindrome.csproj", "{6B4C9679-38FA-4AFF-94DF-60CCE37514F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidPalindrome", "ValidPalindrome\ValidPalindrome.csproj", "{6B4C9679-38FA-4AFF-94DF-60CCE37514F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinNumberOfFlipsToConvertBinaryMatrixToZeroMatrix", "MinNumberOfFlipsToConvertBinaryMatrixToZeroMatrix\MinNumberOfFlipsToConvertBinaryMatrixToZeroMatrix.csproj", "{DCACBB48-6B50-4A56-BA13-19E9FFDFB70E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinNumberOfFlipsToConvertBinaryMatrixToZeroMatrix", "MinNumberOfFlipsToConvertBinaryMatrixToZeroMatrix\MinNumberOfFlipsToConvertBinaryMatrixToZeroMatrix.csproj", "{DCACBB48-6B50-4A56-BA13-19E9FFDFB70E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseWordsInString", "ReverseWordsInString\ReverseWordsInString.csproj", "{9E9FF576-56B8-47D5-B374-DA1A7159394B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseWordsInString", "ReverseWordsInString\ReverseWordsInString.csproj", "{9E9FF576-56B8-47D5-B374-DA1A7159394B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseWordsInStringII", "ReverseWordsInStringII\ReverseWordsInStringII.csproj", "{DBCE6D30-360A-4DD8-8879-BFCB24589C75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseWordsInStringII", "ReverseWordsInStringII\ReverseWordsInStringII.csproj", "{DBCE6D30-360A-4DD8-8879-BFCB24589C75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidParentheses", "ValidParentheses\ValidParentheses.csproj", "{4DD3AD08-085F-43EC-9E40-9CC0F88BC74A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidParentheses", "ValidParentheses\ValidParentheses.csproj", "{4DD3AD08-085F-43EC-9E40-9CC0F88BC74A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CutOffTreesForGolfEvent", "CutOffTreesForGolfEvent\CutOffTreesForGolfEvent.csproj", "{40713AB3-17A4-43A0-97A0-548A8E482F19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CutOffTreesForGolfEvent", "CutOffTreesForGolfEvent\CutOffTreesForGolfEvent.csproj", "{40713AB3-17A4-43A0-97A0-548A8E482F19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeIII", "MazeIII\MazeIII.csproj", "{80DA9180-A128-451A-AC7B-DE957809527B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MazeIII", "MazeIII\MazeIII.csproj", "{80DA9180-A128-451A-AC7B-DE957809527B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortestPathToGetAllKeys", "ShortestPathToGetAllKeys\ShortestPathToGetAllKeys.csproj", "{9A1AA177-DA07-4DE5-B9E5-CD59F6AC03AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShortestPathToGetAllKeys", "ShortestPathToGetAllKeys\ShortestPathToGetAllKeys.csproj", "{9A1AA177-DA07-4DE5-B9E5-CD59F6AC03AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinCostToMakeAtLeastOneValidPathInGrid", "MinCostToMakeAtLeastOneValidPathInGrid\MinCostToMakeAtLeastOneValidPathInGrid.csproj", "{2F36E61D-3528-47A7-8D36-2DA5CDE05C1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinCostToMakeAtLeastOneValidPathInGrid", "MinCostToMakeAtLeastOneValidPathInGrid\MinCostToMakeAtLeastOneValidPathInGrid.csproj", "{2F36E61D-3528-47A7-8D36-2DA5CDE05C1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakesAndLadders", "SnakesAndLadders\SnakesAndLadders.csproj", "{60A3B2A6-67D3-4AF8-9C2F-2F0190AF91D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortestPathVisitingAllNodes", "ShortestPathVisitingAllNodes\ShortestPathVisitingAllNodes.csproj", "{932FA036-DDF8-4B7D-A72A-AA3E3D6B8AE1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -525,6 +529,14 @@ Global
 		{2F36E61D-3528-47A7-8D36-2DA5CDE05C1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F36E61D-3528-47A7-8D36-2DA5CDE05C1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F36E61D-3528-47A7-8D36-2DA5CDE05C1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60A3B2A6-67D3-4AF8-9C2F-2F0190AF91D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60A3B2A6-67D3-4AF8-9C2F-2F0190AF91D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60A3B2A6-67D3-4AF8-9C2F-2F0190AF91D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60A3B2A6-67D3-4AF8-9C2F-2F0190AF91D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{932FA036-DDF8-4B7D-A72A-AA3E3D6B8AE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{932FA036-DDF8-4B7D-A72A-AA3E3D6B8AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{932FA036-DDF8-4B7D-A72A-AA3E3D6B8AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{932FA036-DDF8-4B7D-A72A-AA3E3D6B8AE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -615,6 +627,8 @@ Global
 		{80DA9180-A128-451A-AC7B-DE957809527B} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{9A1AA177-DA07-4DE5-B9E5-CD59F6AC03AD} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{2F36E61D-3528-47A7-8D36-2DA5CDE05C1E} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{60A3B2A6-67D3-4AF8-9C2F-2F0190AF91D8} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{932FA036-DDF8-4B7D-A72A-AA3E3D6B8AE1} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9932E0CB-C080-4D35-8DAD-DBAAF171EA4A}
