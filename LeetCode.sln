@@ -183,6 +183,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakesAndLadders", "SnakesA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortestPathVisitingAllNodes", "ShortestPathVisitingAllNodes\ShortestPathVisitingAllNodes.csproj", "{932FA036-DDF8-4B7D-A72A-AA3E3D6B8AE1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacificAtlanticWaterFlow", "PacificAtlanticWaterFlow\PacificAtlanticWaterFlow.csproj", "{61225CF4-7A1E-4351-85AD-1B2A96480E75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -537,6 +539,10 @@ Global
 		{932FA036-DDF8-4B7D-A72A-AA3E3D6B8AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{932FA036-DDF8-4B7D-A72A-AA3E3D6B8AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{932FA036-DDF8-4B7D-A72A-AA3E3D6B8AE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61225CF4-7A1E-4351-85AD-1B2A96480E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61225CF4-7A1E-4351-85AD-1B2A96480E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61225CF4-7A1E-4351-85AD-1B2A96480E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61225CF4-7A1E-4351-85AD-1B2A96480E75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -629,6 +635,7 @@ Global
 		{2F36E61D-3528-47A7-8D36-2DA5CDE05C1E} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{60A3B2A6-67D3-4AF8-9C2F-2F0190AF91D8} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{932FA036-DDF8-4B7D-A72A-AA3E3D6B8AE1} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{61225CF4-7A1E-4351-85AD-1B2A96480E75} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9932E0CB-C080-4D35-8DAD-DBAAF171EA4A}
