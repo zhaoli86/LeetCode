@@ -185,6 +185,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortestPathVisitingAllNode
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacificAtlanticWaterFlow", "PacificAtlanticWaterFlow\PacificAtlanticWaterFlow.csproj", "{61225CF4-7A1E-4351-85AD-1B2A96480E75}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeImportance", "EmployeeImportance\EmployeeImportance.csproj", "{A2F7DAAE-1339-4014-B68C-62220DF07C9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -543,6 +545,10 @@ Global
 		{61225CF4-7A1E-4351-85AD-1B2A96480E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61225CF4-7A1E-4351-85AD-1B2A96480E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61225CF4-7A1E-4351-85AD-1B2A96480E75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2F7DAAE-1339-4014-B68C-62220DF07C9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2F7DAAE-1339-4014-B68C-62220DF07C9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2F7DAAE-1339-4014-B68C-62220DF07C9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2F7DAAE-1339-4014-B68C-62220DF07C9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -636,6 +642,7 @@ Global
 		{60A3B2A6-67D3-4AF8-9C2F-2F0190AF91D8} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{932FA036-DDF8-4B7D-A72A-AA3E3D6B8AE1} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{61225CF4-7A1E-4351-85AD-1B2A96480E75} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{A2F7DAAE-1339-4014-B68C-62220DF07C9C} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9932E0CB-C080-4D35-8DAD-DBAAF171EA4A}
