@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\GetWatchedVideosByYourFriends\bin\Debug\netcoreapp3.1\GetWatchedVideosByYourFriends.exe
+C:\Users\zhaol\source\repos\LeetCode\GetWatchedVideosByYourFriends\bin\Debug\netcoreapp3.1\GetWatchedVideosByYourFriends.deps.json
+C:\Users\zhaol\source\repos\LeetCode\GetWatchedVideosByYourFriends\bin\Debug\netcoreapp3.1\GetWatchedVideosByYourFriends.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\GetWatchedVideosByYourFriends\bin\Debug\netcoreapp3.1\GetWatchedVideosByYourFriends.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\GetWatchedVideosByYourFriends\bin\Debug\netcoreapp3.1\GetWatchedVideosByYourFriends.dll
+C:\Users\zhaol\source\repos\LeetCode\GetWatchedVideosByYourFriends\bin\Debug\netcoreapp3.1\GetWatchedVideosByYourFriends.pdb
+C:\Users\zhaol\source\repos\LeetCode\GetWatchedVideosByYourFriends\obj\Debug\netcoreapp3.1\GetWatchedVideosByYourFriends.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\GetWatchedVideosByYourFriends\obj\Debug\netcoreapp3.1\GetWatchedVideosByYourFriends.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\GetWatchedVideosByYourFriends\obj\Debug\netcoreapp3.1\GetWatchedVideosByYourFriends.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\GetWatchedVideosByYourFriends\obj\Debug\netcoreapp3.1\GetWatchedVideosByYourFriends.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\GetWatchedVideosByYourFriends\obj\Debug\netcoreapp3.1\GetWatchedVideosByYourFriends.dll
+C:\Users\zhaol\source\repos\LeetCode\GetWatchedVideosByYourFriends\obj\Debug\netcoreapp3.1\GetWatchedVideosByYourFriends.pdb
+C:\Users\zhaol\source\repos\LeetCode\GetWatchedVideosByYourFriends\obj\Debug\netcoreapp3.1\GetWatchedVideosByYourFriends.genruntimeconfig.cache
