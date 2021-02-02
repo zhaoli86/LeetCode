@@ -36,7 +36,7 @@ namespace GetWatchedVideosByYourFriends
             {
                 foreach (var vid in watchedVideos[q.Dequeue()])
                 {
-                    if (result.ContainsKey(vid))
+                    if (!result.ContainsKey(vid))
                     {
                         result[vid] = 1;
                     }
