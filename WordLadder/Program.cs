@@ -13,7 +13,6 @@ namespace WordLadder
             var wordSet = wordList.ToHashSet();
             int len = 1;
             q.Enqueue(beginWord);
-            //visited.Add(beginWord);
 
             while (q.Any())
             {

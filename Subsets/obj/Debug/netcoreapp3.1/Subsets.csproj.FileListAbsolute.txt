@@ -1,0 +1,12 @@
+C:\Users\zhaol\source\repos\LeetCode\Subsets\bin\Debug\netcoreapp3.1\Subsets.exe
+C:\Users\zhaol\source\repos\LeetCode\Subsets\bin\Debug\netcoreapp3.1\Subsets.deps.json
+C:\Users\zhaol\source\repos\LeetCode\Subsets\bin\Debug\netcoreapp3.1\Subsets.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\Subsets\bin\Debug\netcoreapp3.1\Subsets.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\Subsets\bin\Debug\netcoreapp3.1\Subsets.dll
+C:\Users\zhaol\source\repos\LeetCode\Subsets\bin\Debug\netcoreapp3.1\Subsets.pdb
+C:\Users\zhaol\source\repos\LeetCode\Subsets\obj\Debug\netcoreapp3.1\Subsets.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\Subsets\obj\Debug\netcoreapp3.1\Subsets.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\Subsets\obj\Debug\netcoreapp3.1\Subsets.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\Subsets\obj\Debug\netcoreapp3.1\Subsets.dll
+C:\Users\zhaol\source\repos\LeetCode\Subsets\obj\Debug\netcoreapp3.1\Subsets.pdb
+C:\Users\zhaol\source\repos\LeetCode\Subsets\obj\Debug\netcoreapp3.1\Subsets.genruntimeconfig.cache
