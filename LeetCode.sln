@@ -199,6 +199,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubsetsII", "SubsetsII\Subs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permutations", "Permutations\Permutations.csproj", "{DBA1A334-E6FC-45D0-8C92-4F9830C90059}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermutationsII", "PermutationsII\PermutationsII.csproj", "{DEB424AD-317B-4C24-AE2A-4B0C53A359BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetterCombinationsOfPhoneNumber", "LetterCombinationsOfPhoneNumber\LetterCombinationsOfPhoneNumber.csproj", "{46B866CA-0C20-4F8D-A553-C71B03FECB19}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -585,6 +589,14 @@ Global
 		{DBA1A334-E6FC-45D0-8C92-4F9830C90059}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBA1A334-E6FC-45D0-8C92-4F9830C90059}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBA1A334-E6FC-45D0-8C92-4F9830C90059}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEB424AD-317B-4C24-AE2A-4B0C53A359BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEB424AD-317B-4C24-AE2A-4B0C53A359BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEB424AD-317B-4C24-AE2A-4B0C53A359BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEB424AD-317B-4C24-AE2A-4B0C53A359BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46B866CA-0C20-4F8D-A553-C71B03FECB19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46B866CA-0C20-4F8D-A553-C71B03FECB19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46B866CA-0C20-4F8D-A553-C71B03FECB19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46B866CA-0C20-4F8D-A553-C71B03FECB19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -685,6 +697,8 @@ Global
 		{C2B7E961-B844-4A2A-8496-3D29483529C2} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{8CA2DD66-215E-4AEE-A65E-D7ADD6055569} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{DBA1A334-E6FC-45D0-8C92-4F9830C90059} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{DEB424AD-317B-4C24-AE2A-4B0C53A359BF} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{46B866CA-0C20-4F8D-A553-C71B03FECB19} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9932E0CB-C080-4D35-8DAD-DBAAF171EA4A}
