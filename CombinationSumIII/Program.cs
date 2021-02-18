@@ -24,7 +24,7 @@ namespace CombinationSumIII
             }
             else
             {
-                for (int i = start; i < 9; i++)
+                for (int i = start; i <= 9; i++)
                 {
                     tempList.Add(i);
                     Backtrack(result, tempList, k, remain - i, i + 1);
