@@ -14,7 +14,7 @@ namespace Permutations
 
         private void Backtrack(List<IList<int>> result, List<int> tempList, int[] nums)
         {
-            if (tempList.Count==nums.Length)
+            if (tempList.Count == nums.Length)
             {
                 result.Add(new List<int>(tempList));
             }
