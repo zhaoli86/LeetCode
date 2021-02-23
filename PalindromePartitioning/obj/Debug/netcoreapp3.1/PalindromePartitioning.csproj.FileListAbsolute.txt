@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\PalindromePartitioning\bin\Debug\netcoreapp3.1\PalindromePartitioning.exe
+C:\Users\zhaol\source\repos\LeetCode\PalindromePartitioning\bin\Debug\netcoreapp3.1\PalindromePartitioning.deps.json
+C:\Users\zhaol\source\repos\LeetCode\PalindromePartitioning\bin\Debug\netcoreapp3.1\PalindromePartitioning.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\PalindromePartitioning\bin\Debug\netcoreapp3.1\PalindromePartitioning.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\PalindromePartitioning\bin\Debug\netcoreapp3.1\PalindromePartitioning.dll
+C:\Users\zhaol\source\repos\LeetCode\PalindromePartitioning\bin\Debug\netcoreapp3.1\PalindromePartitioning.pdb
+C:\Users\zhaol\source\repos\LeetCode\PalindromePartitioning\obj\Debug\netcoreapp3.1\PalindromePartitioning.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\PalindromePartitioning\obj\Debug\netcoreapp3.1\PalindromePartitioning.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\PalindromePartitioning\obj\Debug\netcoreapp3.1\PalindromePartitioning.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\PalindromePartitioning\obj\Debug\netcoreapp3.1\PalindromePartitioning.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\PalindromePartitioning\obj\Debug\netcoreapp3.1\PalindromePartitioning.dll
+C:\Users\zhaol\source\repos\LeetCode\PalindromePartitioning\obj\Debug\netcoreapp3.1\PalindromePartitioning.pdb
+C:\Users\zhaol\source\repos\LeetCode\PalindromePartitioning\obj\Debug\netcoreapp3.1\PalindromePartitioning.genruntimeconfig.cache

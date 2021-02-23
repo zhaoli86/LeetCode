@@ -227,9 +227,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LRUCache", "LRUCache\LRUCac
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeautifulArrangement", "BeautifulArrangement\BeautifulArrangement.csproj", "{282796B4-D659-432D-B07C-8DFAF264B85B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateParentheses", "GenerateParentheses\GenerateParentheses.csproj", "{A15E6313-9120-4B72-8DBD-3B86B56C565D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenerateParentheses", "GenerateParentheses\GenerateParentheses.csproj", "{A15E6313-9120-4B72-8DBD-3B86B56C565D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneralizedAbbreviation", "GeneralizedAbbreviation\GeneralizedAbbreviation.csproj", "{A1F0664F-C7DA-4A8C-A5B7-83541E6CB236}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeneralizedAbbreviation", "GeneralizedAbbreviation\GeneralizedAbbreviation.csproj", "{A1F0664F-C7DA-4A8C-A5B7-83541E6CB236}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalindromePartitioning", "PalindromePartitioning\PalindromePartitioning.csproj", "{FDDB8B1C-0F5E-4C67-8F96-3EAF07CEF57E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordSearch", "WordSearch\WordSearch.csproj", "{0F7F4614-D456-4005-A254-5F6A17AB979E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordSearchII", "WordSearchII\WordSearchII.csproj", "{6BB5C2B2-1FB3-4609-AB11-E67AAE1C4017}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -681,6 +687,18 @@ Global
 		{A1F0664F-C7DA-4A8C-A5B7-83541E6CB236}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1F0664F-C7DA-4A8C-A5B7-83541E6CB236}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1F0664F-C7DA-4A8C-A5B7-83541E6CB236}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDDB8B1C-0F5E-4C67-8F96-3EAF07CEF57E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDDB8B1C-0F5E-4C67-8F96-3EAF07CEF57E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDDB8B1C-0F5E-4C67-8F96-3EAF07CEF57E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDDB8B1C-0F5E-4C67-8F96-3EAF07CEF57E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F7F4614-D456-4005-A254-5F6A17AB979E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F7F4614-D456-4005-A254-5F6A17AB979E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F7F4614-D456-4005-A254-5F6A17AB979E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F7F4614-D456-4005-A254-5F6A17AB979E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BB5C2B2-1FB3-4609-AB11-E67AAE1C4017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BB5C2B2-1FB3-4609-AB11-E67AAE1C4017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BB5C2B2-1FB3-4609-AB11-E67AAE1C4017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BB5C2B2-1FB3-4609-AB11-E67AAE1C4017}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -797,6 +815,9 @@ Global
 		{282796B4-D659-432D-B07C-8DFAF264B85B} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{A15E6313-9120-4B72-8DBD-3B86B56C565D} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{A1F0664F-C7DA-4A8C-A5B7-83541E6CB236} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{FDDB8B1C-0F5E-4C67-8F96-3EAF07CEF57E} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{0F7F4614-D456-4005-A254-5F6A17AB979E} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{6BB5C2B2-1FB3-4609-AB11-E67AAE1C4017} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9932E0CB-C080-4D35-8DAD-DBAAF171EA4A}
