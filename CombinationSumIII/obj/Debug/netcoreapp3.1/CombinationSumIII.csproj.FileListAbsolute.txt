@@ -1,0 +1,12 @@
+C:\Users\zhaol\source\repos\LeetCode\CombinationSumIII\bin\Debug\netcoreapp3.1\CombinationSumIII.exe
+C:\Users\zhaol\source\repos\LeetCode\CombinationSumIII\bin\Debug\netcoreapp3.1\CombinationSumIII.deps.json
+C:\Users\zhaol\source\repos\LeetCode\CombinationSumIII\bin\Debug\netcoreapp3.1\CombinationSumIII.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\CombinationSumIII\bin\Debug\netcoreapp3.1\CombinationSumIII.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\CombinationSumIII\bin\Debug\netcoreapp3.1\CombinationSumIII.dll
+C:\Users\zhaol\source\repos\LeetCode\CombinationSumIII\bin\Debug\netcoreapp3.1\CombinationSumIII.pdb
+C:\Users\zhaol\source\repos\LeetCode\CombinationSumIII\obj\Debug\netcoreapp3.1\CombinationSumIII.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\CombinationSumIII\obj\Debug\netcoreapp3.1\CombinationSumIII.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\CombinationSumIII\obj\Debug\netcoreapp3.1\CombinationSumIII.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\CombinationSumIII\obj\Debug\netcoreapp3.1\CombinationSumIII.dll
+C:\Users\zhaol\source\repos\LeetCode\CombinationSumIII\obj\Debug\netcoreapp3.1\CombinationSumIII.pdb
+C:\Users\zhaol\source\repos\LeetCode\CombinationSumIII\obj\Debug\netcoreapp3.1\CombinationSumIII.genruntimeconfig.cache

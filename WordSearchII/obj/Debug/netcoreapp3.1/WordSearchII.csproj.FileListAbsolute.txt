@@ -1,0 +1,12 @@
+C:\Users\zhaol\source\repos\LeetCode\WordSearchII\bin\Debug\netcoreapp3.1\WordSearchII.exe
+C:\Users\zhaol\source\repos\LeetCode\WordSearchII\bin\Debug\netcoreapp3.1\WordSearchII.deps.json
+C:\Users\zhaol\source\repos\LeetCode\WordSearchII\bin\Debug\netcoreapp3.1\WordSearchII.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\WordSearchII\bin\Debug\netcoreapp3.1\WordSearchII.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\WordSearchII\bin\Debug\netcoreapp3.1\WordSearchII.dll
+C:\Users\zhaol\source\repos\LeetCode\WordSearchII\bin\Debug\netcoreapp3.1\WordSearchII.pdb
+C:\Users\zhaol\source\repos\LeetCode\WordSearchII\obj\Debug\netcoreapp3.1\WordSearchII.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\WordSearchII\obj\Debug\netcoreapp3.1\WordSearchII.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\WordSearchII\obj\Debug\netcoreapp3.1\WordSearchII.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\WordSearchII\obj\Debug\netcoreapp3.1\WordSearchII.dll
+C:\Users\zhaol\source\repos\LeetCode\WordSearchII\obj\Debug\netcoreapp3.1\WordSearchII.pdb
+C:\Users\zhaol\source\repos\LeetCode\WordSearchII\obj\Debug\netcoreapp3.1\WordSearchII.genruntimeconfig.cache

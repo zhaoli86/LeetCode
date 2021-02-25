@@ -1,0 +1,12 @@
+C:\Users\zhaol\source\repos\LeetCode\MinimumUniqueWordAbbreviation\bin\Debug\netcoreapp3.1\MinimumUniqueWordAbbreviation.exe
+C:\Users\zhaol\source\repos\LeetCode\MinimumUniqueWordAbbreviation\bin\Debug\netcoreapp3.1\MinimumUniqueWordAbbreviation.deps.json
+C:\Users\zhaol\source\repos\LeetCode\MinimumUniqueWordAbbreviation\bin\Debug\netcoreapp3.1\MinimumUniqueWordAbbreviation.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\MinimumUniqueWordAbbreviation\bin\Debug\netcoreapp3.1\MinimumUniqueWordAbbreviation.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\MinimumUniqueWordAbbreviation\bin\Debug\netcoreapp3.1\MinimumUniqueWordAbbreviation.dll
+C:\Users\zhaol\source\repos\LeetCode\MinimumUniqueWordAbbreviation\bin\Debug\netcoreapp3.1\MinimumUniqueWordAbbreviation.pdb
+C:\Users\zhaol\source\repos\LeetCode\MinimumUniqueWordAbbreviation\obj\Debug\netcoreapp3.1\MinimumUniqueWordAbbreviation.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\MinimumUniqueWordAbbreviation\obj\Debug\netcoreapp3.1\MinimumUniqueWordAbbreviation.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\MinimumUniqueWordAbbreviation\obj\Debug\netcoreapp3.1\MinimumUniqueWordAbbreviation.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\MinimumUniqueWordAbbreviation\obj\Debug\netcoreapp3.1\MinimumUniqueWordAbbreviation.dll
+C:\Users\zhaol\source\repos\LeetCode\MinimumUniqueWordAbbreviation\obj\Debug\netcoreapp3.1\MinimumUniqueWordAbbreviation.pdb
+C:\Users\zhaol\source\repos\LeetCode\MinimumUniqueWordAbbreviation\obj\Debug\netcoreapp3.1\MinimumUniqueWordAbbreviation.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\NumberOfSubstringsContainingAllChars\bin\Debug\netcoreapp3.1\NumberOfSubstringsContainingAllChars.exe
+C:\Users\zhaol\source\repos\LeetCode\NumberOfSubstringsContainingAllChars\bin\Debug\netcoreapp3.1\NumberOfSubstringsContainingAllChars.deps.json
+C:\Users\zhaol\source\repos\LeetCode\NumberOfSubstringsContainingAllChars\bin\Debug\netcoreapp3.1\NumberOfSubstringsContainingAllChars.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\NumberOfSubstringsContainingAllChars\bin\Debug\netcoreapp3.1\NumberOfSubstringsContainingAllChars.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\NumberOfSubstringsContainingAllChars\bin\Debug\netcoreapp3.1\NumberOfSubstringsContainingAllChars.dll
+C:\Users\zhaol\source\repos\LeetCode\NumberOfSubstringsContainingAllChars\bin\Debug\netcoreapp3.1\NumberOfSubstringsContainingAllChars.pdb
+C:\Users\zhaol\source\repos\LeetCode\NumberOfSubstringsContainingAllChars\obj\Debug\netcoreapp3.1\NumberOfSubstringsContainingAllChars.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\NumberOfSubstringsContainingAllChars\obj\Debug\netcoreapp3.1\NumberOfSubstringsContainingAllChars.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\NumberOfSubstringsContainingAllChars\obj\Debug\netcoreapp3.1\NumberOfSubstringsContainingAllChars.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\NumberOfSubstringsContainingAllChars\obj\Debug\netcoreapp3.1\NumberOfSubstringsContainingAllChars.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\NumberOfSubstringsContainingAllChars\obj\Debug\netcoreapp3.1\NumberOfSubstringsContainingAllChars.dll
+C:\Users\zhaol\source\repos\LeetCode\NumberOfSubstringsContainingAllChars\obj\Debug\netcoreapp3.1\NumberOfSubstringsContainingAllChars.pdb
+C:\Users\zhaol\source\repos\LeetCode\NumberOfSubstringsContainingAllChars\obj\Debug\netcoreapp3.1\NumberOfSubstringsContainingAllChars.genruntimeconfig.cache

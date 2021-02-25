@@ -1,0 +1,12 @@
+C:\Users\zhaol\source\repos\LeetCode\MaxConsecutiveOnes\bin\Debug\netcoreapp3.1\MaxConsecutiveOnes.exe
+C:\Users\zhaol\source\repos\LeetCode\MaxConsecutiveOnes\bin\Debug\netcoreapp3.1\MaxConsecutiveOnes.deps.json
+C:\Users\zhaol\source\repos\LeetCode\MaxConsecutiveOnes\bin\Debug\netcoreapp3.1\MaxConsecutiveOnes.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\MaxConsecutiveOnes\bin\Debug\netcoreapp3.1\MaxConsecutiveOnes.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\MaxConsecutiveOnes\bin\Debug\netcoreapp3.1\MaxConsecutiveOnes.dll
+C:\Users\zhaol\source\repos\LeetCode\MaxConsecutiveOnes\bin\Debug\netcoreapp3.1\MaxConsecutiveOnes.pdb
+C:\Users\zhaol\source\repos\LeetCode\MaxConsecutiveOnes\obj\Debug\netcoreapp3.1\MaxConsecutiveOnes.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\MaxConsecutiveOnes\obj\Debug\netcoreapp3.1\MaxConsecutiveOnes.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\MaxConsecutiveOnes\obj\Debug\netcoreapp3.1\MaxConsecutiveOnes.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\MaxConsecutiveOnes\obj\Debug\netcoreapp3.1\MaxConsecutiveOnes.dll
+C:\Users\zhaol\source\repos\LeetCode\MaxConsecutiveOnes\obj\Debug\netcoreapp3.1\MaxConsecutiveOnes.pdb
+C:\Users\zhaol\source\repos\LeetCode\MaxConsecutiveOnes\obj\Debug\netcoreapp3.1\MaxConsecutiveOnes.genruntimeconfig.cache

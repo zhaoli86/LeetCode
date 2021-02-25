@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\ValidateStackSequence\bin\Debug\netcoreapp3.1\ValidateStackSequence.exe
+C:\Users\zhaol\source\repos\LeetCode\ValidateStackSequence\bin\Debug\netcoreapp3.1\ValidateStackSequence.deps.json
+C:\Users\zhaol\source\repos\LeetCode\ValidateStackSequence\bin\Debug\netcoreapp3.1\ValidateStackSequence.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\ValidateStackSequence\bin\Debug\netcoreapp3.1\ValidateStackSequence.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\ValidateStackSequence\bin\Debug\netcoreapp3.1\ValidateStackSequence.dll
+C:\Users\zhaol\source\repos\LeetCode\ValidateStackSequence\bin\Debug\netcoreapp3.1\ValidateStackSequence.pdb
+C:\Users\zhaol\source\repos\LeetCode\ValidateStackSequence\obj\Debug\netcoreapp3.1\ValidateStackSequence.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\ValidateStackSequence\obj\Debug\netcoreapp3.1\ValidateStackSequence.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\ValidateStackSequence\obj\Debug\netcoreapp3.1\ValidateStackSequence.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\ValidateStackSequence\obj\Debug\netcoreapp3.1\ValidateStackSequence.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\ValidateStackSequence\obj\Debug\netcoreapp3.1\ValidateStackSequence.dll
+C:\Users\zhaol\source\repos\LeetCode\ValidateStackSequence\obj\Debug\netcoreapp3.1\ValidateStackSequence.pdb
+C:\Users\zhaol\source\repos\LeetCode\ValidateStackSequence\obj\Debug\netcoreapp3.1\ValidateStackSequence.genruntimeconfig.cache

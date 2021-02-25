@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\BraceExpansion\bin\Debug\netcoreapp3.1\BraceExpansion.exe
+C:\Users\zhaol\source\repos\LeetCode\BraceExpansion\bin\Debug\netcoreapp3.1\BraceExpansion.deps.json
+C:\Users\zhaol\source\repos\LeetCode\BraceExpansion\bin\Debug\netcoreapp3.1\BraceExpansion.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\BraceExpansion\bin\Debug\netcoreapp3.1\BraceExpansion.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\BraceExpansion\bin\Debug\netcoreapp3.1\BraceExpansion.dll
+C:\Users\zhaol\source\repos\LeetCode\BraceExpansion\bin\Debug\netcoreapp3.1\BraceExpansion.pdb
+C:\Users\zhaol\source\repos\LeetCode\BraceExpansion\obj\Debug\netcoreapp3.1\BraceExpansion.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\BraceExpansion\obj\Debug\netcoreapp3.1\BraceExpansion.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\BraceExpansion\obj\Debug\netcoreapp3.1\BraceExpansion.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\BraceExpansion\obj\Debug\netcoreapp3.1\BraceExpansion.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\BraceExpansion\obj\Debug\netcoreapp3.1\BraceExpansion.dll
+C:\Users\zhaol\source\repos\LeetCode\BraceExpansion\obj\Debug\netcoreapp3.1\BraceExpansion.pdb
+C:\Users\zhaol\source\repos\LeetCode\BraceExpansion\obj\Debug\netcoreapp3.1\BraceExpansion.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\MaxValueOfEquation\bin\Debug\netcoreapp3.1\MaxValueOfEquation.exe
+C:\Users\zhaol\source\repos\LeetCode\MaxValueOfEquation\bin\Debug\netcoreapp3.1\MaxValueOfEquation.deps.json
+C:\Users\zhaol\source\repos\LeetCode\MaxValueOfEquation\bin\Debug\netcoreapp3.1\MaxValueOfEquation.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\MaxValueOfEquation\bin\Debug\netcoreapp3.1\MaxValueOfEquation.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\MaxValueOfEquation\bin\Debug\netcoreapp3.1\MaxValueOfEquation.dll
+C:\Users\zhaol\source\repos\LeetCode\MaxValueOfEquation\bin\Debug\netcoreapp3.1\MaxValueOfEquation.pdb
+C:\Users\zhaol\source\repos\LeetCode\MaxValueOfEquation\obj\Debug\netcoreapp3.1\MaxValueOfEquation.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\MaxValueOfEquation\obj\Debug\netcoreapp3.1\MaxValueOfEquation.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\MaxValueOfEquation\obj\Debug\netcoreapp3.1\MaxValueOfEquation.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\MaxValueOfEquation\obj\Debug\netcoreapp3.1\MaxValueOfEquation.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\MaxValueOfEquation\obj\Debug\netcoreapp3.1\MaxValueOfEquation.dll
+C:\Users\zhaol\source\repos\LeetCode\MaxValueOfEquation\obj\Debug\netcoreapp3.1\MaxValueOfEquation.pdb
+C:\Users\zhaol\source\repos\LeetCode\MaxValueOfEquation\obj\Debug\netcoreapp3.1\MaxValueOfEquation.genruntimeconfig.cache

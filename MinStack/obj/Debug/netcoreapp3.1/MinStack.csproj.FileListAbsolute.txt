@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\MinStack\bin\Debug\netcoreapp3.1\MinStack.exe
+C:\Users\zhaol\source\repos\LeetCode\MinStack\bin\Debug\netcoreapp3.1\MinStack.deps.json
+C:\Users\zhaol\source\repos\LeetCode\MinStack\bin\Debug\netcoreapp3.1\MinStack.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\MinStack\bin\Debug\netcoreapp3.1\MinStack.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\MinStack\bin\Debug\netcoreapp3.1\MinStack.dll
+C:\Users\zhaol\source\repos\LeetCode\MinStack\bin\Debug\netcoreapp3.1\MinStack.pdb
+C:\Users\zhaol\source\repos\LeetCode\MinStack\obj\Debug\netcoreapp3.1\MinStack.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\MinStack\obj\Debug\netcoreapp3.1\MinStack.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\MinStack\obj\Debug\netcoreapp3.1\MinStack.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\MinStack\obj\Debug\netcoreapp3.1\MinStack.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\MinStack\obj\Debug\netcoreapp3.1\MinStack.dll
+C:\Users\zhaol\source\repos\LeetCode\MinStack\obj\Debug\netcoreapp3.1\MinStack.pdb
+C:\Users\zhaol\source\repos\LeetCode\MinStack\obj\Debug\netcoreapp3.1\MinStack.genruntimeconfig.cache

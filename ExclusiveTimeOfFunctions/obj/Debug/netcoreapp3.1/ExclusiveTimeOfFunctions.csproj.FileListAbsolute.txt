@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\ExclusiveTimeOfFunctions\bin\Debug\netcoreapp3.1\ExclusiveTimeOfFunctions.exe
+C:\Users\zhaol\source\repos\LeetCode\ExclusiveTimeOfFunctions\bin\Debug\netcoreapp3.1\ExclusiveTimeOfFunctions.deps.json
+C:\Users\zhaol\source\repos\LeetCode\ExclusiveTimeOfFunctions\bin\Debug\netcoreapp3.1\ExclusiveTimeOfFunctions.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\ExclusiveTimeOfFunctions\bin\Debug\netcoreapp3.1\ExclusiveTimeOfFunctions.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\ExclusiveTimeOfFunctions\bin\Debug\netcoreapp3.1\ExclusiveTimeOfFunctions.dll
+C:\Users\zhaol\source\repos\LeetCode\ExclusiveTimeOfFunctions\bin\Debug\netcoreapp3.1\ExclusiveTimeOfFunctions.pdb
+C:\Users\zhaol\source\repos\LeetCode\ExclusiveTimeOfFunctions\obj\Debug\netcoreapp3.1\ExclusiveTimeOfFunctions.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\ExclusiveTimeOfFunctions\obj\Debug\netcoreapp3.1\ExclusiveTimeOfFunctions.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\ExclusiveTimeOfFunctions\obj\Debug\netcoreapp3.1\ExclusiveTimeOfFunctions.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\ExclusiveTimeOfFunctions\obj\Debug\netcoreapp3.1\ExclusiveTimeOfFunctions.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\ExclusiveTimeOfFunctions\obj\Debug\netcoreapp3.1\ExclusiveTimeOfFunctions.dll
+C:\Users\zhaol\source\repos\LeetCode\ExclusiveTimeOfFunctions\obj\Debug\netcoreapp3.1\ExclusiveTimeOfFunctions.pdb
+C:\Users\zhaol\source\repos\LeetCode\ExclusiveTimeOfFunctions\obj\Debug\netcoreapp3.1\ExclusiveTimeOfFunctions.genruntimeconfig.cache

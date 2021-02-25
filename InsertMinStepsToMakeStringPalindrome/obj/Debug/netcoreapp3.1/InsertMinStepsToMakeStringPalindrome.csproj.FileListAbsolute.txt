@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\InsertMinStepsToMakeStringPalindrome\bin\Debug\netcoreapp3.1\InsertMinStepsToMakeStringPalindrome.exe
+C:\Users\zhaol\source\repos\LeetCode\InsertMinStepsToMakeStringPalindrome\bin\Debug\netcoreapp3.1\InsertMinStepsToMakeStringPalindrome.deps.json
+C:\Users\zhaol\source\repos\LeetCode\InsertMinStepsToMakeStringPalindrome\bin\Debug\netcoreapp3.1\InsertMinStepsToMakeStringPalindrome.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\InsertMinStepsToMakeStringPalindrome\bin\Debug\netcoreapp3.1\InsertMinStepsToMakeStringPalindrome.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\InsertMinStepsToMakeStringPalindrome\bin\Debug\netcoreapp3.1\InsertMinStepsToMakeStringPalindrome.dll
+C:\Users\zhaol\source\repos\LeetCode\InsertMinStepsToMakeStringPalindrome\bin\Debug\netcoreapp3.1\InsertMinStepsToMakeStringPalindrome.pdb
+C:\Users\zhaol\source\repos\LeetCode\InsertMinStepsToMakeStringPalindrome\obj\Debug\netcoreapp3.1\InsertMinStepsToMakeStringPalindrome.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\InsertMinStepsToMakeStringPalindrome\obj\Debug\netcoreapp3.1\InsertMinStepsToMakeStringPalindrome.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\InsertMinStepsToMakeStringPalindrome\obj\Debug\netcoreapp3.1\InsertMinStepsToMakeStringPalindrome.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\InsertMinStepsToMakeStringPalindrome\obj\Debug\netcoreapp3.1\InsertMinStepsToMakeStringPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\InsertMinStepsToMakeStringPalindrome\obj\Debug\netcoreapp3.1\InsertMinStepsToMakeStringPalindrome.dll
+C:\Users\zhaol\source\repos\LeetCode\InsertMinStepsToMakeStringPalindrome\obj\Debug\netcoreapp3.1\InsertMinStepsToMakeStringPalindrome.pdb
+C:\Users\zhaol\source\repos\LeetCode\InsertMinStepsToMakeStringPalindrome\obj\Debug\netcoreapp3.1\InsertMinStepsToMakeStringPalindrome.genruntimeconfig.cache

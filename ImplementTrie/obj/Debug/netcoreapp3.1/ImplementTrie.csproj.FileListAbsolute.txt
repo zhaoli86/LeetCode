@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\ImplementTrie\bin\Debug\netcoreapp3.1\ImplementTrie.exe
+C:\Users\zhaol\source\repos\LeetCode\ImplementTrie\bin\Debug\netcoreapp3.1\ImplementTrie.deps.json
+C:\Users\zhaol\source\repos\LeetCode\ImplementTrie\bin\Debug\netcoreapp3.1\ImplementTrie.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\ImplementTrie\bin\Debug\netcoreapp3.1\ImplementTrie.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\ImplementTrie\bin\Debug\netcoreapp3.1\ImplementTrie.dll
+C:\Users\zhaol\source\repos\LeetCode\ImplementTrie\bin\Debug\netcoreapp3.1\ImplementTrie.pdb
+C:\Users\zhaol\source\repos\LeetCode\ImplementTrie\obj\Debug\netcoreapp3.1\ImplementTrie.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\ImplementTrie\obj\Debug\netcoreapp3.1\ImplementTrie.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\ImplementTrie\obj\Debug\netcoreapp3.1\ImplementTrie.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\ImplementTrie\obj\Debug\netcoreapp3.1\ImplementTrie.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\ImplementTrie\obj\Debug\netcoreapp3.1\ImplementTrie.dll
+C:\Users\zhaol\source\repos\LeetCode\ImplementTrie\obj\Debug\netcoreapp3.1\ImplementTrie.pdb
+C:\Users\zhaol\source\repos\LeetCode\ImplementTrie\obj\Debug\netcoreapp3.1\ImplementTrie.genruntimeconfig.cache

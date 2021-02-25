@@ -1,0 +1,12 @@
+C:\Users\zhaol\source\repos\LeetCode\LetterCombinationsOfPhoneNumber\bin\Debug\netcoreapp3.1\LetterCombinationsOfPhoneNumber.exe
+C:\Users\zhaol\source\repos\LeetCode\LetterCombinationsOfPhoneNumber\bin\Debug\netcoreapp3.1\LetterCombinationsOfPhoneNumber.deps.json
+C:\Users\zhaol\source\repos\LeetCode\LetterCombinationsOfPhoneNumber\bin\Debug\netcoreapp3.1\LetterCombinationsOfPhoneNumber.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\LetterCombinationsOfPhoneNumber\bin\Debug\netcoreapp3.1\LetterCombinationsOfPhoneNumber.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\LetterCombinationsOfPhoneNumber\bin\Debug\netcoreapp3.1\LetterCombinationsOfPhoneNumber.dll
+C:\Users\zhaol\source\repos\LeetCode\LetterCombinationsOfPhoneNumber\bin\Debug\netcoreapp3.1\LetterCombinationsOfPhoneNumber.pdb
+C:\Users\zhaol\source\repos\LeetCode\LetterCombinationsOfPhoneNumber\obj\Debug\netcoreapp3.1\LetterCombinationsOfPhoneNumber.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\LetterCombinationsOfPhoneNumber\obj\Debug\netcoreapp3.1\LetterCombinationsOfPhoneNumber.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\LetterCombinationsOfPhoneNumber\obj\Debug\netcoreapp3.1\LetterCombinationsOfPhoneNumber.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\LetterCombinationsOfPhoneNumber\obj\Debug\netcoreapp3.1\LetterCombinationsOfPhoneNumber.dll
+C:\Users\zhaol\source\repos\LeetCode\LetterCombinationsOfPhoneNumber\obj\Debug\netcoreapp3.1\LetterCombinationsOfPhoneNumber.pdb
+C:\Users\zhaol\source\repos\LeetCode\LetterCombinationsOfPhoneNumber\obj\Debug\netcoreapp3.1\LetterCombinationsOfPhoneNumber.genruntimeconfig.cache

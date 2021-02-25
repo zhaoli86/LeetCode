@@ -1,0 +1,12 @@
+C:\Users\zhaol\source\repos\LeetCode\WordBreak\bin\Debug\netcoreapp3.1\WordBreak.exe
+C:\Users\zhaol\source\repos\LeetCode\WordBreak\bin\Debug\netcoreapp3.1\WordBreak.deps.json
+C:\Users\zhaol\source\repos\LeetCode\WordBreak\bin\Debug\netcoreapp3.1\WordBreak.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\WordBreak\bin\Debug\netcoreapp3.1\WordBreak.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\WordBreak\bin\Debug\netcoreapp3.1\WordBreak.dll
+C:\Users\zhaol\source\repos\LeetCode\WordBreak\bin\Debug\netcoreapp3.1\WordBreak.pdb
+C:\Users\zhaol\source\repos\LeetCode\WordBreak\obj\Debug\netcoreapp3.1\WordBreak.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\WordBreak\obj\Debug\netcoreapp3.1\WordBreak.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\WordBreak\obj\Debug\netcoreapp3.1\WordBreak.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\WordBreak\obj\Debug\netcoreapp3.1\WordBreak.dll
+C:\Users\zhaol\source\repos\LeetCode\WordBreak\obj\Debug\netcoreapp3.1\WordBreak.pdb
+C:\Users\zhaol\source\repos\LeetCode\WordBreak\obj\Debug\netcoreapp3.1\WordBreak.genruntimeconfig.cache

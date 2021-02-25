@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\RemoveAllAdjacentDuplicatesInString\bin\Debug\netcoreapp3.1\RemoveAllAdjacentDuplicatesInString.exe
+C:\Users\zhaol\source\repos\LeetCode\RemoveAllAdjacentDuplicatesInString\bin\Debug\netcoreapp3.1\RemoveAllAdjacentDuplicatesInString.deps.json
+C:\Users\zhaol\source\repos\LeetCode\RemoveAllAdjacentDuplicatesInString\bin\Debug\netcoreapp3.1\RemoveAllAdjacentDuplicatesInString.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\RemoveAllAdjacentDuplicatesInString\bin\Debug\netcoreapp3.1\RemoveAllAdjacentDuplicatesInString.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\RemoveAllAdjacentDuplicatesInString\bin\Debug\netcoreapp3.1\RemoveAllAdjacentDuplicatesInString.dll
+C:\Users\zhaol\source\repos\LeetCode\RemoveAllAdjacentDuplicatesInString\bin\Debug\netcoreapp3.1\RemoveAllAdjacentDuplicatesInString.pdb
+C:\Users\zhaol\source\repos\LeetCode\RemoveAllAdjacentDuplicatesInString\obj\Debug\netcoreapp3.1\RemoveAllAdjacentDuplicatesInString.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\RemoveAllAdjacentDuplicatesInString\obj\Debug\netcoreapp3.1\RemoveAllAdjacentDuplicatesInString.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\RemoveAllAdjacentDuplicatesInString\obj\Debug\netcoreapp3.1\RemoveAllAdjacentDuplicatesInString.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\RemoveAllAdjacentDuplicatesInString\obj\Debug\netcoreapp3.1\RemoveAllAdjacentDuplicatesInString.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\RemoveAllAdjacentDuplicatesInString\obj\Debug\netcoreapp3.1\RemoveAllAdjacentDuplicatesInString.dll
+C:\Users\zhaol\source\repos\LeetCode\RemoveAllAdjacentDuplicatesInString\obj\Debug\netcoreapp3.1\RemoveAllAdjacentDuplicatesInString.pdb
+C:\Users\zhaol\source\repos\LeetCode\RemoveAllAdjacentDuplicatesInString\obj\Debug\netcoreapp3.1\RemoveAllAdjacentDuplicatesInString.genruntimeconfig.cache

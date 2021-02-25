@@ -1,0 +1,12 @@
+C:\Users\zhaol\source\repos\LeetCode\Combinations\bin\Debug\netcoreapp3.1\Combinations.exe
+C:\Users\zhaol\source\repos\LeetCode\Combinations\bin\Debug\netcoreapp3.1\Combinations.deps.json
+C:\Users\zhaol\source\repos\LeetCode\Combinations\bin\Debug\netcoreapp3.1\Combinations.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\Combinations\bin\Debug\netcoreapp3.1\Combinations.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\Combinations\bin\Debug\netcoreapp3.1\Combinations.dll
+C:\Users\zhaol\source\repos\LeetCode\Combinations\bin\Debug\netcoreapp3.1\Combinations.pdb
+C:\Users\zhaol\source\repos\LeetCode\Combinations\obj\Debug\netcoreapp3.1\Combinations.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\Combinations\obj\Debug\netcoreapp3.1\Combinations.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\Combinations\obj\Debug\netcoreapp3.1\Combinations.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\Combinations\obj\Debug\netcoreapp3.1\Combinations.dll
+C:\Users\zhaol\source\repos\LeetCode\Combinations\obj\Debug\netcoreapp3.1\Combinations.pdb
+C:\Users\zhaol\source\repos\LeetCode\Combinations\obj\Debug\netcoreapp3.1\Combinations.genruntimeconfig.cache

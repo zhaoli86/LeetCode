@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\ParsingBooleanExpression\bin\Debug\netcoreapp3.1\ParsingBooleanExpression.exe
+C:\Users\zhaol\source\repos\LeetCode\ParsingBooleanExpression\bin\Debug\netcoreapp3.1\ParsingBooleanExpression.deps.json
+C:\Users\zhaol\source\repos\LeetCode\ParsingBooleanExpression\bin\Debug\netcoreapp3.1\ParsingBooleanExpression.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\ParsingBooleanExpression\bin\Debug\netcoreapp3.1\ParsingBooleanExpression.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\ParsingBooleanExpression\bin\Debug\netcoreapp3.1\ParsingBooleanExpression.dll
+C:\Users\zhaol\source\repos\LeetCode\ParsingBooleanExpression\bin\Debug\netcoreapp3.1\ParsingBooleanExpression.pdb
+C:\Users\zhaol\source\repos\LeetCode\ParsingBooleanExpression\obj\Debug\netcoreapp3.1\ParsingBooleanExpression.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\ParsingBooleanExpression\obj\Debug\netcoreapp3.1\ParsingBooleanExpression.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\ParsingBooleanExpression\obj\Debug\netcoreapp3.1\ParsingBooleanExpression.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\ParsingBooleanExpression\obj\Debug\netcoreapp3.1\ParsingBooleanExpression.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\ParsingBooleanExpression\obj\Debug\netcoreapp3.1\ParsingBooleanExpression.dll
+C:\Users\zhaol\source\repos\LeetCode\ParsingBooleanExpression\obj\Debug\netcoreapp3.1\ParsingBooleanExpression.pdb
+C:\Users\zhaol\source\repos\LeetCode\ParsingBooleanExpression\obj\Debug\netcoreapp3.1\ParsingBooleanExpression.genruntimeconfig.cache

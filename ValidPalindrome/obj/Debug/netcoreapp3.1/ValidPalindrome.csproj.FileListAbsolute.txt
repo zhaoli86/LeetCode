@@ -1,0 +1,12 @@
+C:\Users\zhaol\source\repos\LeetCode\ValidPalindrome\bin\Debug\netcoreapp3.1\ValidPalindrome.exe
+C:\Users\zhaol\source\repos\LeetCode\ValidPalindrome\bin\Debug\netcoreapp3.1\ValidPalindrome.deps.json
+C:\Users\zhaol\source\repos\LeetCode\ValidPalindrome\bin\Debug\netcoreapp3.1\ValidPalindrome.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\ValidPalindrome\bin\Debug\netcoreapp3.1\ValidPalindrome.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\ValidPalindrome\bin\Debug\netcoreapp3.1\ValidPalindrome.dll
+C:\Users\zhaol\source\repos\LeetCode\ValidPalindrome\bin\Debug\netcoreapp3.1\ValidPalindrome.pdb
+C:\Users\zhaol\source\repos\LeetCode\ValidPalindrome\obj\Debug\netcoreapp3.1\ValidPalindrome.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\ValidPalindrome\obj\Debug\netcoreapp3.1\ValidPalindrome.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\ValidPalindrome\obj\Debug\netcoreapp3.1\ValidPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\ValidPalindrome\obj\Debug\netcoreapp3.1\ValidPalindrome.dll
+C:\Users\zhaol\source\repos\LeetCode\ValidPalindrome\obj\Debug\netcoreapp3.1\ValidPalindrome.pdb
+C:\Users\zhaol\source\repos\LeetCode\ValidPalindrome\obj\Debug\netcoreapp3.1\ValidPalindrome.genruntimeconfig.cache

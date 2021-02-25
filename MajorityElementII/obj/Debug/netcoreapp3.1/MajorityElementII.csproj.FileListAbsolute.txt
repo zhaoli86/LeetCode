@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\MajorityElementII\bin\Debug\netcoreapp3.1\MajorityElementII.exe
+C:\Users\zhaol\source\repos\LeetCode\MajorityElementII\bin\Debug\netcoreapp3.1\MajorityElementII.deps.json
+C:\Users\zhaol\source\repos\LeetCode\MajorityElementII\bin\Debug\netcoreapp3.1\MajorityElementII.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\MajorityElementII\bin\Debug\netcoreapp3.1\MajorityElementII.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\MajorityElementII\bin\Debug\netcoreapp3.1\MajorityElementII.dll
+C:\Users\zhaol\source\repos\LeetCode\MajorityElementII\bin\Debug\netcoreapp3.1\MajorityElementII.pdb
+C:\Users\zhaol\source\repos\LeetCode\MajorityElementII\obj\Debug\netcoreapp3.1\MajorityElementII.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\MajorityElementII\obj\Debug\netcoreapp3.1\MajorityElementII.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\MajorityElementII\obj\Debug\netcoreapp3.1\MajorityElementII.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\MajorityElementII\obj\Debug\netcoreapp3.1\MajorityElementII.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\MajorityElementII\obj\Debug\netcoreapp3.1\MajorityElementII.dll
+C:\Users\zhaol\source\repos\LeetCode\MajorityElementII\obj\Debug\netcoreapp3.1\MajorityElementII.pdb
+C:\Users\zhaol\source\repos\LeetCode\MajorityElementII\obj\Debug\netcoreapp3.1\MajorityElementII.genruntimeconfig.cache

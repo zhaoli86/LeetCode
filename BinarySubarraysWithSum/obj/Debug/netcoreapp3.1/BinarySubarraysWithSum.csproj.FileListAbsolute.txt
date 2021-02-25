@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\BinarySubarraysWithSum\bin\Debug\netcoreapp3.1\BinarySubarraysWithSum.exe
+C:\Users\zhaol\source\repos\LeetCode\BinarySubarraysWithSum\bin\Debug\netcoreapp3.1\BinarySubarraysWithSum.deps.json
+C:\Users\zhaol\source\repos\LeetCode\BinarySubarraysWithSum\bin\Debug\netcoreapp3.1\BinarySubarraysWithSum.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\BinarySubarraysWithSum\bin\Debug\netcoreapp3.1\BinarySubarraysWithSum.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\BinarySubarraysWithSum\bin\Debug\netcoreapp3.1\BinarySubarraysWithSum.dll
+C:\Users\zhaol\source\repos\LeetCode\BinarySubarraysWithSum\bin\Debug\netcoreapp3.1\BinarySubarraysWithSum.pdb
+C:\Users\zhaol\source\repos\LeetCode\BinarySubarraysWithSum\obj\Debug\netcoreapp3.1\BinarySubarraysWithSum.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\BinarySubarraysWithSum\obj\Debug\netcoreapp3.1\BinarySubarraysWithSum.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\BinarySubarraysWithSum\obj\Debug\netcoreapp3.1\BinarySubarraysWithSum.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\BinarySubarraysWithSum\obj\Debug\netcoreapp3.1\BinarySubarraysWithSum.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\BinarySubarraysWithSum\obj\Debug\netcoreapp3.1\BinarySubarraysWithSum.dll
+C:\Users\zhaol\source\repos\LeetCode\BinarySubarraysWithSum\obj\Debug\netcoreapp3.1\BinarySubarraysWithSum.pdb
+C:\Users\zhaol\source\repos\LeetCode\BinarySubarraysWithSum\obj\Debug\netcoreapp3.1\BinarySubarraysWithSum.genruntimeconfig.cache

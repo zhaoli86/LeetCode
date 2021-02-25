@@ -1,0 +1,12 @@
+C:\Users\zhaol\source\repos\LeetCode\ShortestSubarrayWithSumAtLeastK\bin\Debug\netcoreapp3.1\ShortestSubarrayWithSumAtLeastK.exe
+C:\Users\zhaol\source\repos\LeetCode\ShortestSubarrayWithSumAtLeastK\bin\Debug\netcoreapp3.1\ShortestSubarrayWithSumAtLeastK.deps.json
+C:\Users\zhaol\source\repos\LeetCode\ShortestSubarrayWithSumAtLeastK\bin\Debug\netcoreapp3.1\ShortestSubarrayWithSumAtLeastK.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\ShortestSubarrayWithSumAtLeastK\bin\Debug\netcoreapp3.1\ShortestSubarrayWithSumAtLeastK.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\ShortestSubarrayWithSumAtLeastK\bin\Debug\netcoreapp3.1\ShortestSubarrayWithSumAtLeastK.dll
+C:\Users\zhaol\source\repos\LeetCode\ShortestSubarrayWithSumAtLeastK\bin\Debug\netcoreapp3.1\ShortestSubarrayWithSumAtLeastK.pdb
+C:\Users\zhaol\source\repos\LeetCode\ShortestSubarrayWithSumAtLeastK\obj\Debug\netcoreapp3.1\ShortestSubarrayWithSumAtLeastK.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\ShortestSubarrayWithSumAtLeastK\obj\Debug\netcoreapp3.1\ShortestSubarrayWithSumAtLeastK.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\ShortestSubarrayWithSumAtLeastK\obj\Debug\netcoreapp3.1\ShortestSubarrayWithSumAtLeastK.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\ShortestSubarrayWithSumAtLeastK\obj\Debug\netcoreapp3.1\ShortestSubarrayWithSumAtLeastK.dll
+C:\Users\zhaol\source\repos\LeetCode\ShortestSubarrayWithSumAtLeastK\obj\Debug\netcoreapp3.1\ShortestSubarrayWithSumAtLeastK.pdb
+C:\Users\zhaol\source\repos\LeetCode\ShortestSubarrayWithSumAtLeastK\obj\Debug\netcoreapp3.1\ShortestSubarrayWithSumAtLeastK.genruntimeconfig.cache

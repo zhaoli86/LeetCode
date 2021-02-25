@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\RemoveKDigits\bin\Debug\netcoreapp3.1\RemoveKDigits.exe
+C:\Users\zhaol\source\repos\LeetCode\RemoveKDigits\bin\Debug\netcoreapp3.1\RemoveKDigits.deps.json
+C:\Users\zhaol\source\repos\LeetCode\RemoveKDigits\bin\Debug\netcoreapp3.1\RemoveKDigits.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\RemoveKDigits\bin\Debug\netcoreapp3.1\RemoveKDigits.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\RemoveKDigits\bin\Debug\netcoreapp3.1\RemoveKDigits.dll
+C:\Users\zhaol\source\repos\LeetCode\RemoveKDigits\bin\Debug\netcoreapp3.1\RemoveKDigits.pdb
+C:\Users\zhaol\source\repos\LeetCode\RemoveKDigits\obj\Debug\netcoreapp3.1\RemoveKDigits.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\RemoveKDigits\obj\Debug\netcoreapp3.1\RemoveKDigits.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\RemoveKDigits\obj\Debug\netcoreapp3.1\RemoveKDigits.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\RemoveKDigits\obj\Debug\netcoreapp3.1\RemoveKDigits.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\RemoveKDigits\obj\Debug\netcoreapp3.1\RemoveKDigits.dll
+C:\Users\zhaol\source\repos\LeetCode\RemoveKDigits\obj\Debug\netcoreapp3.1\RemoveKDigits.pdb
+C:\Users\zhaol\source\repos\LeetCode\RemoveKDigits\obj\Debug\netcoreapp3.1\RemoveKDigits.genruntimeconfig.cache

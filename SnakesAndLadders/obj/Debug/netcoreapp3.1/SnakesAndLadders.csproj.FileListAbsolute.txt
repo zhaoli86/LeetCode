@@ -1,0 +1,12 @@
+C:\Users\zhaol\source\repos\LeetCode\SnakesAndLadders\bin\Debug\netcoreapp3.1\SnakesAndLadders.exe
+C:\Users\zhaol\source\repos\LeetCode\SnakesAndLadders\bin\Debug\netcoreapp3.1\SnakesAndLadders.deps.json
+C:\Users\zhaol\source\repos\LeetCode\SnakesAndLadders\bin\Debug\netcoreapp3.1\SnakesAndLadders.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\SnakesAndLadders\bin\Debug\netcoreapp3.1\SnakesAndLadders.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\SnakesAndLadders\bin\Debug\netcoreapp3.1\SnakesAndLadders.dll
+C:\Users\zhaol\source\repos\LeetCode\SnakesAndLadders\bin\Debug\netcoreapp3.1\SnakesAndLadders.pdb
+C:\Users\zhaol\source\repos\LeetCode\SnakesAndLadders\obj\Debug\netcoreapp3.1\SnakesAndLadders.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\SnakesAndLadders\obj\Debug\netcoreapp3.1\SnakesAndLadders.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\SnakesAndLadders\obj\Debug\netcoreapp3.1\SnakesAndLadders.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\SnakesAndLadders\obj\Debug\netcoreapp3.1\SnakesAndLadders.dll
+C:\Users\zhaol\source\repos\LeetCode\SnakesAndLadders\obj\Debug\netcoreapp3.1\SnakesAndLadders.pdb
+C:\Users\zhaol\source\repos\LeetCode\SnakesAndLadders\obj\Debug\netcoreapp3.1\SnakesAndLadders.genruntimeconfig.cache

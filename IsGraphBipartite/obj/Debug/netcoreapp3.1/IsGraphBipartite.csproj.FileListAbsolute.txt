@@ -1,0 +1,12 @@
+C:\Users\zhaol\source\repos\LeetCode\IsGraphBipartite\bin\Debug\netcoreapp3.1\IsGraphBipartite.exe
+C:\Users\zhaol\source\repos\LeetCode\IsGraphBipartite\bin\Debug\netcoreapp3.1\IsGraphBipartite.deps.json
+C:\Users\zhaol\source\repos\LeetCode\IsGraphBipartite\bin\Debug\netcoreapp3.1\IsGraphBipartite.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\IsGraphBipartite\bin\Debug\netcoreapp3.1\IsGraphBipartite.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\IsGraphBipartite\bin\Debug\netcoreapp3.1\IsGraphBipartite.dll
+C:\Users\zhaol\source\repos\LeetCode\IsGraphBipartite\bin\Debug\netcoreapp3.1\IsGraphBipartite.pdb
+C:\Users\zhaol\source\repos\LeetCode\IsGraphBipartite\obj\Debug\netcoreapp3.1\IsGraphBipartite.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\IsGraphBipartite\obj\Debug\netcoreapp3.1\IsGraphBipartite.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\IsGraphBipartite\obj\Debug\netcoreapp3.1\IsGraphBipartite.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\IsGraphBipartite\obj\Debug\netcoreapp3.1\IsGraphBipartite.dll
+C:\Users\zhaol\source\repos\LeetCode\IsGraphBipartite\obj\Debug\netcoreapp3.1\IsGraphBipartite.pdb
+C:\Users\zhaol\source\repos\LeetCode\IsGraphBipartite\obj\Debug\netcoreapp3.1\IsGraphBipartite.genruntimeconfig.cache

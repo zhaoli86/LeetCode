@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\PermutationsII\bin\Debug\netcoreapp3.1\PermutationsII.exe
+C:\Users\zhaol\source\repos\LeetCode\PermutationsII\bin\Debug\netcoreapp3.1\PermutationsII.deps.json
+C:\Users\zhaol\source\repos\LeetCode\PermutationsII\bin\Debug\netcoreapp3.1\PermutationsII.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\PermutationsII\bin\Debug\netcoreapp3.1\PermutationsII.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\PermutationsII\bin\Debug\netcoreapp3.1\PermutationsII.dll
+C:\Users\zhaol\source\repos\LeetCode\PermutationsII\bin\Debug\netcoreapp3.1\PermutationsII.pdb
+C:\Users\zhaol\source\repos\LeetCode\PermutationsII\obj\Debug\netcoreapp3.1\PermutationsII.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\PermutationsII\obj\Debug\netcoreapp3.1\PermutationsII.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\PermutationsII\obj\Debug\netcoreapp3.1\PermutationsII.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\PermutationsII\obj\Debug\netcoreapp3.1\PermutationsII.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\PermutationsII\obj\Debug\netcoreapp3.1\PermutationsII.dll
+C:\Users\zhaol\source\repos\LeetCode\PermutationsII\obj\Debug\netcoreapp3.1\PermutationsII.pdb
+C:\Users\zhaol\source\repos\LeetCode\PermutationsII\obj\Debug\netcoreapp3.1\PermutationsII.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\zhaol\source\repos\LeetCode\SequenceReconstruction\bin\Debug\netcoreapp3.1\SequenceReconstruction.exe
+C:\Users\zhaol\source\repos\LeetCode\SequenceReconstruction\bin\Debug\netcoreapp3.1\SequenceReconstruction.deps.json
+C:\Users\zhaol\source\repos\LeetCode\SequenceReconstruction\bin\Debug\netcoreapp3.1\SequenceReconstruction.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\SequenceReconstruction\bin\Debug\netcoreapp3.1\SequenceReconstruction.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\SequenceReconstruction\bin\Debug\netcoreapp3.1\SequenceReconstruction.dll
+C:\Users\zhaol\source\repos\LeetCode\SequenceReconstruction\bin\Debug\netcoreapp3.1\SequenceReconstruction.pdb
+C:\Users\zhaol\source\repos\LeetCode\SequenceReconstruction\obj\Debug\netcoreapp3.1\SequenceReconstruction.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\SequenceReconstruction\obj\Debug\netcoreapp3.1\SequenceReconstruction.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\SequenceReconstruction\obj\Debug\netcoreapp3.1\SequenceReconstruction.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\SequenceReconstruction\obj\Debug\netcoreapp3.1\SequenceReconstruction.dll
+C:\Users\zhaol\source\repos\LeetCode\SequenceReconstruction\obj\Debug\netcoreapp3.1\SequenceReconstruction.pdb
+C:\Users\zhaol\source\repos\LeetCode\SequenceReconstruction\obj\Debug\netcoreapp3.1\SequenceReconstruction.genruntimeconfig.cache

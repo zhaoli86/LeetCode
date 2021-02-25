@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\MaxWidthRamp\bin\Debug\netcoreapp3.1\MaxWidthRamp.exe
+C:\Users\zhaol\source\repos\LeetCode\MaxWidthRamp\bin\Debug\netcoreapp3.1\MaxWidthRamp.deps.json
+C:\Users\zhaol\source\repos\LeetCode\MaxWidthRamp\bin\Debug\netcoreapp3.1\MaxWidthRamp.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\MaxWidthRamp\bin\Debug\netcoreapp3.1\MaxWidthRamp.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\MaxWidthRamp\bin\Debug\netcoreapp3.1\MaxWidthRamp.dll
+C:\Users\zhaol\source\repos\LeetCode\MaxWidthRamp\bin\Debug\netcoreapp3.1\MaxWidthRamp.pdb
+C:\Users\zhaol\source\repos\LeetCode\MaxWidthRamp\obj\Debug\netcoreapp3.1\MaxWidthRamp.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\MaxWidthRamp\obj\Debug\netcoreapp3.1\MaxWidthRamp.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\MaxWidthRamp\obj\Debug\netcoreapp3.1\MaxWidthRamp.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\MaxWidthRamp\obj\Debug\netcoreapp3.1\MaxWidthRamp.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\MaxWidthRamp\obj\Debug\netcoreapp3.1\MaxWidthRamp.dll
+C:\Users\zhaol\source\repos\LeetCode\MaxWidthRamp\obj\Debug\netcoreapp3.1\MaxWidthRamp.pdb
+C:\Users\zhaol\source\repos\LeetCode\MaxWidthRamp\obj\Debug\netcoreapp3.1\MaxWidthRamp.genruntimeconfig.cache

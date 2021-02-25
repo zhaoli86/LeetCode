@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\OnlineStockSpan\bin\Debug\netcoreapp3.1\OnlineStockSpan.exe
+C:\Users\zhaol\source\repos\LeetCode\OnlineStockSpan\bin\Debug\netcoreapp3.1\OnlineStockSpan.deps.json
+C:\Users\zhaol\source\repos\LeetCode\OnlineStockSpan\bin\Debug\netcoreapp3.1\OnlineStockSpan.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\OnlineStockSpan\bin\Debug\netcoreapp3.1\OnlineStockSpan.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\OnlineStockSpan\bin\Debug\netcoreapp3.1\OnlineStockSpan.dll
+C:\Users\zhaol\source\repos\LeetCode\OnlineStockSpan\bin\Debug\netcoreapp3.1\OnlineStockSpan.pdb
+C:\Users\zhaol\source\repos\LeetCode\OnlineStockSpan\obj\Debug\netcoreapp3.1\OnlineStockSpan.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\OnlineStockSpan\obj\Debug\netcoreapp3.1\OnlineStockSpan.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\OnlineStockSpan\obj\Debug\netcoreapp3.1\OnlineStockSpan.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\OnlineStockSpan\obj\Debug\netcoreapp3.1\OnlineStockSpan.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\OnlineStockSpan\obj\Debug\netcoreapp3.1\OnlineStockSpan.dll
+C:\Users\zhaol\source\repos\LeetCode\OnlineStockSpan\obj\Debug\netcoreapp3.1\OnlineStockSpan.pdb
+C:\Users\zhaol\source\repos\LeetCode\OnlineStockSpan\obj\Debug\netcoreapp3.1\OnlineStockSpan.genruntimeconfig.cache

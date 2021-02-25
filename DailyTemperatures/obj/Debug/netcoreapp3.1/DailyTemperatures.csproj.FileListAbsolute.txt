@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\DailyTemperatures\bin\Debug\netcoreapp3.1\DailyTemperatures.exe
+C:\Users\zhaol\source\repos\LeetCode\DailyTemperatures\bin\Debug\netcoreapp3.1\DailyTemperatures.deps.json
+C:\Users\zhaol\source\repos\LeetCode\DailyTemperatures\bin\Debug\netcoreapp3.1\DailyTemperatures.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\DailyTemperatures\bin\Debug\netcoreapp3.1\DailyTemperatures.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\DailyTemperatures\bin\Debug\netcoreapp3.1\DailyTemperatures.dll
+C:\Users\zhaol\source\repos\LeetCode\DailyTemperatures\bin\Debug\netcoreapp3.1\DailyTemperatures.pdb
+C:\Users\zhaol\source\repos\LeetCode\DailyTemperatures\obj\Debug\netcoreapp3.1\DailyTemperatures.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\DailyTemperatures\obj\Debug\netcoreapp3.1\DailyTemperatures.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\DailyTemperatures\obj\Debug\netcoreapp3.1\DailyTemperatures.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\DailyTemperatures\obj\Debug\netcoreapp3.1\DailyTemperatures.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\DailyTemperatures\obj\Debug\netcoreapp3.1\DailyTemperatures.dll
+C:\Users\zhaol\source\repos\LeetCode\DailyTemperatures\obj\Debug\netcoreapp3.1\DailyTemperatures.pdb
+C:\Users\zhaol\source\repos\LeetCode\DailyTemperatures\obj\Debug\netcoreapp3.1\DailyTemperatures.genruntimeconfig.cache

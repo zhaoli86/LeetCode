@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\132Pattern\bin\Debug\netcoreapp3.1\132Pattern.exe
+C:\Users\zhaol\source\repos\LeetCode\132Pattern\bin\Debug\netcoreapp3.1\132Pattern.deps.json
+C:\Users\zhaol\source\repos\LeetCode\132Pattern\bin\Debug\netcoreapp3.1\132Pattern.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\132Pattern\bin\Debug\netcoreapp3.1\132Pattern.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\132Pattern\bin\Debug\netcoreapp3.1\132Pattern.dll
+C:\Users\zhaol\source\repos\LeetCode\132Pattern\bin\Debug\netcoreapp3.1\132Pattern.pdb
+C:\Users\zhaol\source\repos\LeetCode\132Pattern\obj\Debug\netcoreapp3.1\132Pattern.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\132Pattern\obj\Debug\netcoreapp3.1\132Pattern.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\132Pattern\obj\Debug\netcoreapp3.1\132Pattern.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\132Pattern\obj\Debug\netcoreapp3.1\132Pattern.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\132Pattern\obj\Debug\netcoreapp3.1\132Pattern.dll
+C:\Users\zhaol\source\repos\LeetCode\132Pattern\obj\Debug\netcoreapp3.1\132Pattern.pdb
+C:\Users\zhaol\source\repos\LeetCode\132Pattern\obj\Debug\netcoreapp3.1\132Pattern.genruntimeconfig.cache

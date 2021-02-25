@@ -1,0 +1,12 @@
+C:\Users\zhaol\source\repos\LeetCode\BeautifulArrangement\bin\Debug\netcoreapp3.1\BeautifulArrangement.exe
+C:\Users\zhaol\source\repos\LeetCode\BeautifulArrangement\bin\Debug\netcoreapp3.1\BeautifulArrangement.deps.json
+C:\Users\zhaol\source\repos\LeetCode\BeautifulArrangement\bin\Debug\netcoreapp3.1\BeautifulArrangement.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\BeautifulArrangement\bin\Debug\netcoreapp3.1\BeautifulArrangement.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\BeautifulArrangement\bin\Debug\netcoreapp3.1\BeautifulArrangement.dll
+C:\Users\zhaol\source\repos\LeetCode\BeautifulArrangement\bin\Debug\netcoreapp3.1\BeautifulArrangement.pdb
+C:\Users\zhaol\source\repos\LeetCode\BeautifulArrangement\obj\Debug\netcoreapp3.1\BeautifulArrangement.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\BeautifulArrangement\obj\Debug\netcoreapp3.1\BeautifulArrangement.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\BeautifulArrangement\obj\Debug\netcoreapp3.1\BeautifulArrangement.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\BeautifulArrangement\obj\Debug\netcoreapp3.1\BeautifulArrangement.dll
+C:\Users\zhaol\source\repos\LeetCode\BeautifulArrangement\obj\Debug\netcoreapp3.1\BeautifulArrangement.pdb
+C:\Users\zhaol\source\repos\LeetCode\BeautifulArrangement\obj\Debug\netcoreapp3.1\BeautifulArrangement.genruntimeconfig.cache

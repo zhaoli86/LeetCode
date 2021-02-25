@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\SwimInRisingWater\bin\Debug\netcoreapp3.1\SwimInRisingWater.exe
+C:\Users\zhaol\source\repos\LeetCode\SwimInRisingWater\bin\Debug\netcoreapp3.1\SwimInRisingWater.deps.json
+C:\Users\zhaol\source\repos\LeetCode\SwimInRisingWater\bin\Debug\netcoreapp3.1\SwimInRisingWater.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\SwimInRisingWater\bin\Debug\netcoreapp3.1\SwimInRisingWater.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\SwimInRisingWater\bin\Debug\netcoreapp3.1\SwimInRisingWater.dll
+C:\Users\zhaol\source\repos\LeetCode\SwimInRisingWater\bin\Debug\netcoreapp3.1\SwimInRisingWater.pdb
+C:\Users\zhaol\source\repos\LeetCode\SwimInRisingWater\obj\Debug\netcoreapp3.1\SwimInRisingWater.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\SwimInRisingWater\obj\Debug\netcoreapp3.1\SwimInRisingWater.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\SwimInRisingWater\obj\Debug\netcoreapp3.1\SwimInRisingWater.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\SwimInRisingWater\obj\Debug\netcoreapp3.1\SwimInRisingWater.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\SwimInRisingWater\obj\Debug\netcoreapp3.1\SwimInRisingWater.dll
+C:\Users\zhaol\source\repos\LeetCode\SwimInRisingWater\obj\Debug\netcoreapp3.1\SwimInRisingWater.pdb
+C:\Users\zhaol\source\repos\LeetCode\SwimInRisingWater\obj\Debug\netcoreapp3.1\SwimInRisingWater.genruntimeconfig.cache

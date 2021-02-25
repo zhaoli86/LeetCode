@@ -1,0 +1,12 @@
+C:\Users\zhaol\source\repos\LeetCode\CountNumberOfNiceSubarrays\bin\Debug\netcoreapp3.1\CountNumberOfNiceSubarrays.exe
+C:\Users\zhaol\source\repos\LeetCode\CountNumberOfNiceSubarrays\bin\Debug\netcoreapp3.1\CountNumberOfNiceSubarrays.deps.json
+C:\Users\zhaol\source\repos\LeetCode\CountNumberOfNiceSubarrays\bin\Debug\netcoreapp3.1\CountNumberOfNiceSubarrays.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\CountNumberOfNiceSubarrays\bin\Debug\netcoreapp3.1\CountNumberOfNiceSubarrays.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\CountNumberOfNiceSubarrays\bin\Debug\netcoreapp3.1\CountNumberOfNiceSubarrays.dll
+C:\Users\zhaol\source\repos\LeetCode\CountNumberOfNiceSubarrays\bin\Debug\netcoreapp3.1\CountNumberOfNiceSubarrays.pdb
+C:\Users\zhaol\source\repos\LeetCode\CountNumberOfNiceSubarrays\obj\Debug\netcoreapp3.1\CountNumberOfNiceSubarrays.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\CountNumberOfNiceSubarrays\obj\Debug\netcoreapp3.1\CountNumberOfNiceSubarrays.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\CountNumberOfNiceSubarrays\obj\Debug\netcoreapp3.1\CountNumberOfNiceSubarrays.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\CountNumberOfNiceSubarrays\obj\Debug\netcoreapp3.1\CountNumberOfNiceSubarrays.dll
+C:\Users\zhaol\source\repos\LeetCode\CountNumberOfNiceSubarrays\obj\Debug\netcoreapp3.1\CountNumberOfNiceSubarrays.pdb
+C:\Users\zhaol\source\repos\LeetCode\CountNumberOfNiceSubarrays\obj\Debug\netcoreapp3.1\CountNumberOfNiceSubarrays.genruntimeconfig.cache

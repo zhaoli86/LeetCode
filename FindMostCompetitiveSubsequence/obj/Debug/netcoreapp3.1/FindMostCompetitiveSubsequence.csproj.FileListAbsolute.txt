@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\FindMostCompetitiveSubsequence\bin\Debug\netcoreapp3.1\FindMostCompetitiveSubsequence.exe
+C:\Users\zhaol\source\repos\LeetCode\FindMostCompetitiveSubsequence\bin\Debug\netcoreapp3.1\FindMostCompetitiveSubsequence.deps.json
+C:\Users\zhaol\source\repos\LeetCode\FindMostCompetitiveSubsequence\bin\Debug\netcoreapp3.1\FindMostCompetitiveSubsequence.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\FindMostCompetitiveSubsequence\bin\Debug\netcoreapp3.1\FindMostCompetitiveSubsequence.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\FindMostCompetitiveSubsequence\bin\Debug\netcoreapp3.1\FindMostCompetitiveSubsequence.dll
+C:\Users\zhaol\source\repos\LeetCode\FindMostCompetitiveSubsequence\bin\Debug\netcoreapp3.1\FindMostCompetitiveSubsequence.pdb
+C:\Users\zhaol\source\repos\LeetCode\FindMostCompetitiveSubsequence\obj\Debug\netcoreapp3.1\FindMostCompetitiveSubsequence.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\FindMostCompetitiveSubsequence\obj\Debug\netcoreapp3.1\FindMostCompetitiveSubsequence.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\FindMostCompetitiveSubsequence\obj\Debug\netcoreapp3.1\FindMostCompetitiveSubsequence.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\FindMostCompetitiveSubsequence\obj\Debug\netcoreapp3.1\FindMostCompetitiveSubsequence.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\FindMostCompetitiveSubsequence\obj\Debug\netcoreapp3.1\FindMostCompetitiveSubsequence.dll
+C:\Users\zhaol\source\repos\LeetCode\FindMostCompetitiveSubsequence\obj\Debug\netcoreapp3.1\FindMostCompetitiveSubsequence.pdb
+C:\Users\zhaol\source\repos\LeetCode\FindMostCompetitiveSubsequence\obj\Debug\netcoreapp3.1\FindMostCompetitiveSubsequence.genruntimeconfig.cache

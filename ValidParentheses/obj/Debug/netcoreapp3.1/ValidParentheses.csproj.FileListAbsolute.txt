@@ -1,0 +1,12 @@
+C:\Users\zhaol\source\repos\LeetCode\ValidParentheses\bin\Debug\netcoreapp3.1\ValidParentheses.exe
+C:\Users\zhaol\source\repos\LeetCode\ValidParentheses\bin\Debug\netcoreapp3.1\ValidParentheses.deps.json
+C:\Users\zhaol\source\repos\LeetCode\ValidParentheses\bin\Debug\netcoreapp3.1\ValidParentheses.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\ValidParentheses\bin\Debug\netcoreapp3.1\ValidParentheses.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\ValidParentheses\bin\Debug\netcoreapp3.1\ValidParentheses.dll
+C:\Users\zhaol\source\repos\LeetCode\ValidParentheses\bin\Debug\netcoreapp3.1\ValidParentheses.pdb
+C:\Users\zhaol\source\repos\LeetCode\ValidParentheses\obj\Debug\netcoreapp3.1\ValidParentheses.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\ValidParentheses\obj\Debug\netcoreapp3.1\ValidParentheses.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\ValidParentheses\obj\Debug\netcoreapp3.1\ValidParentheses.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\ValidParentheses\obj\Debug\netcoreapp3.1\ValidParentheses.dll
+C:\Users\zhaol\source\repos\LeetCode\ValidParentheses\obj\Debug\netcoreapp3.1\ValidParentheses.pdb
+C:\Users\zhaol\source\repos\LeetCode\ValidParentheses\obj\Debug\netcoreapp3.1\ValidParentheses.genruntimeconfig.cache

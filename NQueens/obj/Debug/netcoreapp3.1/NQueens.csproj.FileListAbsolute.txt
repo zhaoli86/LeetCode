@@ -1,0 +1,12 @@
+C:\Users\zhaol\source\repos\LeetCode\NQueens\bin\Debug\netcoreapp3.1\NQueens.exe
+C:\Users\zhaol\source\repos\LeetCode\NQueens\bin\Debug\netcoreapp3.1\NQueens.deps.json
+C:\Users\zhaol\source\repos\LeetCode\NQueens\bin\Debug\netcoreapp3.1\NQueens.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\NQueens\bin\Debug\netcoreapp3.1\NQueens.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\NQueens\bin\Debug\netcoreapp3.1\NQueens.dll
+C:\Users\zhaol\source\repos\LeetCode\NQueens\bin\Debug\netcoreapp3.1\NQueens.pdb
+C:\Users\zhaol\source\repos\LeetCode\NQueens\obj\Debug\netcoreapp3.1\NQueens.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\NQueens\obj\Debug\netcoreapp3.1\NQueens.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\NQueens\obj\Debug\netcoreapp3.1\NQueens.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\NQueens\obj\Debug\netcoreapp3.1\NQueens.dll
+C:\Users\zhaol\source\repos\LeetCode\NQueens\obj\Debug\netcoreapp3.1\NQueens.pdb
+C:\Users\zhaol\source\repos\LeetCode\NQueens\obj\Debug\netcoreapp3.1\NQueens.genruntimeconfig.cache
