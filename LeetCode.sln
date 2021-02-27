@@ -241,6 +241,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumUniqueWordAbbreviati
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementTrie", "ImplementTrie\ImplementTrie.csproj", "{EA4D8701-2147-40E3-A340-48F439FEAB6A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignAddAndSearchWordsDataStructure", "DesignAddAndSearchWordsDataStructure\DesignAddAndSearchWordsDataStructure.csproj", "{5861F129-A1A2-4136-9B16-92865F16F029}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrefixAndSuffixSearch", "PrefixAndSuffixSearch\PrefixAndSuffixSearch.csproj", "{2435E771-5249-43F2-AC61-622FD22D01A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -711,6 +715,14 @@ Global
 		{EA4D8701-2147-40E3-A340-48F439FEAB6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA4D8701-2147-40E3-A340-48F439FEAB6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA4D8701-2147-40E3-A340-48F439FEAB6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5861F129-A1A2-4136-9B16-92865F16F029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5861F129-A1A2-4136-9B16-92865F16F029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5861F129-A1A2-4136-9B16-92865F16F029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5861F129-A1A2-4136-9B16-92865F16F029}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2435E771-5249-43F2-AC61-622FD22D01A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2435E771-5249-43F2-AC61-622FD22D01A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2435E771-5249-43F2-AC61-622FD22D01A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2435E771-5249-43F2-AC61-622FD22D01A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -832,6 +844,8 @@ Global
 		{6BB5C2B2-1FB3-4609-AB11-E67AAE1C4017} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{FCF82C8A-FB24-4123-9F9B-2A47C3EC48B6} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{EA4D8701-2147-40E3-A340-48F439FEAB6A} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{5861F129-A1A2-4136-9B16-92865F16F029} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{2435E771-5249-43F2-AC61-622FD22D01A8} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9932E0CB-C080-4D35-8DAD-DBAAF171EA4A}
