@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\MaximumXORWithAnElementFromArray\bin\Debug\netcoreapp3.1\MaximumXORWithAnElementFromArray.exe
+C:\Users\zhaol\source\repos\LeetCode\MaximumXORWithAnElementFromArray\bin\Debug\netcoreapp3.1\MaximumXORWithAnElementFromArray.deps.json
+C:\Users\zhaol\source\repos\LeetCode\MaximumXORWithAnElementFromArray\bin\Debug\netcoreapp3.1\MaximumXORWithAnElementFromArray.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\MaximumXORWithAnElementFromArray\bin\Debug\netcoreapp3.1\MaximumXORWithAnElementFromArray.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\MaximumXORWithAnElementFromArray\bin\Debug\netcoreapp3.1\MaximumXORWithAnElementFromArray.dll
+C:\Users\zhaol\source\repos\LeetCode\MaximumXORWithAnElementFromArray\bin\Debug\netcoreapp3.1\MaximumXORWithAnElementFromArray.pdb
+C:\Users\zhaol\source\repos\LeetCode\MaximumXORWithAnElementFromArray\obj\Debug\netcoreapp3.1\MaximumXORWithAnElementFromArray.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\MaximumXORWithAnElementFromArray\obj\Debug\netcoreapp3.1\MaximumXORWithAnElementFromArray.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\MaximumXORWithAnElementFromArray\obj\Debug\netcoreapp3.1\MaximumXORWithAnElementFromArray.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\MaximumXORWithAnElementFromArray\obj\Debug\netcoreapp3.1\MaximumXORWithAnElementFromArray.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\MaximumXORWithAnElementFromArray\obj\Debug\netcoreapp3.1\MaximumXORWithAnElementFromArray.dll
+C:\Users\zhaol\source\repos\LeetCode\MaximumXORWithAnElementFromArray\obj\Debug\netcoreapp3.1\MaximumXORWithAnElementFromArray.pdb
+C:\Users\zhaol\source\repos\LeetCode\MaximumXORWithAnElementFromArray\obj\Debug\netcoreapp3.1\MaximumXORWithAnElementFromArray.genruntimeconfig.cache

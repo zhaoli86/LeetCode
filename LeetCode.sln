@@ -233,17 +233,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeneralizedAbbreviation", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalindromePartitioning", "PalindromePartitioning\PalindromePartitioning.csproj", "{FDDB8B1C-0F5E-4C67-8F96-3EAF07CEF57E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordSearch", "WordSearch\WordSearch.csproj", "{0F7F4614-D456-4005-A254-5F6A17AB979E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordSearch", "WordSearch\WordSearch.csproj", "{0F7F4614-D456-4005-A254-5F6A17AB979E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordSearchII", "WordSearchII\WordSearchII.csproj", "{6BB5C2B2-1FB3-4609-AB11-E67AAE1C4017}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordSearchII", "WordSearchII\WordSearchII.csproj", "{6BB5C2B2-1FB3-4609-AB11-E67AAE1C4017}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumUniqueWordAbbreviation", "MinimumUniqueWordAbbreviation\MinimumUniqueWordAbbreviation.csproj", "{FCF82C8A-FB24-4123-9F9B-2A47C3EC48B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimumUniqueWordAbbreviation", "MinimumUniqueWordAbbreviation\MinimumUniqueWordAbbreviation.csproj", "{FCF82C8A-FB24-4123-9F9B-2A47C3EC48B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementTrie", "ImplementTrie\ImplementTrie.csproj", "{EA4D8701-2147-40E3-A340-48F439FEAB6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImplementTrie", "ImplementTrie\ImplementTrie.csproj", "{EA4D8701-2147-40E3-A340-48F439FEAB6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignAddAndSearchWordsDataStructure", "DesignAddAndSearchWordsDataStructure\DesignAddAndSearchWordsDataStructure.csproj", "{5861F129-A1A2-4136-9B16-92865F16F029}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignAddAndSearchWordsDataStructure", "DesignAddAndSearchWordsDataStructure\DesignAddAndSearchWordsDataStructure.csproj", "{5861F129-A1A2-4136-9B16-92865F16F029}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrefixAndSuffixSearch", "PrefixAndSuffixSearch\PrefixAndSuffixSearch.csproj", "{2435E771-5249-43F2-AC61-622FD22D01A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrefixAndSuffixSearch", "PrefixAndSuffixSearch\PrefixAndSuffixSearch.csproj", "{2435E771-5249-43F2-AC61-622FD22D01A8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximumXOROfTwoNumberInArray", "MaximumXOROfTwoNumberInArray\MaximumXOROfTwoNumberInArray.csproj", "{B1123809-3BE6-4FB9-9465-7FB0B08F4C97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromePairs", "PalindromePairs\PalindromePairs.csproj", "{254661D6-7E84-420E-BC2D-FB0893AB4456}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumXORWithAnElementFromArray", "MaximumXORWithAnElementFromArray\MaximumXORWithAnElementFromArray.csproj", "{50D1AE4A-43BA-4CA0-8D24-1C8FE95586A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignSearchAutocompleteSystem", "DesignSearchAutocompleteSystem\DesignSearchAutocompleteSystem.csproj", "{0212A059-CEBC-42D6-A72A-643C6DB458B6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -723,6 +731,22 @@ Global
 		{2435E771-5249-43F2-AC61-622FD22D01A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2435E771-5249-43F2-AC61-622FD22D01A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2435E771-5249-43F2-AC61-622FD22D01A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1123809-3BE6-4FB9-9465-7FB0B08F4C97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1123809-3BE6-4FB9-9465-7FB0B08F4C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1123809-3BE6-4FB9-9465-7FB0B08F4C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1123809-3BE6-4FB9-9465-7FB0B08F4C97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{254661D6-7E84-420E-BC2D-FB0893AB4456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{254661D6-7E84-420E-BC2D-FB0893AB4456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{254661D6-7E84-420E-BC2D-FB0893AB4456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{254661D6-7E84-420E-BC2D-FB0893AB4456}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50D1AE4A-43BA-4CA0-8D24-1C8FE95586A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50D1AE4A-43BA-4CA0-8D24-1C8FE95586A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50D1AE4A-43BA-4CA0-8D24-1C8FE95586A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50D1AE4A-43BA-4CA0-8D24-1C8FE95586A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0212A059-CEBC-42D6-A72A-643C6DB458B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0212A059-CEBC-42D6-A72A-643C6DB458B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0212A059-CEBC-42D6-A72A-643C6DB458B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0212A059-CEBC-42D6-A72A-643C6DB458B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -846,6 +870,10 @@ Global
 		{EA4D8701-2147-40E3-A340-48F439FEAB6A} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{5861F129-A1A2-4136-9B16-92865F16F029} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{2435E771-5249-43F2-AC61-622FD22D01A8} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{B1123809-3BE6-4FB9-9465-7FB0B08F4C97} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{254661D6-7E84-420E-BC2D-FB0893AB4456} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{50D1AE4A-43BA-4CA0-8D24-1C8FE95586A6} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{0212A059-CEBC-42D6-A72A-643C6DB458B6} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9932E0CB-C080-4D35-8DAD-DBAAF171EA4A}

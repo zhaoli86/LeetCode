@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\DesignSearchAutocompleteSystem\bin\Debug\netcoreapp3.1\DesignSearchAutocompleteSystem.exe
+C:\Users\zhaol\source\repos\LeetCode\DesignSearchAutocompleteSystem\bin\Debug\netcoreapp3.1\DesignSearchAutocompleteSystem.deps.json
+C:\Users\zhaol\source\repos\LeetCode\DesignSearchAutocompleteSystem\bin\Debug\netcoreapp3.1\DesignSearchAutocompleteSystem.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\DesignSearchAutocompleteSystem\bin\Debug\netcoreapp3.1\DesignSearchAutocompleteSystem.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\DesignSearchAutocompleteSystem\bin\Debug\netcoreapp3.1\DesignSearchAutocompleteSystem.dll
+C:\Users\zhaol\source\repos\LeetCode\DesignSearchAutocompleteSystem\bin\Debug\netcoreapp3.1\DesignSearchAutocompleteSystem.pdb
+C:\Users\zhaol\source\repos\LeetCode\DesignSearchAutocompleteSystem\obj\Debug\netcoreapp3.1\DesignSearchAutocompleteSystem.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\DesignSearchAutocompleteSystem\obj\Debug\netcoreapp3.1\DesignSearchAutocompleteSystem.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\DesignSearchAutocompleteSystem\obj\Debug\netcoreapp3.1\DesignSearchAutocompleteSystem.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\DesignSearchAutocompleteSystem\obj\Debug\netcoreapp3.1\DesignSearchAutocompleteSystem.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\DesignSearchAutocompleteSystem\obj\Debug\netcoreapp3.1\DesignSearchAutocompleteSystem.dll
+C:\Users\zhaol\source\repos\LeetCode\DesignSearchAutocompleteSystem\obj\Debug\netcoreapp3.1\DesignSearchAutocompleteSystem.pdb
+C:\Users\zhaol\source\repos\LeetCode\DesignSearchAutocompleteSystem\obj\Debug\netcoreapp3.1\DesignSearchAutocompleteSystem.genruntimeconfig.cache
