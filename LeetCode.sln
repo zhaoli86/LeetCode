@@ -253,6 +253,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumXORWithAnElementFrom
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignSearchAutocompleteSystem", "DesignSearchAutocompleteSystem\DesignSearchAutocompleteSystem.csproj", "{0212A059-CEBC-42D6-A72A-643C6DB458B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LowestCommonAncestorOfBinarySearchTree", "LowestCommonAncestorOfBinarySearchTree\LowestCommonAncestorOfBinarySearchTree.csproj", "{43EEF4C8-7C24-412C-93BE-B44836F53F50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LowestCommonAncestorOfBinaryTree", "LowestCommonAncestorOfBinaryTree\LowestCommonAncestorOfBinaryTree.csproj", "{4296643B-3B1E-450E-BDE8-DC8DD4C13F4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LowestCommonAncestorOfBinaryTreeII", "LowestCommonAncestorOfBinaryTreeII\LowestCommonAncestorOfBinaryTreeII.csproj", "{B7DA028C-25D2-4CAE-B108-6977AB9D8A6C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -747,6 +753,18 @@ Global
 		{0212A059-CEBC-42D6-A72A-643C6DB458B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0212A059-CEBC-42D6-A72A-643C6DB458B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0212A059-CEBC-42D6-A72A-643C6DB458B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43EEF4C8-7C24-412C-93BE-B44836F53F50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43EEF4C8-7C24-412C-93BE-B44836F53F50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43EEF4C8-7C24-412C-93BE-B44836F53F50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43EEF4C8-7C24-412C-93BE-B44836F53F50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4296643B-3B1E-450E-BDE8-DC8DD4C13F4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4296643B-3B1E-450E-BDE8-DC8DD4C13F4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4296643B-3B1E-450E-BDE8-DC8DD4C13F4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4296643B-3B1E-450E-BDE8-DC8DD4C13F4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7DA028C-25D2-4CAE-B108-6977AB9D8A6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7DA028C-25D2-4CAE-B108-6977AB9D8A6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7DA028C-25D2-4CAE-B108-6977AB9D8A6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7DA028C-25D2-4CAE-B108-6977AB9D8A6C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -874,6 +892,9 @@ Global
 		{254661D6-7E84-420E-BC2D-FB0893AB4456} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{50D1AE4A-43BA-4CA0-8D24-1C8FE95586A6} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{0212A059-CEBC-42D6-A72A-643C6DB458B6} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{43EEF4C8-7C24-412C-93BE-B44836F53F50} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{4296643B-3B1E-450E-BDE8-DC8DD4C13F4A} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{B7DA028C-25D2-4CAE-B108-6977AB9D8A6C} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9932E0CB-C080-4D35-8DAD-DBAAF171EA4A}
