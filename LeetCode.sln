@@ -263,6 +263,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LowestCommonAncestorOfBinar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LowestCommonAncestorOfBinaryTreeIV", "LowestCommonAncestorOfBinaryTreeIV\LowestCommonAncestorOfBinaryTreeIV.csproj", "{D75B73DB-E21E-404A-84BF-B4E37C9B47E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindDistanceInBinaryTree", "FindDistanceInBinaryTree\FindDistanceInBinaryTree.csproj", "{D86F2F3A-B940-41AD-9319-83282A4D0A4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecoverBinarySearchTree", "RecoverBinarySearchTree\RecoverBinarySearchTree.csproj", "{5DAEA8EB-BA0D-4AD8-84A1-30736B28C5E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -777,6 +781,14 @@ Global
 		{D75B73DB-E21E-404A-84BF-B4E37C9B47E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D75B73DB-E21E-404A-84BF-B4E37C9B47E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D75B73DB-E21E-404A-84BF-B4E37C9B47E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D86F2F3A-B940-41AD-9319-83282A4D0A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D86F2F3A-B940-41AD-9319-83282A4D0A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D86F2F3A-B940-41AD-9319-83282A4D0A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D86F2F3A-B940-41AD-9319-83282A4D0A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DAEA8EB-BA0D-4AD8-84A1-30736B28C5E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DAEA8EB-BA0D-4AD8-84A1-30736B28C5E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DAEA8EB-BA0D-4AD8-84A1-30736B28C5E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DAEA8EB-BA0D-4AD8-84A1-30736B28C5E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -909,6 +921,8 @@ Global
 		{B7DA028C-25D2-4CAE-B108-6977AB9D8A6C} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{5A9C00FB-3DCF-4A44-B07B-E6DF1F3A401C} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{D75B73DB-E21E-404A-84BF-B4E37C9B47E0} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{D86F2F3A-B940-41AD-9319-83282A4D0A4A} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{5DAEA8EB-BA0D-4AD8-84A1-30736B28C5E4} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9932E0CB-C080-4D35-8DAD-DBAAF171EA4A}
