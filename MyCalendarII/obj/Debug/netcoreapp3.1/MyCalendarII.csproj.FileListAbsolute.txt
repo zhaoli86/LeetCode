@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\MyCalendarII\bin\Debug\netcoreapp3.1\MyCalendarII.exe
+C:\Users\zhaol\source\repos\LeetCode\MyCalendarII\bin\Debug\netcoreapp3.1\MyCalendarII.deps.json
+C:\Users\zhaol\source\repos\LeetCode\MyCalendarII\bin\Debug\netcoreapp3.1\MyCalendarII.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\MyCalendarII\bin\Debug\netcoreapp3.1\MyCalendarII.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\MyCalendarII\bin\Debug\netcoreapp3.1\MyCalendarII.dll
+C:\Users\zhaol\source\repos\LeetCode\MyCalendarII\bin\Debug\netcoreapp3.1\MyCalendarII.pdb
+C:\Users\zhaol\source\repos\LeetCode\MyCalendarII\obj\Debug\netcoreapp3.1\MyCalendarII.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\MyCalendarII\obj\Debug\netcoreapp3.1\MyCalendarII.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\MyCalendarII\obj\Debug\netcoreapp3.1\MyCalendarII.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\MyCalendarII\obj\Debug\netcoreapp3.1\MyCalendarII.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\MyCalendarII\obj\Debug\netcoreapp3.1\MyCalendarII.dll
+C:\Users\zhaol\source\repos\LeetCode\MyCalendarII\obj\Debug\netcoreapp3.1\MyCalendarII.pdb
+C:\Users\zhaol\source\repos\LeetCode\MyCalendarII\obj\Debug\netcoreapp3.1\MyCalendarII.genruntimeconfig.cache

@@ -247,25 +247,33 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrefixAndSuffixSearch", "Pr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximumXOROfTwoNumberInArray", "MaximumXOROfTwoNumberInArray\MaximumXOROfTwoNumberInArray.csproj", "{B1123809-3BE6-4FB9-9465-7FB0B08F4C97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromePairs", "PalindromePairs\PalindromePairs.csproj", "{254661D6-7E84-420E-BC2D-FB0893AB4456}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalindromePairs", "PalindromePairs\PalindromePairs.csproj", "{254661D6-7E84-420E-BC2D-FB0893AB4456}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumXORWithAnElementFromArray", "MaximumXORWithAnElementFromArray\MaximumXORWithAnElementFromArray.csproj", "{50D1AE4A-43BA-4CA0-8D24-1C8FE95586A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximumXORWithAnElementFromArray", "MaximumXORWithAnElementFromArray\MaximumXORWithAnElementFromArray.csproj", "{50D1AE4A-43BA-4CA0-8D24-1C8FE95586A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignSearchAutocompleteSystem", "DesignSearchAutocompleteSystem\DesignSearchAutocompleteSystem.csproj", "{0212A059-CEBC-42D6-A72A-643C6DB458B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignSearchAutocompleteSystem", "DesignSearchAutocompleteSystem\DesignSearchAutocompleteSystem.csproj", "{0212A059-CEBC-42D6-A72A-643C6DB458B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LowestCommonAncestorOfBinarySearchTree", "LowestCommonAncestorOfBinarySearchTree\LowestCommonAncestorOfBinarySearchTree.csproj", "{43EEF4C8-7C24-412C-93BE-B44836F53F50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LowestCommonAncestorOfBinarySearchTree", "LowestCommonAncestorOfBinarySearchTree\LowestCommonAncestorOfBinarySearchTree.csproj", "{43EEF4C8-7C24-412C-93BE-B44836F53F50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LowestCommonAncestorOfBinaryTree", "LowestCommonAncestorOfBinaryTree\LowestCommonAncestorOfBinaryTree.csproj", "{4296643B-3B1E-450E-BDE8-DC8DD4C13F4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LowestCommonAncestorOfBinaryTree", "LowestCommonAncestorOfBinaryTree\LowestCommonAncestorOfBinaryTree.csproj", "{4296643B-3B1E-450E-BDE8-DC8DD4C13F4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LowestCommonAncestorOfBinaryTreeII", "LowestCommonAncestorOfBinaryTreeII\LowestCommonAncestorOfBinaryTreeII.csproj", "{B7DA028C-25D2-4CAE-B108-6977AB9D8A6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LowestCommonAncestorOfBinaryTreeII", "LowestCommonAncestorOfBinaryTreeII\LowestCommonAncestorOfBinaryTreeII.csproj", "{B7DA028C-25D2-4CAE-B108-6977AB9D8A6C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LowestCommonAncestorOfBinaryTreeIII", "LowestCommonAncestorOfBinaryTreeIII\LowestCommonAncestorOfBinaryTreeIII.csproj", "{5A9C00FB-3DCF-4A44-B07B-E6DF1F3A401C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LowestCommonAncestorOfBinaryTreeIII", "LowestCommonAncestorOfBinaryTreeIII\LowestCommonAncestorOfBinaryTreeIII.csproj", "{5A9C00FB-3DCF-4A44-B07B-E6DF1F3A401C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LowestCommonAncestorOfBinaryTreeIV", "LowestCommonAncestorOfBinaryTreeIV\LowestCommonAncestorOfBinaryTreeIV.csproj", "{D75B73DB-E21E-404A-84BF-B4E37C9B47E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LowestCommonAncestorOfBinaryTreeIV", "LowestCommonAncestorOfBinaryTreeIV\LowestCommonAncestorOfBinaryTreeIV.csproj", "{D75B73DB-E21E-404A-84BF-B4E37C9B47E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindDistanceInBinaryTree", "FindDistanceInBinaryTree\FindDistanceInBinaryTree.csproj", "{D86F2F3A-B940-41AD-9319-83282A4D0A4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindDistanceInBinaryTree", "FindDistanceInBinaryTree\FindDistanceInBinaryTree.csproj", "{D86F2F3A-B940-41AD-9319-83282A4D0A4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecoverBinarySearchTree", "RecoverBinarySearchTree\RecoverBinarySearchTree.csproj", "{5DAEA8EB-BA0D-4AD8-84A1-30736B28C5E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecoverBinarySearchTree", "RecoverBinarySearchTree\RecoverBinarySearchTree.csproj", "{5DAEA8EB-BA0D-4AD8-84A1-30736B28C5E4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MeetingRooms", "MeetingRooms\MeetingRooms.csproj", "{7F516A3D-E1EA-4598-B3CD-00AB0C0F4F90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeetingRoomsII", "MeetingRoomsII\MeetingRoomsII.csproj", "{B36DAB2E-176A-4C5B-BCC4-3BF801D02356}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCalendarI", "MyCalendarI\MyCalendarI.csproj", "{46D10D79-FD6B-438E-BED4-AA111D457810}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCalendarII", "MyCalendarII\MyCalendarII.csproj", "{B4BAE665-CBA8-49E5-B048-F45AD15DD332}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -789,6 +797,22 @@ Global
 		{5DAEA8EB-BA0D-4AD8-84A1-30736B28C5E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DAEA8EB-BA0D-4AD8-84A1-30736B28C5E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DAEA8EB-BA0D-4AD8-84A1-30736B28C5E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F516A3D-E1EA-4598-B3CD-00AB0C0F4F90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F516A3D-E1EA-4598-B3CD-00AB0C0F4F90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F516A3D-E1EA-4598-B3CD-00AB0C0F4F90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F516A3D-E1EA-4598-B3CD-00AB0C0F4F90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B36DAB2E-176A-4C5B-BCC4-3BF801D02356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B36DAB2E-176A-4C5B-BCC4-3BF801D02356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B36DAB2E-176A-4C5B-BCC4-3BF801D02356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B36DAB2E-176A-4C5B-BCC4-3BF801D02356}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46D10D79-FD6B-438E-BED4-AA111D457810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46D10D79-FD6B-438E-BED4-AA111D457810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46D10D79-FD6B-438E-BED4-AA111D457810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46D10D79-FD6B-438E-BED4-AA111D457810}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4BAE665-CBA8-49E5-B048-F45AD15DD332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4BAE665-CBA8-49E5-B048-F45AD15DD332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4BAE665-CBA8-49E5-B048-F45AD15DD332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4BAE665-CBA8-49E5-B048-F45AD15DD332}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -923,6 +947,10 @@ Global
 		{D75B73DB-E21E-404A-84BF-B4E37C9B47E0} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{D86F2F3A-B940-41AD-9319-83282A4D0A4A} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{5DAEA8EB-BA0D-4AD8-84A1-30736B28C5E4} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{7F516A3D-E1EA-4598-B3CD-00AB0C0F4F90} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{B36DAB2E-176A-4C5B-BCC4-3BF801D02356} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{46D10D79-FD6B-438E-BED4-AA111D457810} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{B4BAE665-CBA8-49E5-B048-F45AD15DD332} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9932E0CB-C080-4D35-8DAD-DBAAF171EA4A}
