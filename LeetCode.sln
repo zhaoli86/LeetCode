@@ -279,15 +279,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyCalendarIII", "MyCalendar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeInterval", "MergeInterval\MergeInterval.csproj", "{B73A9AE5-FCEA-47B1-8712-4CF84721BE69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntervalListIntersections", "IntervalListIntersections\IntervalListIntersections.csproj", "{86576C2A-585C-4E63-A40F-232E43702C4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntervalListIntersections", "IntervalListIntersections\IntervalListIntersections.csproj", "{86576C2A-585C-4E63-A40F-232E43702C4C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertInterval", "InsertInterval\InsertInterval.csproj", "{883CFD71-357A-4EEC-849B-2370DDA93E6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InsertInterval", "InsertInterval\InsertInterval.csproj", "{883CFD71-357A-4EEC-849B-2370DDA93E6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveInterval", "RemoveInterval\RemoveInterval.csproj", "{EB24952C-14D5-4AB3-BEFD-E632D53F71FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveInterval", "RemoveInterval\RemoveInterval.csproj", "{EB24952C-14D5-4AB3-BEFD-E632D53F71FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NonOverlappingIntervals", "NonOverlappingIntervals\NonOverlappingIntervals.csproj", "{C00C20D4-2AA3-4EF9-877D-AFFB1703A236}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NonOverlappingIntervals", "NonOverlappingIntervals\NonOverlappingIntervals.csproj", "{C00C20D4-2AA3-4EF9-877D-AFFB1703A236}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveCoveredIntervals", "RemoveCoveredIntervals\RemoveCoveredIntervals.csproj", "{89A9DA83-3082-4A90-A3A4-A9D42667127D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveCoveredIntervals", "RemoveCoveredIntervals\RemoveCoveredIntervals.csproj", "{89A9DA83-3082-4A90-A3A4-A9D42667127D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimumNumberOfArrowsToBurstBalloons", "MinimumNumberOfArrowsToBurstBalloons\MinimumNumberOfArrowsToBurstBalloons.csproj", "{C27960EF-9B71-4F3B-A9E6-013172069F5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeetingScheduler", "MeetingScheduler\MeetingScheduler.csproj", "{EEBFC385-E319-45F4-8D54-69712263E582}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -855,6 +859,14 @@ Global
 		{89A9DA83-3082-4A90-A3A4-A9D42667127D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89A9DA83-3082-4A90-A3A4-A9D42667127D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89A9DA83-3082-4A90-A3A4-A9D42667127D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C27960EF-9B71-4F3B-A9E6-013172069F5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C27960EF-9B71-4F3B-A9E6-013172069F5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C27960EF-9B71-4F3B-A9E6-013172069F5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C27960EF-9B71-4F3B-A9E6-013172069F5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEBFC385-E319-45F4-8D54-69712263E582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEBFC385-E319-45F4-8D54-69712263E582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEBFC385-E319-45F4-8D54-69712263E582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEBFC385-E319-45F4-8D54-69712263E582}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1000,6 +1012,8 @@ Global
 		{EB24952C-14D5-4AB3-BEFD-E632D53F71FE} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{C00C20D4-2AA3-4EF9-877D-AFFB1703A236} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{89A9DA83-3082-4A90-A3A4-A9D42667127D} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{C27960EF-9B71-4F3B-A9E6-013172069F5B} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{EEBFC385-E319-45F4-8D54-69712263E582} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9932E0CB-C080-4D35-8DAD-DBAAF171EA4A}
