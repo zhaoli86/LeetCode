@@ -301,6 +301,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerfectRectangle", "Perfect
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkylineProblem", "SkylineProblem\SkylineProblem.csproj", "{1532D479-BF50-41A1-AB6F-4016C45477AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrumpyBookstoreOwner", "GrumpyBookstoreOwner\GrumpyBookstoreOwner.csproj", "{0C619B96-C9BE-4F57-A140-0F89C742A27C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortestSubarrayToBeRemovedToMakeArraySorted", "ShortestSubarrayToBeRemovedToMakeArraySorted\ShortestSubarrayToBeRemovedToMakeArraySorted.csproj", "{319DC273-A16A-4566-B20B-04708563A17A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -891,6 +895,14 @@ Global
 		{1532D479-BF50-41A1-AB6F-4016C45477AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1532D479-BF50-41A1-AB6F-4016C45477AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1532D479-BF50-41A1-AB6F-4016C45477AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C619B96-C9BE-4F57-A140-0F89C742A27C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C619B96-C9BE-4F57-A140-0F89C742A27C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C619B96-C9BE-4F57-A140-0F89C742A27C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C619B96-C9BE-4F57-A140-0F89C742A27C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{319DC273-A16A-4566-B20B-04708563A17A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{319DC273-A16A-4566-B20B-04708563A17A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{319DC273-A16A-4566-B20B-04708563A17A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{319DC273-A16A-4566-B20B-04708563A17A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1042,6 +1054,8 @@ Global
 		{D874EC53-987E-4C28-A036-DA53BA4416CE} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{6CF4263C-8680-4B5B-8176-5EEC76A750D9} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 		{1532D479-BF50-41A1-AB6F-4016C45477AD} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{0C619B96-C9BE-4F57-A140-0F89C742A27C} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
+		{319DC273-A16A-4566-B20B-04708563A17A} = {3D638725-3CA7-49FE-AB14-4C07834768AB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9932E0CB-C080-4D35-8DAD-DBAAF171EA4A}
