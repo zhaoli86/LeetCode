@@ -1,29 +1,30 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace RemoveAllAdjacentDuplicatesInString
 {
     public class Solution
     {
-        public string RemoveDuplicates(string S)
+        public string RemoveDuplicates(string s)
         {
             var duplicates = new HashSet<string>();
             for (char c = 'a'; c <= 'z'; c++)
             {
-                duplicates.Add(string.Join("", new[] { c, c }));
+                duplicates.Add(c.ToString()+c.ToString());
             }
 
             int prevLen = -1;
-            while (prevLen!=S.Length)
+            while (prevLen!=s.Length)
             {
-                prevLen = S.Length;
+                prevLen = s.Length;
                 foreach (var item in duplicates)
                 {
-                    S = S.Replace(item, "");
+                    s = s.Replace(item, "");
                 }
             }
-            return S;
+            return s;
         }
     }
 
@@ -45,6 +46,36 @@ namespace RemoveAllAdjacentDuplicatesInString
             }
             return sb.ToString();
         }
+    }
+
+    public class Solution3
+    {
+        public string RemoveDuplicates(string s)
+        {
+            var stack = new Stack<char>();
+            foreach (var ch in s)
+            {
+                if (stack.Count!=0)
+                {
+                    if (stack.Peek()==ch)
+                    {
+                        stack.Pop();
+                    }
+                    else
+                    {
+                        stack.Push(ch);
+                    }
+                }
+                else
+                {
+                    stack.Push(ch);
+                }
+
+            }
+
+            return new string(stack.Reverse().ToArray());
+        }
+
     }
     class Program
     {

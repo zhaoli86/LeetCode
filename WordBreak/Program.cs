@@ -7,26 +7,23 @@ namespace WordBreak
     {
         public bool WordBreak(string s, IList<string> words)
         {
-            var dp = new bool[s.Length + 1];
+            int len = s.Length;
+            var dp = new bool[len + 1];
             dp[0] = true;
-
-            for (int len = 1; len <= s.Length; len++)
+            for (int i = 1; i <= len; i++)
             {
                 foreach (var word in words)
                 {
-                    if (word.Length<=len)
+                    if (i>=word.Length&& dp[i-word.Length]&&s.Substring(i-word.Length, word.Length)==word)
                     {
-                        if (dp[len-word.Length]&&s.Substring(len-word.Length, word.Length)==word)
-                        {
-                            dp[len] = true;
-                            break;
-                        }
+                        dp[i] = true;
+                        break;
                     }
                 }
             }
-            return dp[s.Length];
+            return dp[len];
         }
-
+     
     }
 
     class Program

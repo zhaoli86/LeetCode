@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\KthLargestElementInArray\bin\Debug\netcoreapp3.1\KthLargestElementInArray.exe
+C:\Users\zhaol\source\repos\LeetCode\KthLargestElementInArray\bin\Debug\netcoreapp3.1\KthLargestElementInArray.deps.json
+C:\Users\zhaol\source\repos\LeetCode\KthLargestElementInArray\bin\Debug\netcoreapp3.1\KthLargestElementInArray.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\KthLargestElementInArray\bin\Debug\netcoreapp3.1\KthLargestElementInArray.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\KthLargestElementInArray\bin\Debug\netcoreapp3.1\KthLargestElementInArray.dll
+C:\Users\zhaol\source\repos\LeetCode\KthLargestElementInArray\bin\Debug\netcoreapp3.1\KthLargestElementInArray.pdb
+C:\Users\zhaol\source\repos\LeetCode\KthLargestElementInArray\obj\Debug\netcoreapp3.1\KthLargestElementInArray.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\KthLargestElementInArray\obj\Debug\netcoreapp3.1\KthLargestElementInArray.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\KthLargestElementInArray\obj\Debug\netcoreapp3.1\KthLargestElementInArray.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\KthLargestElementInArray\obj\Debug\netcoreapp3.1\KthLargestElementInArray.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\KthLargestElementInArray\obj\Debug\netcoreapp3.1\KthLargestElementInArray.dll
+C:\Users\zhaol\source\repos\LeetCode\KthLargestElementInArray\obj\Debug\netcoreapp3.1\KthLargestElementInArray.pdb
+C:\Users\zhaol\source\repos\LeetCode\KthLargestElementInArray\obj\Debug\netcoreapp3.1\KthLargestElementInArray.genruntimeconfig.cache

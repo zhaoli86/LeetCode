@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\AddToArrayFormInteger\bin\Debug\netcoreapp3.1\AddToArrayFormInteger.exe
+C:\Users\zhaol\source\repos\LeetCode\AddToArrayFormInteger\bin\Debug\netcoreapp3.1\AddToArrayFormInteger.deps.json
+C:\Users\zhaol\source\repos\LeetCode\AddToArrayFormInteger\bin\Debug\netcoreapp3.1\AddToArrayFormInteger.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\AddToArrayFormInteger\bin\Debug\netcoreapp3.1\AddToArrayFormInteger.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\AddToArrayFormInteger\bin\Debug\netcoreapp3.1\AddToArrayFormInteger.dll
+C:\Users\zhaol\source\repos\LeetCode\AddToArrayFormInteger\bin\Debug\netcoreapp3.1\AddToArrayFormInteger.pdb
+C:\Users\zhaol\source\repos\LeetCode\AddToArrayFormInteger\obj\Debug\netcoreapp3.1\AddToArrayFormInteger.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\AddToArrayFormInteger\obj\Debug\netcoreapp3.1\AddToArrayFormInteger.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\AddToArrayFormInteger\obj\Debug\netcoreapp3.1\AddToArrayFormInteger.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\AddToArrayFormInteger\obj\Debug\netcoreapp3.1\AddToArrayFormInteger.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\AddToArrayFormInteger\obj\Debug\netcoreapp3.1\AddToArrayFormInteger.dll
+C:\Users\zhaol\source\repos\LeetCode\AddToArrayFormInteger\obj\Debug\netcoreapp3.1\AddToArrayFormInteger.pdb
+C:\Users\zhaol\source\repos\LeetCode\AddToArrayFormInteger\obj\Debug\netcoreapp3.1\AddToArrayFormInteger.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\SubarraySumEqualsK\bin\Debug\netcoreapp3.1\SubarraySumEqualsK.exe
+C:\Users\zhaol\source\repos\LeetCode\SubarraySumEqualsK\bin\Debug\netcoreapp3.1\SubarraySumEqualsK.deps.json
+C:\Users\zhaol\source\repos\LeetCode\SubarraySumEqualsK\bin\Debug\netcoreapp3.1\SubarraySumEqualsK.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\SubarraySumEqualsK\bin\Debug\netcoreapp3.1\SubarraySumEqualsK.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\SubarraySumEqualsK\bin\Debug\netcoreapp3.1\SubarraySumEqualsK.dll
+C:\Users\zhaol\source\repos\LeetCode\SubarraySumEqualsK\bin\Debug\netcoreapp3.1\SubarraySumEqualsK.pdb
+C:\Users\zhaol\source\repos\LeetCode\SubarraySumEqualsK\obj\Debug\netcoreapp3.1\SubarraySumEqualsK.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\SubarraySumEqualsK\obj\Debug\netcoreapp3.1\SubarraySumEqualsK.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\SubarraySumEqualsK\obj\Debug\netcoreapp3.1\SubarraySumEqualsK.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\SubarraySumEqualsK\obj\Debug\netcoreapp3.1\SubarraySumEqualsK.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\SubarraySumEqualsK\obj\Debug\netcoreapp3.1\SubarraySumEqualsK.dll
+C:\Users\zhaol\source\repos\LeetCode\SubarraySumEqualsK\obj\Debug\netcoreapp3.1\SubarraySumEqualsK.pdb
+C:\Users\zhaol\source\repos\LeetCode\SubarraySumEqualsK\obj\Debug\netcoreapp3.1\SubarraySumEqualsK.genruntimeconfig.cache
