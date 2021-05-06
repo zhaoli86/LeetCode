@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace TopKFrequentElements
 {
@@ -7,24 +8,20 @@ namespace TopKFrequentElements
     {
         public int[] TopKFrequent(int[] nums, int k)
         {
-            var frequencies = new Dictionary<int, int>();
-            var buckets = new List<int>[nums.Length + 1];
+            var map = new Dictionary<int, int>();
             foreach (var num in nums)
             {
-                if (frequencies.ContainsKey(num))
+                if (map.ContainsKey(num))
                 {
-                    frequencies[num]++;
+                    map[num]++;
                 }
                 else
                 {
-                    frequencies[num] = 1;
+                    map[num] = 1;
                 }
             }
+            return map.OrderByDescending(kvp => kvp.Value).Take(k).Select(k => k.Key).ToArray();
 
-            foreach (var key in frequencies.Keys)
-            {
-
-            }
         }
     }
 

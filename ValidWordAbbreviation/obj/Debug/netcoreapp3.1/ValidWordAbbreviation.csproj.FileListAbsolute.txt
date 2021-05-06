@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\ValidWordAbbreviation\bin\Debug\netcoreapp3.1\ValidWordAbbreviation.exe
+C:\Users\zhaol\source\repos\LeetCode\ValidWordAbbreviation\bin\Debug\netcoreapp3.1\ValidWordAbbreviation.deps.json
+C:\Users\zhaol\source\repos\LeetCode\ValidWordAbbreviation\bin\Debug\netcoreapp3.1\ValidWordAbbreviation.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\ValidWordAbbreviation\bin\Debug\netcoreapp3.1\ValidWordAbbreviation.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\ValidWordAbbreviation\bin\Debug\netcoreapp3.1\ValidWordAbbreviation.dll
+C:\Users\zhaol\source\repos\LeetCode\ValidWordAbbreviation\bin\Debug\netcoreapp3.1\ValidWordAbbreviation.pdb
+C:\Users\zhaol\source\repos\LeetCode\ValidWordAbbreviation\obj\Debug\netcoreapp3.1\ValidWordAbbreviation.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\ValidWordAbbreviation\obj\Debug\netcoreapp3.1\ValidWordAbbreviation.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\ValidWordAbbreviation\obj\Debug\netcoreapp3.1\ValidWordAbbreviation.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\ValidWordAbbreviation\obj\Debug\netcoreapp3.1\ValidWordAbbreviation.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\ValidWordAbbreviation\obj\Debug\netcoreapp3.1\ValidWordAbbreviation.dll
+C:\Users\zhaol\source\repos\LeetCode\ValidWordAbbreviation\obj\Debug\netcoreapp3.1\ValidWordAbbreviation.pdb
+C:\Users\zhaol\source\repos\LeetCode\ValidWordAbbreviation\obj\Debug\netcoreapp3.1\ValidWordAbbreviation.genruntimeconfig.cache

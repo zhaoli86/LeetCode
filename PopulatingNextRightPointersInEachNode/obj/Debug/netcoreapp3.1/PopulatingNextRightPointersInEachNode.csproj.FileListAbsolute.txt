@@ -1,0 +1,13 @@
+C:\Users\zhaol\source\repos\LeetCode\PopulatingNextRightPointersInEachNode\bin\Debug\netcoreapp3.1\PopulatingNextRightPointersInEachNode.exe
+C:\Users\zhaol\source\repos\LeetCode\PopulatingNextRightPointersInEachNode\bin\Debug\netcoreapp3.1\PopulatingNextRightPointersInEachNode.deps.json
+C:\Users\zhaol\source\repos\LeetCode\PopulatingNextRightPointersInEachNode\bin\Debug\netcoreapp3.1\PopulatingNextRightPointersInEachNode.runtimeconfig.json
+C:\Users\zhaol\source\repos\LeetCode\PopulatingNextRightPointersInEachNode\bin\Debug\netcoreapp3.1\PopulatingNextRightPointersInEachNode.runtimeconfig.dev.json
+C:\Users\zhaol\source\repos\LeetCode\PopulatingNextRightPointersInEachNode\bin\Debug\netcoreapp3.1\PopulatingNextRightPointersInEachNode.dll
+C:\Users\zhaol\source\repos\LeetCode\PopulatingNextRightPointersInEachNode\bin\Debug\netcoreapp3.1\PopulatingNextRightPointersInEachNode.pdb
+C:\Users\zhaol\source\repos\LeetCode\PopulatingNextRightPointersInEachNode\obj\Debug\netcoreapp3.1\PopulatingNextRightPointersInEachNode.csprojAssemblyReference.cache
+C:\Users\zhaol\source\repos\LeetCode\PopulatingNextRightPointersInEachNode\obj\Debug\netcoreapp3.1\PopulatingNextRightPointersInEachNode.AssemblyInfoInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\PopulatingNextRightPointersInEachNode\obj\Debug\netcoreapp3.1\PopulatingNextRightPointersInEachNode.AssemblyInfo.cs
+C:\Users\zhaol\source\repos\LeetCode\PopulatingNextRightPointersInEachNode\obj\Debug\netcoreapp3.1\PopulatingNextRightPointersInEachNode.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\source\repos\LeetCode\PopulatingNextRightPointersInEachNode\obj\Debug\netcoreapp3.1\PopulatingNextRightPointersInEachNode.dll
+C:\Users\zhaol\source\repos\LeetCode\PopulatingNextRightPointersInEachNode\obj\Debug\netcoreapp3.1\PopulatingNextRightPointersInEachNode.pdb
+C:\Users\zhaol\source\repos\LeetCode\PopulatingNextRightPointersInEachNode\obj\Debug\netcoreapp3.1\PopulatingNextRightPointersInEachNode.genruntimeconfig.cache
